@@ -3,26 +3,68 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/post/</loc>
-    <lastmod>2024-04-07T00:00:00+00:00</lastmod>
+    <lastmod>2024-04-10T19:44:13+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-04-07T00:00:00+00:00</lastmod>
+    <lastmod>2024-04-10T19:44:13+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2024/04/07/hello-world/</loc>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2024-04-09T15:58:48+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/condiciones-de-vida/</loc>
+    <lastmod>2024-04-09T15:58:48+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-04-09T15:58:48+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/trabajar/</loc>
+    <lastmod>2024-04-09T15:58:48+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/trabajar/</loc>
+    <lastmod>2024-04-09T15:58:48+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/trabajo/</loc>
+    <lastmod>2024-04-09T15:58:48+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/vivir/</loc>
+    <lastmod>2024-04-09T15:58:48+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/antes-de-venir/</loc>
+    <lastmod>2024-04-09T15:58:31+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/general/</loc>
+    <lastmod>2024-04-09T15:58:31+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/geografia/</loc>
+    <lastmod>2024-04-09T15:58:31+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/curiosidades/</loc>
+    <lastmod>2024-04-09T15:58:23+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/tiempo/</loc>
+    <lastmod>2024-04-09T15:58:23+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/vivir/</loc>
+    <lastmod>2024-04-09T15:58:23+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/anmeldung/</loc>
+    <lastmod>2024-04-09T15:58:03+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/burocracia/</loc>
+    <lastmod>2024-04-09T15:58:03+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/primeros-pasos/</loc>
+    <lastmod>2024-04-09T15:58:03+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/primeros-pasos/</loc>
     <lastmod>2024-04-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/notes/</loc>
-  </url><url>
     <loc>http://localhost:1313/search/placeholder/</loc>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/archive/</loc>
   </url><url>
     <loc>http://localhost:1313/search/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
