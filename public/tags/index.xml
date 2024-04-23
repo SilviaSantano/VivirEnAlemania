@@ -6,48 +6,34 @@
     <description>Recent content in Tags on Vivir en Alemania</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ES</language>
-    <lastBuildDate>Tue, 09 Apr 2024 15:58:48 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Condiciones De Vida</title>
-      <link>http://localhost:1313/tags/condiciones-de-vida/</link>
-      <pubDate>Tue, 09 Apr 2024 15:58:48 +0200</pubDate>
-      <guid>http://localhost:1313/tags/condiciones-de-vida/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Trabajo</title>
-      <link>http://localhost:1313/tags/trabajo/</link>
-      <pubDate>Tue, 09 Apr 2024 15:58:48 +0200</pubDate>
-      <guid>http://localhost:1313/tags/trabajo/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>General</title>
-      <link>http://localhost:1313/tags/general/</link>
-      <pubDate>Tue, 09 Apr 2024 15:58:31 +0200</pubDate>
-      <guid>http://localhost:1313/tags/general/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Vivir</title>
-      <link>http://localhost:1313/tags/vivir/</link>
-      <pubDate>Tue, 09 Apr 2024 15:58:23 +0200</pubDate>
-      <guid>http://localhost:1313/tags/vivir/</guid>
-      <description></description>
-    </item>
     <item>
       <title>Burocracia</title>
       <link>http://localhost:1313/tags/burocracia/</link>
-      <pubDate>Tue, 09 Apr 2024 15:58:03 +0200</pubDate>
+      <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/burocracia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Finanzas</title>
+      <link>http://localhost:1313/tags/finanzas/</link>
+      <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/finanzas/</guid>
       <description></description>
     </item>
     <item>
       <title>Primeros Pasos</title>
       <link>http://localhost:1313/tags/primeros-pasos/</link>
-      <pubDate>Tue, 09 Apr 2024 15:58:03 +0200</pubDate>
+      <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/primeros-pasos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Empadronamiento</title>
+      <link>http://localhost:1313/tags/empadronamiento/</link>
+      <pubDate>Sun, 21 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/empadronamiento/</guid>
       <description></description>
     </item>
   </channel>
