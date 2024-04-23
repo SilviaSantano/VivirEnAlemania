@@ -7,6 +7,7 @@ date:       2024-04-07
 image:      "img/cologne.jpeg"
 tags:        ["Primeros pasos", "Burocracia"]
 categories:  ["Antes de venir", "Vivir", "Trabajar", "Curiosidades"]
+draft: true
 ---
 
 

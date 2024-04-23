@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Primeros Pasos on Vivir en Alemania</title>
+    <link>http://localhost:1313/categories/primeros-pasos/</link>
+    <description>Recent content in Primeros Pasos on Vivir en Alemania</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-ES</language>
+    <lastBuildDate>Fri, 03 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/primeros-pasos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SCHUFA</title>
+      <link>http://localhost:1313/post/schufa/</link>
+      <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/schufa/</guid>
+      <description>¿Qué es la SCHUFA en Alemania? Cuando vives en Alemania, existen muchas situaciones en las que oyes la palabra Schufa. El caso más común es que te la pidan en procesos como el de alquilar o comprar una vivienda o pedir un préstamo, entre otros, pero, ¿qué es eso de la Schufa?&#xA;Schufa es una contracción en alemán que viene de Schutzgemeinschaft für allgemeine Kreditsicherung (obvio, ¿qué va ser si no?</description>
+    </item>
+    <item>
+      <title>Cuenta de banco</title>
+      <link>http://localhost:1313/post/cuenta-banco/</link>
+      <pubDate>Wed, 24 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/cuenta-banco/</guid>
+      <description>Cómo abrir una cuenta bancaria en Alemania en 2024 ¿Acabas de mudarte a Alemania o estás pensando en mudarte? Ya sea que vayas a estudiar o trabajar, seguramente necesitarás abrir una cuenta de banco. Al principio, abrir una cuenta bancaria puede parecer algo difícil para muchos pero he de decir que nunca había sido tan fácil como lo es ahora. Hace tan solo unos años, algo tan necesario como abrir una cuenta bancaria era todo una odisea llena de obstáculos y trabas innecesarias.</description>
+    </item>
+    <item>
+      <title>Cómo hacer el Anmeldung en Alemania</title>
+      <link>http://localhost:1313/post/anmeldung/</link>
+      <pubDate>Sun, 21 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/anmeldung/</guid>
+      <description>Cómo hacer el Anmeldung o empadronamiento en Alemania en 2024 Probablemente el trámite más importante que tienes que hacer cuando llegas a Alemania es el Anmeldung (empadronamiento). Este trámite es legalmente obligatorio para estancias superiores a tres meses y también esencial para poder obtener un número de identificación fiscal, necesario para poder trabajar, así como para obtener un contrato laboral, pedir un visado, abrir una cuenta de banco, contratar un seguro médico, darte de alta en un gimnasio, contratar un servicio de internet o teléfono, comprar una tarjeta SIM alemana y otros muchos trámites.</description>
+    </item>
+  </channel>
+</rss>
