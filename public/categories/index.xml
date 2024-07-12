@@ -6,19 +6,26 @@
     <description>Recent content in Categories on Vivir en Alemania</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ES</language>
-    <lastBuildDate>Fri, 03 May 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Curiosidades</title>
+      <link>http://localhost:1313/categories/curiosidades/</link>
+      <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/curiosidades/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Primeros Pasos</title>
       <link>http://localhost:1313/categories/primeros-pasos/</link>
-      <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/categories/primeros-pasos/</guid>
       <description></description>
     </item>
     <item>
       <title>Vivir</title>
       <link>http://localhost:1313/categories/vivir/</link>
-      <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/categories/vivir/</guid>
       <description></description>
     </item>
@@ -27,13 +34,6 @@
       <link>http://localhost:1313/categories/trabajar/</link>
       <pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/categories/trabajar/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Curiosidades</title>
-      <link>http://localhost:1313/categories/curiosidades/</link>
-      <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/curiosidades/</guid>
       <description></description>
     </item>
   </channel>
