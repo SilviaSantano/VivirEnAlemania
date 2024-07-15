@@ -15,5 +15,19 @@
       <guid>http://localhost:1313/post/ciudades/</guid>
       <description>Vivir en Alemania en 2024 Alemania, con más de 84 millones de habitantes, es el país más poblado de la Unión Europea en 2024. Es un país que ofrece a sus habitantes una alta calidad de vida, ya que cuenta con un sólido sistema de bienestar, buenas oportunidades y condiciones laborales, seguridad, estabilidad económica y una buena conciliación familiar. De hecho, se encuentra entre las naciones con jornadas de trabajo más cortas y más vacaciones y días festivos en el mundo.</description>
     </item>
+    <item>
+      <title>Pfand</title>
+      <link>http://localhost:1313/post/pfand/</link>
+      <pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/pfand/</guid>
+      <description>Pfandsystem: cómo funciona el reciclaje de botellas en Alemania ¿Sabías que en Alemania las botellas usadas se devuelven para reutilizarse o reciclarse y, al hacerlo, te devuelven una parte del importe pagado?&#xA;En Alemania, la ley de depósito para envases, conocida como Pfand, se implementa desde enero de 2003. El sistema de depósito (Pfandsystem) es un sistema muy extendido en Alemania para recoger envases de bebidas usados ​​y reciclarlos. Para ello, se cobra al consumidor en muchos envases de bebidas adecuados un pequeño depósito de entre 8 y 25 céntimos de euro al comprar las bebidas, y estos lo reciben íntegramente de vuelta si los devuelven correctamente.</description>
+    </item>
+    <item>
+      <title>Propinas en Alemania</title>
+      <link>http://localhost:1313/post/propinas/</link>
+      <pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/propinas/</guid>
+      <description>Propinas: ¿Son obligatorias en Alemania? ¿Cuánto hay que dejar de propina? Si vas a viajar a Alemania o incluso si planeas quedarte por más tiempo, puede ser que en algún momento te hagas estas preguntas. El momento de pagar en un lugar desconocido se puede convertir en algo incómodo cuando nos damos cuenta de que no conocemos las costumbres y lo que se espera de nosotros en lo que a propinas se refiere.</description>
+    </item>
   </channel>
 </rss>

@@ -1,6 +1,10 @@
 ---
-title: "Basuras"
-date: 2024-04-10T19:42:42+02:00
+title: "Reciclar en Alemania"
+subtitle: "Cómo funciona el sistema de recogida de basuras"
+date: 2024-07-15
+tags:        ["Vida"]
+categories:  ["Curiosidades"]
 draft: true
 ---
 
+# Cómo funciona el sistema de recogida de basuras en Alemania
