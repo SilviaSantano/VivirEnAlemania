@@ -9,8 +9,8 @@
                 col-md-10 col-md-offset-1
                 post-container">
 
-         	{{ .Content }}
-                {{ partial "comments.html" . }}
+         	<!--{{ .Content }}
+                {{ partial "comments.html" . }}-->
 
             </div>
             <!-- Sidebar Container -->
@@ -23,7 +23,7 @@
                 {{ if .Site.Params.featured_tags }}
                 <section>
                     <hr class="hidden-sm hidden-xs">
-                    <h5><a href="{{ .Site.BaseURL | relLangURL }}/tags/">TAGS</a></h5>
+                    <h5><a href="{{ "/tags/" | relLangURL }}">ETIQUETAS</a></h5>
                     <div class="tags">
                         {{ $featured_condition_size := .Site.Params.featured_condition_size }}
                         {{ range $name, $taxonomy := .Site.Taxonomies.tags }}

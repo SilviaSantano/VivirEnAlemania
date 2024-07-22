@@ -3,7 +3,6 @@
 <article>
     <div class="container">
         <div class="row">
-
             <!-- Post Container -->
             <div class="
                 col-lg-8 col-lg-offset-2
@@ -30,12 +29,12 @@
                     {{ if .PrevInSection }}
                     <li class="previous">
                         <a href="{{ .PrevInSection.RelPermalink }}" data-toggle="tooltip" data-placement="top" title="{{ .PrevInSection.Title}}">&larr;
-                            Previous Post</a>
+                            Post anterior</a>
                     </li>
                     {{ end }}
                     {{ if .NextInSection }}
                     <li class="next">
-                        <a href="{{ .NextInSection.RelPermalink }}" data-toggle="tooltip" data-placement="top" title="{{ .NextInSection.Title}}">Next
+                        <a href="{{ .NextInSection.RelPermalink }}" data-toggle="tooltip" data-placement="top" title="{{ .NextInSection.Title}}">Siguiente
                             Post &rarr;</a>
                     </li>
                     {{ end }}
@@ -72,7 +71,7 @@
                 {{ if .Site.Params.featured_tags }}
                 <section>
                     <hr class="hidden-sm hidden-xs">
-                    <h5><a href="{{ "/tags/" | relLangURL }}">TAGS</a></h5>
+                    <h5><a href="{{ "/tags/" | relLangURL }}">ETIQUETAS</a></h5>
                     <div class="tags">
                         {{ $featured_condition_size := .Site.Params.featured_condition_size }}
                         {{ range $name, $taxonomy := .Site.Taxonomies.tags }}

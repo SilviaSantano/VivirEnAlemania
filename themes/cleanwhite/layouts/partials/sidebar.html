@@ -222,7 +222,7 @@
     {{ if .Site.Params.featured_tags }}
     <section>
         <hr class="hidden-sm hidden-xs">
-        <h5><a href="{{ "/tags/" | relLangURL }}">TAGS</a></h5>
+        <h5><a href="{{ "/tags/" | relLangURL }}">ETIQUETAS</a></h5>
         <div class="tags">
             {{ $featured_condition_size := .Site.Params.featured_condition_size }}
             {{ range $name, $taxonomy := .Site.Taxonomies.tags }}

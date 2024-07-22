@@ -59,15 +59,7 @@
                 col-lg-8 col-lg-offset-2
                 col-md-10 col-md-offset-1
                 post-container">
-
-                <!--
-                {{ if not (eq (.Param "showtoc") false) }}
-                <header>
-                    <h2>TOC</h2>
-                </header>
-                {{.TableOfContents}}
-                {{ end }}
-                -->
+                
                 {{ .Content }}
 
                 {{ if .Site.Params.reward }}
@@ -80,12 +72,12 @@
                     {{ if .PrevInSection }}
                     <li class="previous">
                         <a href="{{ .PrevInSection.RelPermalink }}" data-toggle="tooltip" data-placement="top" title="{{ .PrevInSection.Title}}">&larr;
-                            Previous Post</a>
+                            Post Anterior</a>
                     </li>
                     {{ end }}
                     {{ if .NextInSection }}
                     <li class="next">
-                        <a href="{{ .NextInSection.RelPermalink }}" data-toggle="tooltip" data-placement="top" title="{{ .NextInSection.Title}}">Next
+                        <a href="{{ .NextInSection.RelPermalink }}" data-toggle="tooltip" data-placement="top" title="{{ .NextInSection.Title}}">Siguiente
                             Post &rarr;</a>
                     </li>
                     {{ end }}
@@ -122,7 +114,7 @@
                 {{ if .Site.Params.featured_tags }}
                 <section>
                     <hr class="hidden-sm hidden-xs">
-                    <h5><a href="{{ "/tags/" | relLangURL }}">TAGS</a></h5>
+                    <h5><a href="{{ "/tags/" | relLangURL }}">ETIQUETAS</a></h5>
                     <div class="tags">
                         {{ $featured_condition_size := .Site.Params.featured_condition_size }}
                         {{ range $name, $taxonomy := .Site.Taxonomies.tags }}

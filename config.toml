@@ -13,9 +13,7 @@ defaultContentLanguage = "es" # Set Spanish as the default language
 [services]
   [services.googleAnalytics]
     ID = 'G-RM4F6789VS'
-
-# Enable comments by entering your Disqus shortname
-disqusShortname = ""
+    
 preserveTaxonomyNames = true
 paginate = 5 #frontpage pagination
 hasCJKLanguage = true

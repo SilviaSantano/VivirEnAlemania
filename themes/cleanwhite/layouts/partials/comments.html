@@ -1,45 +1,9 @@
-
-{{ if .Site.Params.disqus_proxy }}
-<!-- disqus 评论框 end -->
-<div id="disqus-comment"></div>
-<script src="{{ "js/iDisqus.js" | relURL }}"></script>
-<script>
-var disq = new iDisqus('disqus-comment', {
-    forum: '{{ .Site.DisqusShortname}}',
-    api: '{{ .Site.Params.disqus_proxy }}',
-	site: '{{ .Site.Params.disqus_site }}',
-    mode: 1,
-    timeout: 5000,
-    init: true,
-    emojiPreview: true
-});
-</script>
-{{ else if .Site.DisqusShortname }}
-<!-- disqus 评论框 end -->
-<div id="disqus-comment"></div>
-{{ template "_internal/disqus.html" . }}
-{{ else if .Site.Params.twikoo_env_id }}
-<div id="twikoo-tcomment"></div>
-<script src="https://cdn.jsdelivr.net/npm/twikoo@1.4.14/dist/twikoo.all.min.js"></script>
-<script>
-    twikoo.init({
-        envId: '{{ .Site.Params.twikoo_env_id }}',
-        el: '#twikoo-tcomment',
-    })
-</script>
-{{ end }}
-{{ if .Site.Params.giscus }}
-<script src="https://giscus.app/client.js"
-        data-repo="{{ .Site.Params.giscus.data_repo}}"
-        data-repo-id="{{ .Site.Params.giscus.data_repo_id}}"
-        data-category="{{ .Site.Params.giscus.data_category}}"
-        data-category-id="{{ .Site.Params.giscus.data_category_id}}"
-        data-mapping="{{ .Site.Params.giscus.data_mapping}}"
-        data-reactions-enabled="{{ .Site.Params.giscus.data_reactions_enabled}}"
-        data-emit-metadata="{{ .Site.Params.giscus.data_emit_metadata}}"
-        data-theme="{{ .Site.Params.giscus.data_theme}}"
-        data-lang="{{ .Site.Params.giscus.data_lang}}"
-        crossorigin="{{ .Site.Params.giscus.crossorigin}}"
-        async>
-</script>
-{{ end }}
+<!-- Comments by Cusdis -->
+<h1>Preguntas y Comentarios</h1><br>
+<div id="cusdis_thread"
+    data-host="https://cusdis.com"
+    data-app-id="23a3db4d-da90-4f9f-a902-5eee0231b944"
+    data-page-id="{{ .Title }}"
+    data-page-title="{{ .Title }}"></div>
+<script defer src="https://cusdis.com/js/widget/lang/es.js"></script>
+<script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
