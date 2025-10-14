@@ -1,12 +1,13 @@
 ---
 title: "¿Cuántos impuestos se pagan en Alemania?"
-subtitle: "Retenciones salariales en Alemania en 2024"
-date: 2024-04-26
+subtitle: "Retenciones salariales en Alemania en 2025"
+date: 2025-04-26
+lastmod: 2025-10-13
 tags:        ["Finanzas", "Burocracia"]
 categories:  ["Vivir", "Trabajar"]
 ---
 
-# ¿Qué impuestos se pagan en Alemania en 2024?
+# ¿Qué impuestos se pagan en Alemania en 2025?
 ¿Estás trabajando o te gustaría trabajar en Alemania? Algo importante que tienes que saber es que si ganas dinero en Alemania, tu ingreso estará sujeto a diferentes tipos de deducciones como, por ejemplo, el impuesto sobre la renta, la cuota de la seguridad social o los seguros de pensiones y de desempleo, entre otros. 
 
 Alemania ofrece muchos apoyos y ayudas sociales en el caso de que los ciudadanos/as se queden sin trabajo, caigan enfermos o necesiten otras ayudas en situaciones  como el nacimiento de los hijos. Para poder pagar todo esto, la otra cara de la moneda es que en Alemania se pagan **muchos impuestos**, que son las fuentes de ingresos más importantes para el Estado, con la que financia gastos para el bien común. Este podría ser un artículo en el que me quejo del complejo sistema fiscal, de lo altos que son los impuestos y de las leyes alemanas en general y bla, bla, bla. En lugar de eso (quizá otro día ya lo haré) voy a dedicarlo a describirlos **detalladamente** para que tengas bien claro cuáles son todos los impuestos que se tienen que pagar en Alemania. Además, como ya ves, es mucho lo que el Estado ofrece a cambio.
@@ -22,19 +23,19 @@ Cuánto te corresponde pagar depende de varios factores.
 En primer lugar, existen diferentes **tramos**, cada cual con un tipo impositivo diferente, que va aumentando progresivamente de manera proporcional al salario.
 El hecho de que suba progresivamente y no escalonadamente es, en realidad, un punto importante y una gran ventaja, ya que así no se producen grandes saltos de una tramo al siguiente en el caso de que se produzca un aumento de sueldo. Al recibir, por tanto, un aumento de sueldo, los impuestos aumentarán con él pero no será una gran cantidad de golpe (lo cual podría equiparar la subida o incluso dejarte con menos dinero neto que antes de la subida) sino que lo hacen paulatinamente.
 
-En cuanto a los tramos, para que veas como es la fórmula exacta que se aplica para el año fiscal 2024 tal cual para calcular la deducción según tu sueldo de acuerdo a [§ 32a EStG](http://www.bmf-steuerrechner.de/):
+En cuanto a los tramos, para que veas como es la fórmula exacta que se aplica para el año fiscal 2025 tal cual para calcular la deducción según tu sueldo de acuerdo a [§ 32a EStG](http://www.bmf-steuerrechner.de/):
 
-a) bis 11.604 € (Grundfreibetrag): 0;
+a) bis 12.084 € (Grundfreibetrag): 0;
 
-b) 11.605 € bis 17.005 €:
+b) 12.084 € bis 17.430 €:
 ESt = (922,98 * y + 1.400) * y;
 y = (zvE - 11.604) / 10.000
 
-c) 17.006 € bis 66.760 €: 
+c) 17.430 € bis 68.430 €: 
 ESt = (181,19 * z + 2.397) * z + 1.025,38
 z = (zvE - 17.005) / 10.000
 
-d) 66.761 € bis 277.825 €: 
+d) 68.430 € bis 277.825 €: 
 ESt = 0,42 * zvE - 10.602,13;
 
 e) ab 277.826 €: ESt = 0,45 * zvE - 18.936,88
@@ -57,24 +58,24 @@ Los impuestos de la seguridad social o [*Sozialversicherung*](https://www.bmas.d
 ## Coste del seguro de pensiones en Alemania (Rentenversicherung)
 El seguro de pensiones o *Rentenversicherung* es obligatorio para prácticamente todos los trabajadores con muy pocas excepciones y tiene como objetivo, evidentemente, pagar las pensiones de las personas jubiladas.
 
-La contribución para los asegurados del **seguro de pensiones** se calcula en base a sus ingresos. La tasa general de cotización en 2024 es del 18,6% del salario bruto, de los cuales el empleado y el empleador pagan cada uno la mitad. Es decir, al trabajador el seguro de enfermedad le cuesta el **9,3% de su salario**. 
+La contribución para los asegurados del **seguro de pensiones** se calcula en base a sus ingresos. La tasa general de cotización en 2025 es del 18,6% del salario bruto, de los cuales el empleado y el empleador pagan cada uno la mitad. Es decir, al trabajador el seguro de pensiones le cuesta el **9,3% de su salario**. 
 
 ## Coste del seguro de enfermedad en Alemania (Krankenversicherung)
 La siguiente deducción de la nómina es el **seguro de enfermedad** o *Krankenversicherung*, que es obligatorio para todas las personas que vivan en Alemania. A partir de un salario estipulado, se puede puede elegir entre el sistema público o el privado, pero por debajo de ese límite es obligatorio formar parte del sistema público. Es la rama más antigua del sistema de seguridad social alemán y tiene como fin "mantener o restablecer la salud del asegurado/a". Todas las personas aseguradas tienen derecho a prestaciones integrales y uniformes, independientemente de su capacidad financiera, y las cotizaciones dependen de los ingresos.
 
 El tema del seguro médico también es extenso y requiere un artículo propio, donde te explico todo lo que tienes que saber. Puedes encontrarlo [aquí](/post/seguro-medico).
 
-La contribución para los asegurados se calcula en base a sus ingresos. La tasa general de cotización en 2024 es del 14,6% del salario bruto, de los cuales el empleado y el empleador pagan cada uno la mitad. Es decir, al trabajador el seguro de enfermedad le cuesta el **7,3% de su salario**. 
+La contribución para los asegurados se calcula en base a sus ingresos. La tasa general de cotización en 2025 es del 14,6% del salario bruto, de los cuales el empleado y el empleador pagan cada uno la mitad. Es decir, al trabajador el seguro de enfermedad le cuesta el **7,3% de su salario**. 
 
 ## Coste del seguro de dependencia o asistencia en Alemania (Pflegeversicherung)
 El seguro de dependencia o *Pflegeversicherung* también es obligatorio para prácticamente todos los trabajadores con muy pocas excepciones y su fin es cubrir prestaciones de ayuda en caso de dependencia.
 
-Como en todos los otros casos, a contribución para los asegurados del **seguro de dependencia** se calcula en base a sus ingresos. La tasa general de cotización en 2024 es del 3,4% del salario bruto, de los cuales el empleado y el empleador pagan cada uno la mitad. Es decir, al trabajador el seguro de enfermedad le cuesta el **1,7% de su salario**. 
+Como en todos los otros casos, a contribución para los asegurados del **seguro de dependencia** se calcula en base a sus ingresos. La tasa general de cotización en 2025 es del 3,6% del salario bruto, de los cuales el empleado y el empleador pagan cada uno la mitad. Es decir, al trabajador el seguro de dependencia le cuesta el **1,8% de su salario**. 
 
 ## Coste del seguro de desempleo en Alemania (Arbeitslosenversicherung)
 El **seguro de desempleo** o *Arbeitslosenversicherung* también es obligatorio para prácticamente todos los trabajadores con muy pocas excepciones y su fin es cubrir prestaciones por desempleo (paro) cuando las personas se quedan sin trabajo.
 
-Como en todos los otros casos, a contribución para los asegurados se calcula en base a sus ingresos. La tasa general de cotización en 2024 es del 2,6% del salario bruto, de los cuales el empleado y el empleador pagan cada uno la mitad. Es decir, al trabajador el seguro de enfermedad le cuesta el **1,3% de su salario**.  
+Como en todos los otros casos, a contribución para los asegurados se calcula en base a sus ingresos. La tasa general de cotización en 2025 es del 2,6% del salario bruto, de los cuales el empleado y el empleador pagan cada uno la mitad. Es decir, al trabajador el seguro de desempleo le cuesta el **1,3% de su salario**.  
 
 ## Coste del seguro de accidentes en Alemania (Unfallversicherung)
 También pertence a este grupo el *Unfallversicherung* o **seguro de accidentes**, también obligatorio. No obstante, este lo paga el empleador al 100%. Por lo tanto, no pagarás nada como trabajador/a, a no ser que trabajes por cuenta propia.
@@ -114,6 +115,8 @@ Existe también el impuesto por la radio y televisión públicas que **todas** l
 - Impuestos sobre bienes inmuebles
 - Impuestos sobre sucesiones y donaciones
 - etc, etc, etc
+
+Todos los valores mencionados se refieren a los impuestos de 2025. Ten en cuenta que se suelen actualizar y cambian cada año.
 
 ## TLDR; Todo esto de los impuestos es un lío y no entiendo nada
 Estoy contigo. Este tema es muy lioso. Por si te está entrando dolor de cabeza de solo leer toda esta información, aquí te dejo un resumen con menos datos y un cálculo de ejemplo, sencillo de seguir, para que te hagas una idea.

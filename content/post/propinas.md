@@ -2,6 +2,7 @@
 title: "Propinas en Alemania"
 subtitle: "¿Son obligatorias las propinas en Alemania?"
 date: 2024-07-11
+lastmod: 2025-10-14
 tags:        ["Vida"]
 categories:  ["Curiosidades", "Vivir"]
 ---

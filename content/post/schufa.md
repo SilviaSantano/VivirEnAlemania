@@ -2,6 +2,7 @@
 title: "SCHUFA"
 subtitle: "Qué es la Schufa en Alemania"
 date: 2024-05-03
+lastmod: 2025-10-11
 tags:        ["Finanzas", "Primeros pasos", "Burocracia"]
 categories:  ["Vivir", "Primeros pasos"]
 ---

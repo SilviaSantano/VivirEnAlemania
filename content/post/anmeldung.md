@@ -1,16 +1,24 @@
 ---
 title: "Cómo hacer el Anmeldung en Alemania"
 subtitle: "Empadronarse en Alemania"
-date: 2024-04-21
-lastmod: 2024-04-22
+date: 2025-04-21
+lastmod: 2025-10-12
 tags:        ["Primeros pasos", "Burocracia", "Empadronamiento"]
 categories:  ["Primeros pasos", "Vivir"]
 ---
 
-# Cómo hacer el Anmeldung o empadronamiento en Alemania en 2024
+# Cómo hacer el Anmeldung o empadronamiento en Alemania en 2025
 Probablemente el trámite más importante que tienes que hacer cuando llegas a Alemania es el **Anmeldung** (empadronamiento). Este trámite es legalmente obligatorio para estancias superiores a tres meses y también esencial para poder obtener un número de identificación fiscal, necesario para poder trabajar, así como para obtener un contrato laboral, pedir un visado, abrir una cuenta de banco, contratar un seguro médico, darte de alta en un gimnasio, contratar un servicio de internet o teléfono, comprar una tarjeta SIM alemana y otros muchos trámites. Una vez hecho, tendrás el **Meldebescheinigung**, el documento que certifica tu residencia y que, como ya estás viendo, vas a necesitar casi para cualquier cosa.
 
 El proceso de empadronamiento en Alemania puede suponer un desafío estresante, ya que debe hacerse obligatoriamente de manera presencial, dentro de unos plazos, y no siempre existe la posibilidad de hacerlo en un idioma distinto al alemán. Por eso, vamos a detallar todos los pasos necesarios para que familiarices con el proceso y te resulte lo más sencillo posible.
+
+# ¿Se puede hacer el Anmeldung o empadronamiento online?
+Al contrario de lo que mucha gente piensa, Alemania no está a la cabeza en lo que a digitalización se refiere. De hecho, cualquiera que haya vivido allí se reiría si oye decir eso, ya que van muy por detrás aunque, lentamente, intenten corregirlo. En algunas ciudades, finalmente, se ha comenzado a ofrecer el servicio de empadronamiento online. Según su [página web](https://serviceportal.gemeinsamonline.de/Onlinedienste/Service/Entry/EWA), a día de hoy, son estas: Berlín, Bremen, Hamburgo, Renania-Palatinado, Schleswig-Holstein, así como en muchos municipios de Baden-Wurtemberg, Baviera, Brandeburgo, Hesse, Mecklemburgo-Pomerania Occidental, Baja Sajonia, Renania del Norte-Westfalia, Sajonia, Sajonia-Anhalt y Turingia.
+
+Sin embargo, con algunas restricciones. En algunas ocasiones, sólo es posible usarlo para Unmeldung, es decir, cambiar tu residencia fiscal de una dirección a otra, estado ambas en territorio alemán, y no para la primera residencia que tengas en el país. Otra restricción importante es que parece que necesitas tener un Ausweis (DNI alemán) para poder realizar el proceso, al menos, de momento. Con lo que, si eres extranjero/a, probablemente no lo tengas. 
+En las instrucciones dice que con un documento de la EU y un lector se puede realizar,identificándote en línea, creando una cuenta en BundID. Sin embargo, al intentar seguir los pasos, te das cuenta de que aún teniendo activa la cuenta de BundID y que hayas conseguido leer satisfactoriamente tu documento de identidad, al pasar al siguiente paso te pide instalar la aplicación Ausweis, que sólo lee documentos alemanes... lo cual es bastante frustrante, ya que prometen otra cosa.
+
+Cada día, poco a poco, se van modernizando. Por lo tanto, puede que para tu ciudad próximamente exista esta posibilidad y esté implementado mejor, y no tengas los problemas mencionados. Compruébalo y, si no se puede, no hay más remedio que ir a hacerlo en persona como toda la vida.
 
 
 ## Dónde y cuándo hay que hacer el Anmeldung o empadronamiento

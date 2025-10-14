@@ -1,12 +1,13 @@
 ---
 title: "Cuenta de banco"
 subtitle: "Cómo abrir una cuenta bancaria en Alemania"
-date: 2024-04-24
+date: 2025-04-24
+lastmod: 2025-10-13
 tags:        ["Primeros pasos", "Burocracia", "Finanzas"]
 categories:  ["Vivir", "Primeros pasos"]
 ---
 
-# Cómo abrir una cuenta bancaria en Alemania en 2024
+# Cómo abrir una cuenta bancaria en Alemania en 2025
 ¿Acabas de mudarte a Alemania o estás pensando en mudarte? Ya sea que vayas a estudiar o trabajar, seguramente necesitarás abrir una cuenta de banco.
 Al principio, abrir una cuenta bancaria puede parecer algo difícil para muchos pero he de decir que nunca había sido tan fácil como lo es ahora. Hace tan solo unos años, algo tan necesario como abrir una cuenta bancaria era todo una odisea llena de obstáculos y trabas innecesarias. Por suerte, con la llegada de los bancos online, todo el proceso ha cambiado y, si te decides por esta opción, se puede hacer de manera más simple y cómoda. En este artículo, hemos recopilado información sobre cómo funciona el sistema bancario alemán y una lista de bancos en Alemania y vamos a explicar qué opciones tienes, cómo elegir la que mejor te convenga y cómo hacerlo.
 
@@ -49,7 +50,7 @@ Recuerda que los bancos alemanes rara vez ofrecen servicio de atención al clien
 Otro modo de verificación particular en Alemania que algunos bancos ofrecen es el *PostIdent*. Combinado con este método sí que podrías abrir la cuenta online pero me parece casi más complicado y fastidioso y no le termino de ver el beneficio. Este proceso se realiza con una hoja de verificación de identidad que descargas de la web del banco. Debes rellenarla y presentarla en una oficina de correos de Deutsche Post local junto con tu pasaporte o carnet de identidad. Allí te lo comprueban y te darán otro documento para firmar, que envían después a tu banco. Después, puedes esperar a que recibas la confirmación por correo postal.
 
 Los principales bancos son: Sparkasse, Deutsche Bank, Postbank, HypoVereinsBank y Commerzbank.
-Estas son las opciones actuales más relevantes en 2024 pero hay muchos bancos más. Para que te hagas una idea, esta es la lista completa de [instituciones financieras en Alemania](https://www.bde.es/webbe/es/estadisticas/otras-clasificaciones/clasificacion-entidades/listas-instituciones-financieras/listas-instituciones-financieras-monetarias-pais/lista-mfi-de.html). 
+Estas son las opciones actuales más relevantes en 2025 pero hay muchos bancos más. Para que te hagas una idea, esta es la lista completa de [instituciones financieras en Alemania](https://www.bde.es/webbe/es/estadisticas/otras-clasificaciones/clasificacion-entidades/listas-instituciones-financieras/listas-instituciones-financieras-monetarias-pais/lista-mfi-de.html). 
 
 Actualmente, estas son cuentas de tipo Girokonto (cuenta corriente) más ventajosas que ofrecen:
 #### Sparkasse
@@ -67,8 +68,8 @@ Actualmente, estas son cuentas de tipo Girokonto (cuenta corriente) más ventajo
 - Retiradas de efectivo ilimitadas gratuitas
 
 #### Commerzbank
-**[Girokonto Basic](https://www.commerzbank.de/konten-zahlungsverkehr/produkte/girokonten/kostenloses-girokonto/)**
-- Coste mensual de 9,90€ o **gratuita** con una nómina superior a 700€ mensuales
+**[Girokonto Basic](https://www.commerzbank.de/privatkunden/girokonten/girokonto-eroeffnen/)**
+- Coste mensual de 4,90€
 - Tarjeta de débito Girocard gratuita
 - Opcional: tarjeta de débito Mastercard por 3,50€ al mes (necesaria para pagos online y uso fuera de Alemania ya que la Girocard no funciona)
 - Cada transacción, cada pago, cada transferencia tiene un coste de 0,60€
@@ -76,14 +77,14 @@ Actualmente, estas son cuentas de tipo Girokonto (cuenta corriente) más ventajo
 
 #### Postbank
 **[Giro direkt](https://www.postbank.de/privatkunden/produkte/konten-karten/girokonten/giro-direkt.html)**
-- Coste mensual de 1,90€ 
+- Coste mensual de 5,90€ o **gratuita** con una nómina superior a 900€ mensuales
 - Tarjeta de débito Girocard y Maestro gratuita
 - Cada transacción, cada pago, cada transferencia tiene un coste de 0,50€
 - Retiradas de efectivo ilimitadas gratuitas
 
 #### HypoVereinsBank
 **[HVB PlusKonto](https://www.hypovereinsbank.de/hvb/privatkunden/banking-im-alltag/girokonten#parsys_mi_product_compariso_596859185)**
-- Gratuita por dos años, después coste mensual de 9,90€ 
+- Gratuita por dos años, después coste mensual de 14,90€ 
 - Tarjeta de débito Girocard y Visa gratuita
 - Tarjeta de crédito Mastercard gratuita
 - Transferencias gratuitas
@@ -125,10 +126,12 @@ Los bancos más populares y con mejores condiciones actualmente son: N26, DKB e 
 
 Actualmente, las tres, tanto DKB como ING me parecen las mejores opciones para abrir una cuenta. El proceso de registro en ambas es bastante sencillo y el envío de las tarjetas y claves para poder utilizar sus cuentas es bastante rápido. Aparte de eso, los costes son mínimos (prácticamente todo es gratuito siempre que se domicilie una nómina) y ofrecen una gran flexibilidad y facilidad de uso a través de la app. N26 también está bastante bien, salvando la limitación en las retiradas de cajero y que la tarjeta física hay que pagarla.
 
+¡Ojo! Algunos de estos bancos cobran comisiones por cosas como sacar dinero de algunos cajeros o usar tu tarjeta en el extranjero. Por tanto, comprueba esos costes de antemano, si quieres ahorrarte sorpresas, antes de elegir lo que más te convenga.
+
 ## Importante: tipos de tarjetas en Alemania
 Hay varios tipos de tarjetas:
 
-* **Electronic Cash (EC) Karte / Girocard**: tarjeta de débito tradicional alemana que puedes usar para realizar pagos y sacar dinero en cajeros. Es aceptada en todos los establecimientos en los que se aceptan tarjetas (ojo, que en Alemania en 2024 aún se prefiere e incluso se require el efectivo en muchísimos sitios), pero que no tiene los 16 dígitos que hacen falta para pagos online. El nombre correcto es *Girocard* pero verás que aunque hace ya muchos años que se le cambió el nombre, todo el mundo la sigue llamando por el antiguo: *EC-Karte*.
+* **Electronic Cash (EC) Karte / Girocard**: tarjeta de débito tradicional alemana que puedes usar para realizar pagos y sacar dinero en cajeros. Es aceptada en todos los establecimientos en los que se aceptan tarjetas (ojo, que en Alemania en 2025 aún se prefiere e incluso se require el efectivo en muchísimos sitios), pero que no tiene los 16 dígitos que hacen falta para pagos online. El nombre correcto es *Girocard* pero verás que aunque hace ya muchos años que se le cambió el nombre, todo el mundo la sigue llamando por el antiguo: *EC-Karte*.
 
 * **Debitkarte Maestro, Visa o Mastercard**: tarjeta de débito que puedes usar para realizar pagos y sacar dinero en cajeros, además de contar con los 16 dígitos para realizar pagos online.
 
@@ -139,7 +142,7 @@ Algunos bancos ofrecen una tarjeta que puede combinar dos de estos sistemas, que
 ## Pagos con tarjeta vs en efectivo en Alemania
 Lamentablemente, Alemania se moderniza muy lentamente en muchos aspectos y este es uno de ellos. Después de la pandemia de COVID19, muchos establecimientos se abrieron más al pago por tarjeta pero a día de hoy sigue siendo realmente común que en muchos (muchos muchos) establecimientos como tiendas y restaurantes solamente acepten pago en efectivo, incluso en restaurantes grandes y conocidos. Es algo que sucede cada día. 
 
-Cuando quieras y puedas pagar con tarjeta, solamente tendrás que decir "mit Karte, bitte!" (con tarjeta, por favor) a la hora de pagar ;).
+Cuando quieras y puedas pagar con tarjeta, solamente tendrás que decir "mit Karte, bitte!" (con tarjeta, por favor) a la hora de pagar.
 
 Hasta aquí esta explicación sobre los tipos de cuentas bancarias disponibles en Alemania y cómo abrir una cuenta. ¡Espero que te haya servido!
 

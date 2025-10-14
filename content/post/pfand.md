@@ -2,6 +2,7 @@
 title: "Pfand"
 subtitle: "Pfandsystem: cómo funciona el reciclaje de botellas en Alemania"
 date: 2024-07-11
+lastmod: 2025-10-11
 tags:        ["Vida"]
 categories:  ["Curiosidades", "Vivir"]
 ---
@@ -19,7 +20,7 @@ Esta medida se introdujo hace más de veinte años para combatir el por aquel en
 
 # Tipos de botellas y precio del depósito por botella/envase
 Existen diferentes tipos de envases. Dependiendo del tipo, el depósito será de **entre 0,08€ y 0,25€**.
-Las cajas de cervezas (*Bierkasten*) también tienen un depósito añadido de entre 0,75€ y 1,50€. 
+Las cajas de cervezas (*Bierkasten*) también tienen un depósito añadido de entre 0,75€ y 1,50€, según su tamaño. 
 
 - Botellas de cerveza:  0,08€
 - Latas de aluminio:  0,25€
@@ -27,6 +28,7 @@ Las cajas de cervezas (*Bierkasten*) también tienen un depósito añadido de en
 - Botellas de plástico o vidrio de múltiple uso (*Mehrweg*):  0,08€ to 0,15€2
 - Botes de yogur *Landliebe*
 - Algunas botellas de vino (pocas):  0,03€
+- Botellas de leche o productos derivados con más de un 50% de leche: 0,25€
 
 Hay botellas que son de un material más resistente y permiten ser reutilizadas (las vuelven a llenar, después de su limpieza), que son las marcadas con *Mehrweg*, *Pfand-Glas* o *Mehrwegflasche* en su etiqueta. Estas botellas, dependiendo del material, pueden llegar a utilizarse ¡hasta 50 veces!
 Hay otras que son de un tipo de plástico no reutilizable, que se reciclarán al devolverlas. Estas están marcadas como *Einweg* o *Einwegflasche*.
