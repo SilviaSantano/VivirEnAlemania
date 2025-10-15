@@ -4,7 +4,7 @@
     <title>Condiciones De Vida on Vivir en Alemania</title>
     <link>http://localhost:1313/tags/condiciones-de-vida/</link>
     <description>Recent content in Condiciones De Vida on Vivir en Alemania</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>es-ES</language>
     <lastBuildDate>Tue, 09 Apr 2024 15:58:48 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/condiciones-de-vida/index.xml" rel="self" type="application/rss+xml" />
@@ -14,13 +14,6 @@
       <pubDate>Tue, 09 Apr 2024 15:58:48 +0200</pubDate>
       <guid>http://localhost:1313/post/trabajar/</guid>
       <description></description>
-    </item>
-    <item>
-      <title>Tiempo</title>
-      <link>http://localhost:1313/post/tiempo/</link>
-      <pubDate>Tue, 09 Apr 2024 15:58:23 +0200</pubDate>
-      <guid>http://localhost:1313/post/tiempo/</guid>
-      <description>El tiempo en Alemania. </description>
     </item>
   </channel>
 </rss>
