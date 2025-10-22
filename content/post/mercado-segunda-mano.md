@@ -57,8 +57,6 @@ También existen subastas online y presenciales donde se pueden encontrar coches
 # ¿Dónde comprar bicicletas de segunda mano en Alemania?
 En Alemania, donde las bicicletas son parte de la cultura y un medio de transporte muy utilizado, tienes muchos opciones para comprar bicicletas de segunda mano.
 
-Existen plataformas online especializadas en bicicletas usadas, como [sellbis.de](https://www.sellbis.de).
-
 De nuevo, tenemos que volver a mencionar [Kleinanzeigen](https://www.kleinanzeigen.de/), que también aquí puede ayudarte. 
 
 Para comprarlas offline, tienes una muy buena opción que son los *Flohmärkte* (Mercados de Pulgas), com hemos comentado antes y algunos de ellos incluso están especializados en bicicletas. Son comunes en muchas ciudades alemanas y a menudo ofrecen bicicletas de segunda mano a precios atractivos. Busca por *Fahrradflohmarkt*.
