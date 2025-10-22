@@ -42,5 +42,5 @@ Una cosa en la que siempre tienes que pensar y confirmar con las personas con la
 
 Y hasta aquí este resumen sobre cómo son los horarios en Alemania. En general, va todo adelantado si lo comparamos con España. 
 
-¡Espero que hayas aprendido algo!
+¡Espero que hayas aprendido sobre los horarios en Alemania!
 

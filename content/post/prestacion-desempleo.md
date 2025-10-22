@@ -1,6 +1,7 @@
 ---
 title: "Cómo cobrar el paro o prestación por desempleo en Alemania"
 date: 2025-10-15
+lastmod: 2025-10-22
 tags:        ["Trabajo", "Desempleo", "Paro", "Dinero"]
 categories:  ["Trabajar", "Vivir"]
 ---
