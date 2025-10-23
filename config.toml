@@ -15,12 +15,12 @@ defaultContentLanguage = "es" # Set Spanish as the default language
     ID = 'G-RM4F6789VS'
     
 preserveTaxonomyNames = true
-paginate = 5 #frontpage pagination
+paginate = 15 #frontpage pagination
 hasCJKLanguage = true
 showtoc = true
 
 [outputs]
-home = ["HTML", "RSS", "Algolia"]
+home = ["HTML", "RSS"] #, "Algolia"
 
 [params]
   header_image = "img/cologne.jpeg"
@@ -31,8 +31,9 @@ home = ["HTML", "RSS", "Algolia"]
   upstreamAttribution = true
 
   tags = ["Blog", "Responsive", "Light"]
-  features = ["responsive", "comments", "sidebar", "search"]
+  features = ["responsive", "comments", "sidebar"] #search
   featured_tags = true 
+  featured_condition_size = 0
   catalog = true
 
   image_404 = "img/404-bg.jpg"
@@ -40,12 +41,10 @@ home = ["HTML", "RSS", "Algolia"]
   omit_categories = false
 
   # algolia site search
-  algolia_search = true
+  algolia_search = false
   algolia_appId = ""
   algolia_indexName = ""
   algolia_apiKey = ""
-
-  featured_condition_size = 1
 
   # Twikoo comments
   # Follow https://twikoo.js.org/ to set up your own env_id
@@ -80,11 +79,11 @@ home = ["HTML", "RSS", "Algolia"]
   title =  "ARCHIVO"
   href =  "/archive"
 
-[outputFormats.Algolia]
-baseName = "algolia"
-isPlainText = true
-mediaType = "application/json"
-notAlternative = true
+ #[outputFormats.Algolia]
+ #baseName = "algolia"
+ #isPlainText = true
+ #mediaType = "application/json"
+ #notAlternative = true
 
 [params.algolia]
 vars = ["title", "summary", "date", "publishdate", "expirydate", "permalink"]

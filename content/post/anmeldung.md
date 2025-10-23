@@ -1,7 +1,7 @@
 ---
 title: "Cómo hacer el Anmeldung en Alemania"
 subtitle: "Empadronarse en Alemania"
-date: 2025-04-21
+date: 2024-04-21
 lastmod: 2025-10-12
 tags:        ["Primeros pasos", "Burocracia", "Empadronamiento"]
 categories:  ["Primeros pasos", "Vivir"]

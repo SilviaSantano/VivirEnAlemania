@@ -1,7 +1,7 @@
 ---
 title: "Cuenta de banco"
 subtitle: "Cómo abrir una cuenta bancaria en Alemania"
-date: 2025-04-24
+date: 2024-04-24
 lastmod: 2025-10-13
 tags:        ["Primeros pasos", "Burocracia", "Finanzas"]
 categories:  ["Vivir", "Primeros pasos"]

@@ -30,12 +30,11 @@
         {{ end }}
         {{ else }}
             {{ end }}
-            {{ if .Params.lastmod }}
+            {{ if ne .Params.lastmod .Params.Date}}
             <br>Última actualización: {{ $month := index .Site.Data.months (printf "%d" (.Params.LastMod.Month)) }}
             {{ .Params.LastMod.Day }} de {{ $month }} de {{ .Params.LastMod.Year }}
-            {{ else }}
-            <br>Última actualización: {{ partial "spanish-date.html" . }}
             {{ end }}
+            <br>Fecha de publicación: {{ partial "spanish-date.html" . }}
     </p>
 
 </div>
