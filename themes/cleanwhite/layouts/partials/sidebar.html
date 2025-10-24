@@ -238,6 +238,7 @@
 
     <!-- Catalog -->
     <section>
+        {{ if .Params.Date }}
         <div class="
         col-lg-2 col-lg-offset-0
         visible-lg-block
@@ -251,6 +252,7 @@
             <ul class="catalog-body"></ul>
         </div>
     </div>
+    {{ end }}
     </section>
 
     <!-- Friends Blog -->
