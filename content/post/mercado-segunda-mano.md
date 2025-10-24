@@ -1,5 +1,6 @@
 ---
 title: "Mercado de Segunda Mano en Alemania"
+title: "Cómo comprar cosas de Segunda Mano en Alemania"
 date: 2025-10-21
 tags:        ["Ocio", "Cultura", "Compras"]
 categories:  ["Vivir", "Curiosidades"]
