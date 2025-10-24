@@ -1,6 +1,6 @@
 ---
 title: "Horarios en Alemania"
-title: "Cómo son los horarios en Alemania"
+subtitle: "Cómo son los horarios en Alemania"
 date: 2025-10-16
 tags:        ["Horarios", "Cultura", "Diferencias culturales"]
 categories:  ["Curiosidades", "Vivir"]
