@@ -2,8 +2,8 @@
 title: "Días festivos en Alemania"
 subtitle: "¿Cuántos días festivos hay en Alemania?"
 date: 2025-10-29
-tags:        ["Ocio", "Cultura"]
-categories:  ["Vivir", "Curiosidades"]
+tags:        ["Ocio", "Cultura", "Trabajo", "Tiempo libre"]
+categories:  ["Vivir", "Curiosidades", "Trabajar"]
 ---
 
 # ¿Cuántos días festivos hay en Alemania?
