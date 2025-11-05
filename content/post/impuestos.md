@@ -5,6 +5,7 @@ date: 2025-04-26
 lastmod: 2025-10-13
 tags:        ["Finanzas", "Burocracia"]
 categories:  ["Vivir", "Trabajar"]
+description: "¿Sabes cuántos impuestos se pagan en Alemania? Guía completa sobre los impuestos en Alemania en 2025, retenciones salariales, coste de la seguridad social en Alemania, IRPF, y más. Descubre todos los impuestos y cómo calcular el salario neto en Alemania."
 ---
 
 # ¿Qué impuestos se pagan en Alemania en 2025?
@@ -23,7 +24,7 @@ Cuánto te corresponde pagar depende de varios factores.
 En primer lugar, existen diferentes **tramos**, cada cual con un tipo impositivo diferente, que va aumentando progresivamente de manera proporcional al salario.
 El hecho de que suba progresivamente y no escalonadamente es, en realidad, un punto importante y una gran ventaja, ya que así no se producen grandes saltos de una tramo al siguiente en el caso de que se produzca un aumento de sueldo. Al recibir, por tanto, un aumento de sueldo, los impuestos aumentarán con él pero no será una gran cantidad de golpe (lo cual podría equiparar la subida o incluso dejarte con menos dinero neto que antes de la subida) sino que lo hacen paulatinamente.
 
-En cuanto a los tramos, para que veas como es la fórmula exacta que se aplica para el año fiscal 2025 tal cual para calcular la deducción según tu sueldo de acuerdo a [§ 32a EStG](http://www.bmf-steuerrechner.de/):
+En cuanto a los tramos, para que veas como es la fórmula exacta que se aplica para el año fiscal 2025 tal cual para calcular la deducción según tu sueldo de acuerdo a [§ 32a EStG](https://www.bmf-steuerrechner.de/):
 
 a) bis 12.084 € (Grundfreibetrag): 0;
 
@@ -44,7 +45,7 @@ donde zvE significa *zu versteundem Einkommen*, es decir, ingresos brutos.
 
 **Pero, ¿qué me estás contando?** 
 
-Ya. Exactamente eso mismo. Bienvenido/a a Alemania. Es una fórmula realmente compleja que se tarda un rato en comprender y aplicar porque no son simples porcentajes sino que es más complicado que eso. No hace falta que hagas las cuentas a mano, utiliza la [calculadora oficial](http://www.bmf-steuerrechner.de/).
+Ya. Exactamente eso mismo. Bienvenido/a a Alemania. Es una fórmula realmente compleja que se tarda un rato en comprender y aplicar porque no son simples porcentajes sino que es más complicado que eso. No hace falta que hagas las cuentas a mano, utiliza la [calculadora oficial](https://www.bmf-steuerrechner.de/).
 Esto es a lo que me refería cuando decía que el cálculo de este impuesto es muy complejo pero, en resumidas cuentas, este impuesto va desde 0€ para ingresos menores a 11604€, a partir de tal cantidad pasa a ser 14% y llega hasta un máximo de aproximadamente un 42% en los casos de los salarios más altos (muy altos, porque si te fijas, en el caso *d* hay una cantidad de más de 10k que se resta y que hace que el porcentaje real sea mucho menor, alrededor del 35% para salarios de alrededor de 66761€ que es el mínimo de ese tramo). Y, para los más ricos, a partir de 277826 anuales (o sea, muy muy altos), existe el Reichensteuersatz del 45%.
 
 En segundo lugar, el **Lohnsteuer** también depende de tu situación familiar, es decir, tu estado civil y si tienes hijos/as o no y según esa situación tendrás una **Steuerklasse** u otra. También es diferente si tienes varios empleos. Las Steuerklassen son seis y, de manera resumida son: una clase para trabajadores solteros y divorciados sin hijos (I), una clase para trabajadores divorciados o viudos con hijos a su cargo (II), tres diferentes combinaciones de clases para parejas casadas y los trabajadores con dos empleos tienen dos clases (una de ellas la VI). En [este artículo](/post/steuerklassen), te explico todas las Steuerklassen de manera más detallada.
@@ -136,5 +137,9 @@ Por lo tanto, sus ingresos se han reducido en un **35%** por los impuestos.
 Todos esos impuestos se los van a descontar automáticamente de su nómina antes de que se la ingresen en su cuenta y, por lo tanto, no tiene que hacer nada. Aparte de las deducciones de la nómina, Juanita tiene que pagar 18.36€ al mes por el impuesto de la televisión, a pesar que ella no tiene televisión ni radio en su casa ni la ha visto nunca porque no le gusta. Como vive con Pepito, su compañero de piso, y el impuesto es por vivienda, lo pagan entre los dos y su parte es de 9.18€. 
 
 Ahora que ya has leído la versión ultra-mega-corta con el super-resumen y el caso práctico de Juanita, ya entiendes mucho mejor de qué va la cosa. Si tienes dudas y quieres saber más ahora que te sientes más preparado/a vuelve a leer el resto del artículo.
+
+La página del ministerio de finanzas tiene un [artículo sobre los impuestos](https://www.bundesfinanzministerium.de/Content/DE/Standardartikel/Service/Leichte_Sprache/steuern.html) en *leichte Sprache*, es decir, en alemán pero en alemán muy sencillo para que sea fácil de entender por todos que te puede ser de ayuda.
+
+Quizá te interese también conocer cómo funciona el [sistema de clases fiscales](/post/steuerklassen) o el [paro en Alemania](/post/prestacion-desempleo). En esta guía te explicamos cómo funciona y qué requisitos hacen falta para solicitarlo. 
 
 Hasta aquí esta explicación sobre los impuestos en Alemania. El tema de los impuestos es complejo pero también muy importante. ¡Espero que te haya servido!

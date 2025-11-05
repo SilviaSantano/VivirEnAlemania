@@ -23,6 +23,20 @@
       <description></description>
     </item>
     <item>
+      <title>Tiempo Libre</title>
+      <link>http://localhost:1313/tags/tiempo-libre/</link>
+      <pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/tiempo-libre/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Trabajo</title>
+      <link>http://localhost:1313/tags/trabajo/</link>
+      <pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/trabajo/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Compras</title>
       <link>http://localhost:1313/tags/compras/</link>
       <pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
@@ -65,13 +79,6 @@
       <description></description>
     </item>
     <item>
-      <title>Trabajo</title>
-      <link>http://localhost:1313/tags/trabajo/</link>
-      <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/trabajo/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Finanzas</title>
       <link>http://localhost:1313/tags/finanzas/</link>
       <pubDate>Sun, 12 Oct 2025 00:00:00 +0000</pubDate>
@@ -104,6 +111,13 @@
       <link>http://localhost:1313/tags/burocracia/</link>
       <pubDate>Sat, 26 Apr 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/burocracia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reciclaje</title>
+      <link>http://localhost:1313/tags/reciclaje/</link>
+      <pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/reciclaje/</guid>
       <description></description>
     </item>
     <item>

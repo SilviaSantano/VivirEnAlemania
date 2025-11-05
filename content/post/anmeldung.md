@@ -5,6 +5,7 @@ date: 2024-04-21
 lastmod: 2025-10-12
 tags:        ["Primeros pasos", "Burocracia", "Empadronamiento"]
 categories:  ["Primeros pasos", "Vivir"]
+description: "¿Cómo empadronarse en Alemania? Guía completa sobre el Anmeldung para extranjeros. Trámites, documentos, horarios y diferencias. Anmelden, Meldebescheinigung y consejos."
 ---
 
 # Cómo hacer el Anmeldung o empadronamiento en Alemania en 2025
@@ -12,7 +13,7 @@ Probablemente el trámite más importante que tienes que hacer cuando llegas a A
 
 El proceso de empadronamiento en Alemania puede suponer un desafío estresante, ya que debe hacerse obligatoriamente de manera presencial, dentro de unos plazos, y no siempre existe la posibilidad de hacerlo en un idioma distinto al alemán. Por eso, vamos a detallar todos los pasos necesarios para que familiarices con el proceso y te resulte lo más sencillo posible.
 
-# ¿Se puede hacer el Anmeldung o empadronamiento online?
+## ¿Se puede hacer el Anmeldung o empadronamiento online?
 Al contrario de lo que mucha gente piensa, Alemania no está a la cabeza en lo que a digitalización se refiere. De hecho, cualquiera que haya vivido allí se reiría si oye decir eso, ya que van muy por detrás aunque, lentamente, intenten corregirlo. En algunas ciudades, finalmente, se ha comenzado a ofrecer el servicio de empadronamiento online. Según su [página web](https://serviceportal.gemeinsamonline.de/Onlinedienste/Service/Entry/EWA), a día de hoy, son estas: Berlín, Bremen, Hamburgo, Renania-Palatinado, Schleswig-Holstein, así como en muchos municipios de Baden-Wurtemberg, Baviera, Brandeburgo, Hesse, Mecklemburgo-Pomerania Occidental, Baja Sajonia, Renania del Norte-Westfalia, Sajonia, Sajonia-Anhalt y Turingia.
 
 Sin embargo, con algunas restricciones. En algunas ocasiones, sólo es posible usarlo para Unmeldung, es decir, cambiar tu residencia fiscal de una dirección a otra, estado ambas en territorio alemán, y no para la primera residencia que tengas en el país. Otra restricción importante es que parece que necesitas tener un Ausweis (DNI alemán) para poder realizar el proceso, al menos, de momento. Con lo que, si eres extranjero/a, probablemente no lo tengas. 
@@ -59,5 +60,7 @@ Si esto no es posible, porque no conoces a nadie que te pueda dar alojamiento, h
 
 ## ¿Y si luego vuelvo a cambiar de dirección?
 Si te quedas una larga temporada en Alemania, lo más seguro es que pases por más de una vivienda. Cada vez que cambies de dirección, tendrás que volver a hacer este registro. En el caso de cambio de residencia ya no se llamará **An**meldung sino **Um**meldung pero es prácticamente lo mismo. Además, ¡ya tendrás experiencia! y será todo más fácil, ya que conoces el proceso.
+
+Si quieres saber más sobre [cuál es el mejor lugar para vivir en Alemania](/post/ciudades), [cómo elegir una cuenta de banco](/post/cuenta-banco), o [qué impuestos se pagan](/post/impuestos), visita nuestros otros artículos.
 
 Esto es todo lo que necesitas saber sobre el Anmeldung. Esta palabra no la olvidarás porque durante todo el tiempo que vivas en Alemania la oirás cientos de veces, sobre todo si te relacionas con otros extranjeros, y es una de las múltiples palabras que los españoles jamás traducimos sino que la decimos tal cual. ¡Espero que te haya servido!

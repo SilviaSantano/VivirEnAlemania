@@ -4,9 +4,10 @@ subtitle: "¿Cuáles son las categorías fiscales en Alemania?"
 date: 2024-05-02
 tags:        ["Finanzas", "Burocracia"]
 categories:  ["Vivir", "Trabajar"]
+description: "¿Qué son las Steuerklassen en Alemania? Descubre cómo las clases fiscales afectan a tus impuestos, opciones para parejas y cómo cambiar tu clase fiscal en Alemania. 🇩🇪"
 ---
 
-## Categorías fiscales en Alemania: *Steuerklassen*
+# Categorías fiscales en Alemania: *Steuerklassen*
 ¿Estás trabajando o te gustaría trabajar en Alemania? Quizá hayas oído hablar de las *Steuerklassen* o categorías fiscales. Este concepto importante y que es necesario entender si trabajas en Alemania, ya que tiene un gran efecto en los [impuestos](/post/impuestos) que tienes que pagar. Concretamente, en los impuestos sobre la renta (IRPF). Si quieres saber más sobre los impuestos que se pagan en Alemania, en [este artículo](/post/impuestos) los explico en detalle.
 
 En Alemania existen seis categorías, clases o tramos fiscales: *Steuerklassen*. Estar en una u otra depende, principalmente, de tu situación personal y familiar, es decir, tu estado civil y si tienes hijos/as o no. Generalmente, una persona puede cambiar de una a otra cuando se produce un cambio importante o bien en sus ingresos o bien en sus circunstancias vitales, tales como casarse o tener hijos. Al principio, parece un sistema muy complejo pero, una vez que lo entiendes, no es para tanto. 
@@ -47,5 +48,9 @@ Si ambos esposos ganan casi lo mismo, serán parte del sistema de separación de
 
 ## Calculadoras de Steuerklassen
 Si no estás seguro de qué clase elegir, utiliza una [calculadora de Steuerklasse](https://www.steuerklassen.com/steuerklassenrechner/) donde comprobar qué combinación de clases es mejor en caso de matrimonios, introduciendo los datos económicos. 
+
+Para más información sobre las Steuerklassen puedes visitar esta [página](https://www.steuerklassen.com/).
+
+Si quieres saber más sobre [cuál es el mejor lugar para vivir en Alemania](/post/ciudades) o el [coste de vida en Alemania](/post/coste-de-vida), visita nuestros otros artículos.
 
 Esto es todo lo que tienes que saber de las Steuerklassen. ¡Espero que te haya servido!
