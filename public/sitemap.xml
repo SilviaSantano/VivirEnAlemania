@@ -65,12 +65,6 @@
     <loc>http://localhost:1313/tags/paro/</loc>
     <lastmod>2025-10-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/coste-de-vida/</loc>
-    <lastmod>2025-10-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/finanzas/</loc>
-    <lastmod>2025-10-13T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/ciudades-de-alemania/</loc>
     <lastmod>2025-10-14T00:00:00+00:00</lastmod>
   </url><url>
@@ -90,6 +84,12 @@
     <lastmod>2025-10-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/burocracia/</loc>
+    <lastmod>2025-10-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/finanzas/</loc>
+    <lastmod>2025-10-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/coste-de-vida/</loc>
     <lastmod>2025-10-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/pfand/</loc>

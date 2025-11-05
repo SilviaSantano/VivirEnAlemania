@@ -93,6 +93,8 @@ Actualmente, estas son cuentas de tipo Girokonto (cuenta corriente) más ventajo
 Si echas cuentas, en todas ellas los costes mensuales son realmente elevados... no las recomiendo para nada.
 Existen otras muchas con otras condiciones y también algunos ofrecen cuentas especiales para estudiantes pero, en general, esas serían las más económicas.
 
+!["Preciosos campos y zonas rurales de Alemania"](/img/alemania_rural2.jpg "Preciosos campos y zonas rurales de Alemania")
+
 ### Bancos online
 En los últimos años han aparecido una serie de bancos online (también llamados *bancos directos*) alemanes que están modernizando el mercado. Su principal atractivo es que ofrecen la posibilidad de tener una cuenta bancaria alemana con todos sus servicios prácticamente sin costes ni comisiones, lo cual es una gran ventaja, porque otros bancos alemanes cobran por absolutamente todo. Eso sí, no disponen de oficinas físicas de atención al cliente.
 Al ser online, también te ahorras ir a una oficina para abrir la cuenta, sino que la abres desde casa en pocos minutos. Naturalmente, también será necesario comprobar tu identidad, pero también esto lo puedes hacer online. El proceso se llama *legitimación* y básicamente consiste en una videollamada con un agente que te va a pedir que enseñes tu documento de identificación (pasaporte o DNI) a la cámara por delante y por detrás y comprobará que efectivamente se trata de la misma persona.

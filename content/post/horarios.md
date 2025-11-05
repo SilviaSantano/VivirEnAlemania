@@ -19,6 +19,8 @@ Pues como ya habrás imaginado, la hora de la comida es bastante temprano, como 
 
 En el tema de cenar ya son bastante menos estrictos y aquí sí cada persona, cada familia, cada casa tiene sus hábitos y sus gustos. Lo normal es cenar entre las 6 y las 8, aunque a partir de las 5 ya verás mucha gente cenando. Nuevamente, las familias con hijos suelen ser los que llevan la delantera (lo de la pescadilla, ya sabes). Más allá de las 8 es raro y hasta puede costar encontrar restaurante si sales a estas horas y te despistas un poco. Si quedas con alemanes para cenar, también espera ver caras raras si osas sugerir algo más tarde de las 8. Ellos siempre alegarán que es tardísimo y se mueren de hambre pero, ¿por qué? ¿eh? Pues porque no conocen o reconocen que entre la comida y la cena es donde se sitúa el dulce momento de la ¡merienda! que aquí se salta por completo, para mi personal disgusto. Si merendasen como es debido, no tendrían tanta hambre, les diría mi abuela. Esto ya es un apunte personal. De hecho, en ocasiones, los fines de semana y festivos, si hay una tradición entre algunas personas, por ejemplo, entre jubilados, de tomar lo que se conoce como "Kaffeekuchen", es decir, café y tarta o reunirse con amigos o familiares para un "Kaffeklatsch".
 
+!["Restaurante asiático. La comida asiática es muy apreciada en Alemania"](/img/restaurante_asiatico.jpg "Restaurante asiático. La comida asiática es muy apreciada en Alemania")
+
 ## ¿Cómo son los horarios de trabajo en Alemania?
 Si estás pensando en trabajar en Alemania, te contamos algunos detalles clave sobre cómo suelen ser las jornadas laborales.
 
@@ -41,6 +43,8 @@ El horario escolar en Alemania varía según la región y el tipo de escuela per
 Si quedas para salir el fin de semana, es habitual quedar alrededor las 8 de la tarde, lo cual te permite estar varias horas de fiesta y aun así poder dormir después tus 8 horas y ser persona al día siguiente o como ellos dicen "aprovechar el día".
 
 Una cosa en la que siempre tienes que pensar y confirmar con las personas con las que quedes, ya sean alemanes o, en general, de casi cualquier otro país (porque, siendo realistas, los que salimos tarde somos los españoles y pocos más) es "¿esperan que vaya cenado/a?" porque si eres como yo, te pasará más de una vez, dos, quince o cincuenta que te presentes a casa de tus amigos, a un bar, o a donde sea a las 7 u 8 de la tarde como quedásteis pero no hayas pensado que ya todos los demás han ido cenados de casa y que no tendrás oportunidad de cenar hasta quizá varias horas más tarde... el que lo sabe, lo sabe.
+
+!["Fiesta de música techno en discoteca de Colonia"](/img/fiesta_techno_koeln.jpg "Fiesta de música techno en discoteca de Colonia")
 
 Sí que es verdad que puede haber pequeñas diferencias de horarios entre las distintas [ciudades de Alemania](/post/ciudades) pero a rasgos generales los horarios serían más o menos así con pequeñas variaciones.
 

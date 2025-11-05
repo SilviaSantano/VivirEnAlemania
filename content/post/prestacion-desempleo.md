@@ -17,6 +17,8 @@ A grandes rasgos, la prestación de desempleo alemana, conocida como Arbeitslose
 
 Para los ciudadanos españoles, es relevante saber que los tiempos de trabajo sujetos a cotización en países de la Unión Europea pueden sumarse a los periodos cotizados en Alemania, **siempre y cuando haya trabajado en un empleo sujeto a cotización social en Alemania después de su regreso**. 
 
+!["Estación central de Munich: Hauptbahnhof"](/img/hbf.jpg "Estación central de Munich: Hauptbahnhof")
+
 ## De cuánto dinero es la prestación por desempleo en Alemania en 2025
 El monto de la prestación por desempleo (Arbeitslosengeld o ALG I) no es una cantidad fija, sino que se calcula individualmente en función de tu salario anterior y de tu situación familiar.
 

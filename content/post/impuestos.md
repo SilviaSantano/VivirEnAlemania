@@ -52,6 +52,8 @@ En segundo lugar, el **Lohnsteuer** también depende de tu situación familiar, 
 
 También varía un poco dependiendo del Bundesland (región) en el que tributas. 
 
+!["Colonia nevada en invierno"](/img/nevada_colonia.jpg "Colonia nevada en invierno")
+
 ## Cuánto se paga por la seguridad social en Alemania (Sozialversicherung)
 La **seguridad social** es un elemento central del estado social que tiene como objetivo ayudar y proteger a los ciudadanos en los momentos de dificultad. Las personas que están empleadas en Alemania están protegidas y tienen derecho a ayudas y prestaciones a cambio de pagar ese seguro obligatorio con una parte de su nómina.
 Los impuestos de la seguridad social o [*Sozialversicherung*](https://www.bmas.de/DE/Soziales/Sozialversicherung/sozialversicherung-art.html), componen las *Sozialabgaben* que aparecen en la nómina y se dividen en los siguientes, ordenados de mayor a menor coste: el seguro de pensiones, el seguro de enfermedad, el seguro de dependencia, el seguro de desempleo y el seguro de accidentes. El coste de estos impuestos, excepto el del seguro de accidentes, se paga a medias entre el empleador y el trabajador.

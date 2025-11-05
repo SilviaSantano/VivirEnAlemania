@@ -32,6 +32,8 @@ Otro similar es [Mädelsflohmarkt](https://maedelsflohmarkt.de/), que suele ser 
 
 Si estos no están en tu ciudad no te preocupes y sigue leyendo porque seguro que hay otros.
 
+!["Mercadillo de ropa de segunda mano Mädelsflohmarkt en Colonia"](/img/mercadillo.jpg "Mercadillo de ropa de segunda mano Mädelsflohmarkt en Colonia")
+
 ## Mercadillos de segunda mano en Alemania
 Alemania es famosa por sus mercadillos de segunda mano, conocidos como *Flohmärkte*. Los hay en todas las ciudades, grandes y pequeñas. Algunos son semanales, quincenales o mensuales (por ejemplo, un domingo al mes). Suele haber más durante los fines de semana. Algunos son especializados en un tema concreto, por ejemplo: ropa, antigüedades o bicicletas. Los clásicos tienen un poco de todo, más como el rastro de Madrid. Se puede encontrar desde ropa vintage y muebles antiguos hasta libros, discos, juguetes y objetos de colección. 
 Suelen abrir por la mañana (alrededor de las 9 o 10) y cerrar por la tarde (alrededor de las 16 o 17), aunque hay algunos también que son por la tarde.
@@ -66,6 +68,8 @@ De nuevo, tenemos que volver a mencionar [Kleinanzeigen](https://www.kleinanzeig
 Para comprarlas offline, tienes una muy buena opción que son los *Flohmärkte* (Mercados de Pulgas), com hemos comentado antes y algunos de ellos incluso están especializados en bicicletas. Son comunes en muchas ciudades alemanas y a menudo ofrecen bicicletas de segunda mano a precios atractivos. Busca por *Fahrradflohmarkt*.
 
 También puedes buscar en grupos de compraventa locales en Facebook, donde la gente vende bicicletas usadas y en tiendas de bicicletas usadas.
+
+!["Munich. El uso de bicicletas como medio de transporte está muy extendido en Alemania"](/img/munich_bicicleta.jpg "Munich. El uso de bicicletas como medio de transporte está muy extendido en Alemania")
 
 Si quieres saber más curiosidades sobre Alemania, visita nuestros otros artículos como, por ejemplo, cómo funciona el [pfand o depósito por las botellas](/post/pfand), cuántos [festivos](/post/festivos) hay o cómo son los [horarios](/post/horarios).
 

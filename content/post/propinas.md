@@ -26,6 +26,8 @@ Respecto a la forma de dejar la propina, en muchos países es común dejarla sob
 
 En bares, pubs y cafeterías en los que pides y pagas en la barra suele haber un bote de propinas en la barra donde puedes dejar algunas monedas como propina, si el servicio lo merece pero, personalmente, si no me han servido en mesa, yo no suelo dejar, a no ser que sea un servicio excelente.
 
+!["Bar de jazz en Colonia"](/img/papa_joes_koeln.jpg "Bar de jazz en Colonia") 
+
 ## ¿Hay que pagar en los baños?
 Cada vez que vayas a un baño público, no te sorprendas si ves a una persona sentada en la puerta y una mesa con un platito cerca de la entrada para dejar unas monedas. En muchos baños de Alemania encontrarás este sistema para dejar propina, incluso en lugares o eventos donde hayas pagado una entrada ¡o en restaurantes en los que ya estás consumiendo y te vas a dejar una pasta! En algunos casos, también verás un cartel indicando la cantidad esperada, generalmente entre 0,30€ y 1€.
 

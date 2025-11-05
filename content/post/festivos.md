@@ -29,6 +29,8 @@ Existen nueve *Feiertage*, días festivos, que [todos los *Bundesländer* tienen
 - erster Weihnachtstag: primer día de navidad (25 de diciembre)
 - zweiter Weihnachtstag: segundo día de navidad (26 de diciembre), sí, hay dos días de navidad :)
 
+!["Día festivo en Colonia. Perfecto para ir al cine u otras actividades culturales"](/img/cultura.png "Día festivo en Colonia. Perfecto para ir al cine u otras actividades culturales")
+
 ## Días festivos en en cada Bundesland o estado federal de Alemania
 Cada *Bundesland* decide qué días extra serán festivos y varían un poco de unos a otros, habiendo algunos que tienen más días que el resto, lo cual en ocasiones es razón de conflicto y descontento entre los trabajadores y trabajadoras. 
 

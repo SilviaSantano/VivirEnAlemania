@@ -1,7 +1,7 @@
 ---
 title: "Costo de vida en Alemania en 2025"
 subtitle: "¿Cuánto cuesta vivir en Alemania?"
-date: 2025-10-12
+date: 2024-08-12
 lastmod: 2025-10-13
 tags:        ["Finanzas"]
 categories:  ["Vivir", "Curiosidades"]

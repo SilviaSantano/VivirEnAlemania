@@ -171,6 +171,8 @@ Dortmund es una ciudad industrial en el oeste de Alemania y se encuentra entre l
 ### Bremen
 Bremen es una de las ciudades alemanas con más encanto medieval. Cada año, miles de expatriados deciden buscar trabajo y establecer su residencia en esta apacible y organizada urbe del norte del país. Bremen es uno de los centros líderes en investigación marina, polar y del cambio climático. Además, se destaca por albergar importantes laboratorios dedicados a la tecnología espacial.
 
+!["Estación central de Bremen"](/img/bremen.jpg "Estación central de Bremen")
+
 ### Ciudades más pequeñas
 Estas son las diez ciudades más grandes de Alemania pero Alemania es mucho más que estas ciudades. Hay muchas otras más pequeñas que también tienen mucho que ofrecer y merecen consideración. Por ejemplo, son consideradas muy bonitas las siguientes: Heidelberg, Regensburg (Ratisbona), Bonn, Freiburg, Tübingen, Hannover, Münster, Nürnberg. 
 
@@ -183,6 +185,8 @@ No debemos olvidar que Alemania no se compone únicamente de sus grandes ciudade
 En estas zonas, hay una escasez de empleos, tiendas, servicios técnicos, consultorios médicos y oficinas bancarias y los colegios y restaurantes cierran, lo que complica la vida para la mayoría de las personas en la actualidad. Por ello, la clásica población rural es más bien una excepción. La vida en el campo hoy en día se desarrolla principalmente en los entornos cercanos a las grandes ciudades, donde se encuentra alrededor del 40 por ciento de todos los puestos de trabajo. La vida rural a menudo implica una vida familiar, se desarrolla en casas propias y requiere tener un vehículo propio para la movilidad.
 
 En los últimos años, se ha notado un ligero (muy ligero) cambio. Mientras que hace unos años vivir en zonas rurales era considerado anticuado y conservador por muchos, hoy se está convirtiendo en una opción atractiva para algunos, motivados por el deseo de llevar una vida más sosegada y en contacto con la naturaleza. Tendencias como el teletrabajo están facilitando este tipo de vida sin tener que renunciar a puestos de trabajo que antes requerían vivir en la ciudad. Cuánto potencial tiene esta tendencia y hasta dónde puede llegar a cambiar la realidad es una pregunta que solo el tiempo responderá.
+
+!["Preciosos campos y zonas rurales de Alemania"](/img/alemania_rural2.jpg "Preciosos campos y zonas rurales de Alemania")
 
 Si este estilo de vida es el que más te atrae, dependiendo de tu formación, puede que sea un acierto para ti. Por ejemplo, Alemania busca desesperadamente médicos en las zonas rurales, ya que [no consigue encontrar suficientes](https://www.dw.com/es/alemania-busca-desesperadamente-m%C3%A9dicos-en-las-zonas-rurales/a-65662304). El Gobierno alemán intenta atraer con dinero a los médicos a las zonas rurales. Pero cada vez son menos los doctores alemanes que quieren trabajar en el campo.
 
