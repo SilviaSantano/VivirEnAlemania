@@ -25,7 +25,7 @@ home = ["HTML", "RSS"] #, "Algolia"
 [params]
   header_image = "img/cologne.jpeg"
   SEOTitle = "Vivir en Alemania"
-  description = "Vivir en Alemania"
+  description = "Página de referencia para todos y todas aquellas pensando en emigrar a Alemania o actualmente viviendo allí. La página está especialmente orientada a personas españolas, sin embargo, la información que ofrece puede ser de interés para cualquiera. Los temas que cubre abarcan desde trámites, burocracia, sistema de impuestos y todo lo relacionado con la parte más de papeleo sobre vivir y trabajar en Alemania hasta temas culturales, diferencias culturales y explicaciones sobre cómo la sociedad alemana funciona y cómo puede diferir de otras culturas. El contenido está disponible en español, por estar dirigido a personas de habla hispana."
   keyword = "Vivir en Alemania"
   #slogan = "Vivir en Alemania"
   upstreamAttribution = true
@@ -73,6 +73,10 @@ home = ["HTML", "RSS"] #, "Algolia"
   #keybase       = "full profile url in keybase"
   #xing          = "https://www.xing.com/profile/yourxingid"
   #git           = "full profile url for git user"
+
+  [[params.addtional_menus]]
+  title =  "TODOS LOS ARTÍCULOS"
+  href =  "/"
 
   
   [[params.addtional_menus]]

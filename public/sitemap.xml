@@ -23,6 +23,15 @@
     <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-10-29T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/tiempo-libre/</loc>
+    <lastmod>2025-10-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/trabajar/</loc>
+    <lastmod>2025-10-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/trabajo/</loc>
+    <lastmod>2025-10-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/categories/vivir/</loc>
     <lastmod>2025-10-29T00:00:00+00:00</lastmod>
   </url><url>
@@ -54,12 +63,6 @@
     <lastmod>2025-10-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/paro/</loc>
-    <lastmod>2025-10-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/trabajar/</loc>
-    <lastmod>2025-10-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/trabajo/</loc>
     <lastmod>2025-10-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/coste-de-vida/</loc>
@@ -95,11 +98,14 @@
     <loc>http://localhost:1313/post/propinas/</loc>
     <lastmod>2025-10-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/primeros-pasos/</loc>
-    <lastmod>2025-10-13T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/reciclaje/</loc>
+    <lastmod>2025-10-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/schufa/</loc>
     <lastmod>2025-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/primeros-pasos/</loc>
+    <lastmod>2025-10-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/steuerklassen/</loc>
     <lastmod>2024-05-02T00:00:00+00:00</lastmod>
