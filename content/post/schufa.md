@@ -4,8 +4,8 @@ subtitle: "Qué significa SCHUFA y para qué sirve en Alemania"
 date: 2024-05-03
 lastmod: 2025-10-11
 tags:        ["Finanzas", "Primeros pasos", "Burocracia"]
-categories:  ["Vivir", "Primeros pasos"]
-description: "¿Qué es la Schufa en Alemania? Descubre cómo funciona, cómo afecta a tu crédito y cómo obtener tu Schufa Bonitätsauskunft."
+categories:  ["Vivir", "Primeros pasos", "Todos"]
+description:  "¿Qué es la Schufa en Alemania? Descubre cómo funciona, cómo afecta a tu crédito y cómo obtener tu Schufa Bonitätsauskunft."
 ---
 
 # ¿Qué es la *SCHUFA* en Alemania?

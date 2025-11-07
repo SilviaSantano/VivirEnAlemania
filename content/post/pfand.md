@@ -4,8 +4,8 @@ subtitle: "Pfandsystem: cómo funciona el reciclaje de botellas en Alemania"
 date: 2024-07-11
 lastmod: 2025-10-11
 tags:        ["Vida", "Reciclaje"]
-categories:  ["Curiosidades", "Vivir"]
-description: "Todo sobre el Pfand: ¿Sabías que en Alemania se paga un depósito (Pfand) por las botellas? Descubre cómo funciona el sistema de reciclaje de envases o Pfand en Alemania."
+categories:  ["Curiosidades", "Vivir", "Todos"]
+description:  "Todo sobre el Pfand: ¿Sabías que en Alemania se paga un depósito (Pfand) por las botellas? Descubre cómo funciona el sistema de reciclaje de envases o Pfand en Alemania."
 ---
 
 # **Pfandsystem**: cómo funciona el reciclaje de botellas en Alemania

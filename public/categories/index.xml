@@ -16,6 +16,13 @@
       <description></description>
     </item>
     <item>
+      <title>Todos</title>
+      <link>http://localhost:1313/categories/todos/</link>
+      <pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/todos/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Trabajar</title>
       <link>http://localhost:1313/categories/trabajar/</link>
       <pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate>

@@ -3,8 +3,8 @@ title: "Mercado de Segunda Mano en Alemania"
 subtitle: "Cómo comprar cosas de Segunda Mano en Alemania"
 date: 2025-10-21
 tags:        ["Ocio", "Cultura", "Compras"]
-categories:  ["Vivir", "Curiosidades"]
-description: "Descubre el mercado de segunda mano en Alemania 🇩🇪 Aprende cómo comprar de segunda mano y encuentra gangas en muebles, ropa, coches y más en mercadillos y online en Kleinanzeigen."
+categories:  ["Vivir", "Curiosidades", "Todos"]
+description:  "Descubre el mercado de segunda mano en Alemania 🇩🇪 Aprende cómo comprar de segunda mano y encuentra gangas en muebles, ropa, coches y más en mercadillos y online en Kleinanzeigen."
 ---
 # ¿Existe mercado de segunda mano en Alemania?
 El mercado de segunda mano en Alemania es amplio y diverso, y existe una gran tradición por la compra de artículos de segunda mano de todo tipo: muebles, ropa, calzado, libros, electrodomésticos... y, por supuesto, coches. Es una práctica mucho más común, aceptada y reconocida por la sociedad que en otros países como, por ejemplo, España, donde por lo general se prefiere comprar cosas nuevas, existe menos inclinación a comprar y vender objetos usados y la oferta es mucho más pequeña. Es prácticamente parte de la cultura, lo que la hace mucho más sostenible y permite ahorrar mucho dinero si se sabe buscar bien.
