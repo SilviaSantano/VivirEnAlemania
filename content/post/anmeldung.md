@@ -4,8 +4,8 @@ subtitle: "Empadronarse en Alemania"
 date: 2024-04-21
 lastmod: 2025-10-12
 tags:        ["Primeros pasos", "Burocracia", "Empadronamiento"]
-categories:  ["Primeros pasos", "Vivir"]
-description: "¿Cómo empadronarse en Alemania? Guía completa sobre el Anmeldung para extranjeros. Trámites, documentos, horarios y diferencias. Anmelden, Meldebescheinigung y consejos."
+categories:  ["Primeros pasos", "Vivir", "Todos"]
+description:  "¿Cómo empadronarse en Alemania? Guía completa sobre el Anmeldung para extranjeros. Trámites, documentos, horarios y diferencias. Anmelden, Meldebescheinigung y consejos."
 ---
 
 # Cómo hacer el Anmeldung o empadronamiento en Alemania en 2025

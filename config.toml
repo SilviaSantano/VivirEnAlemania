@@ -74,9 +74,9 @@ home = ["HTML", "RSS"] #, "Algolia"
   #xing          = "https://www.xing.com/profile/yourxingid"
   #git           = "full profile url for git user"
 
-  # [[params.addtional_menus]]
-  # title =  "TODOS LOS ARTÍCULOS"
-  # href =  "/"
+  [[params.addtional_menus]]
+  title =  "TODOS LOS ARTÍCULOS"
+  href =  "/categories/todos"
 
   
   [[params.addtional_menus]]

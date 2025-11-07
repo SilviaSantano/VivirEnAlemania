@@ -4,8 +4,8 @@ subtitle: "Arbeitslosengeld en Alemania en 2025"
 date: 2025-10-15
 lastmod: 2025-10-22
 tags:        ["Trabajo", "Desempleo", "Paro", "Dinero"]
-categories:  ["Trabajar", "Vivir"]
-description: "¿Quieres saber cuánto se cobra de paro y cómo cobrar el paro en Alemania? En esta guía te explicamos paso a paso el proceso para solicitar Arbeitslosengeld, cuáles son las condiciones y qué hay que hacer para pedirlo."
+categories:  ["Trabajar", "Vivir", "Todos"]
+description:  "¿Quieres saber cuánto se cobra de paro y cómo cobrar el paro en Alemania? En esta guía te explicamos paso a paso el proceso para solicitar Arbeitslosengeld, cuáles son las condiciones y qué hay que hacer para pedirlo."
 ---
 
 # Arbeitslosengeld: Cómo cobrar el paro en Alemania

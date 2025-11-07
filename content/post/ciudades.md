@@ -4,7 +4,7 @@ subtitle: "Dónde vivir en Alemania en 2025"
 date: 2025-07-12
 lastmod: 2025-10-14
 tags:        ["Vida", "Vivienda", "Ciudades de Alemania"]
-categories:  ["Vivir", "Primeros pasos", "Curiosidades"]
+categories:  ["Vivir", "Primeros pasos", "Curiosidades", "Todos"]
 description: "Descubre las mejores ciudades de Alemania para vivir y trabajar. Guía completa con información sobre costos, cultura y oportunidades laborales en ciudades como Berlín, Múnich y más. 🇩🇪"
 ---
 

@@ -4,8 +4,8 @@ subtitle: "¿Cuánto cuesta vivir en Alemania?"
 date: 2024-08-12
 lastmod: 2025-10-13
 tags:        ["Finanzas"]
-categories:  ["Vivir", "Curiosidades"]
-description: "¿Cuánto cuesta vivir en Alemania en 2025? Guía completa sobre costos de vida, vivienda, comida y transporte. Comparación con España y salarios. ¡Descubre si te conviene mudarte a Alemania!"
+categories:  ["Vivir", "Curiosidades", "Todos"]
+description:  "¿Cuánto cuesta vivir en Alemania en 2025? Guía completa sobre costos de vida, vivienda, comida y transporte. Comparación con España y salarios. ¡Descubre si te conviene mudarte a Alemania!"
 ---
 
 # ¿Cuánto cuesta vivir en Alemania en 2025?

@@ -3,8 +3,8 @@ title: "Steuerklassen"
 subtitle: "¿Cuáles son las categorías fiscales en Alemania?"
 date: 2024-05-02
 tags:        ["Finanzas", "Burocracia"]
-categories:  ["Vivir", "Trabajar"]
-description: "¿Qué son las Steuerklassen en Alemania? Descubre cómo las clases fiscales afectan a tus impuestos, opciones para parejas y cómo cambiar tu clase fiscal en Alemania. 🇩🇪"
+categories:  ["Vivir", "Trabajar", "Todos"]
+description:  "¿Qué son las Steuerklassen en Alemania? Descubre cómo las clases fiscales afectan a tus impuestos, opciones para parejas y cómo cambiar tu clase fiscal en Alemania. 🇩🇪"
 ---
 
 # Categorías fiscales en Alemania: *Steuerklassen*
