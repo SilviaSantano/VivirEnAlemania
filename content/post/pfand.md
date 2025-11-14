@@ -1,25 +1,25 @@
 ---
-title: "Pfand en Alemania"
-subtitle: "Pfandsystem: cómo funciona el reciclaje de botellas"
+title: "El Pfand en Alemania"
+subtitle: "Pfandsystem: cómo funciona el reciclaje de envases alemán"
 date: 2024-07-11
 lastmod: 2025-10-11
 tags:        ["Vida", "Reciclaje"]
 categories:  ["Curiosidades", "Vivir", "Todos"]
-description:  "Todo sobre el Pfand: ¿Sabías que en Alemania se paga un depósito (Pfand) por las botellas? Descubre cómo funciona el Pfand o sistema de reciclaje de envases en Alemania."
+description:  "¿Sabías que en Alemania se paga un depósito (Pfand) por los envases? Así funciona el Pfand o sistema de reciclaje de envases alemán."
 ---
 
-# **Pfand**: cómo funciona el reciclaje de botellas en Alemania
-¿Sabías que en Alemania **las botellas usadas se devuelven** para reutilizarse o reciclarse y, al hacerlo, te devuelven una parte del importe pagado?
+# **Pfand**: cómo funciona el reciclaje de envases en Alemania
+¿Sabías que en Alemania **las botellas y latas usadas se devuelven** para reutilizarse o reciclarse y, al hacerlo, te devuelven una parte del importe pagado?
 
 En Alemania, la ley de depósito para envases, conocida como **Pfand**, se implementa desde enero de 2003.
 El sistema de depósito (***Pfandsystem***) es un sistema muy extendido en Alemania para **recoger envases de bebidas usados ​​y reciclarlos**. Para ello, se cobra al consumidor en muchos envases de bebidas adecuados un pequeño depósito de entre 8 y 25 céntimos de euro al comprar las bebidas, y estos lo reciben íntegramente de vuelta si los devuelven correctamente. Este sistema ha conseguido cambiar los hábitos de la mayoría de los habitantes hacia un país más sostenible y más limpio.
 
 Como ves, es un sistema muy similar al de meter un euro en los carritos del supermercado para poder usarlos.
 
-## ¿Por qué se cobra *Pfand* por las botellas?
-Esta medida se introdujo hace más de veinte años para combatir el por aquel entonces creciente problema de polución que estaban produciendo la gran cantidad de botellas y envases que acababan en las calles o en la naturaleza. Por otro lado, estaba aumentando por encima de lo deseable el número de productores que utilizaban envases de un sólo uso y se quiso promulgar el uso de envases reutilizables. Este sistema pretendía por tanto acabar con el problema de la basura masiva producida por el consumo de bebidas embotelladas y el derivado deterioro del medio ambiente. El sistema fue y es un éxito, ya que los consumidores pronto se acostumbraron y se devuelven la mayoría de los envases que se ponen en circulación.
+## ¿Por qué se cobra *Pfand* por las botellas y envases?
+Esta medida se introdujo hace más de veinte años para combatir el por aquel entonces creciente problema de polución que estaban produciendo la gran cantidad de botellas y latas que acababan en las calles o en la naturaleza. Por otro lado, estaba aumentando por encima de lo deseable el número de productores que utilizaban envases de un sólo uso y se quiso promulgar el uso de envases reutilizables. Este sistema pretendía por tanto acabar con el problema de la basura masiva producida por el consumo de bebidas embotelladas y el derivado deterioro del medio ambiente. El sistema fue y es un éxito, ya que los consumidores pronto se acostumbraron y se devuelven la mayoría de los envases que se ponen en circulación.
 
-## Tipos de botellas y precio del depósito por botella/envase
+## Tipos de envases y precio del depósito por botella/envase
 Existen diferentes tipos de envases. Dependiendo del tipo, el depósito será de **entre 0,08€ y 0,25€**.
 Las cajas de cervezas (*Bierkasten*) también tienen un depósito añadido de entre 0,75€ y 1,50€, según su tamaño. 
 
@@ -36,15 +36,15 @@ Hay otras que son de un tipo de plástico no reutilizable, que se reciclarán al
 
 También existen botellas sin depósito, es decir, por las que no se cobra nada y que tampoco se han de devolver (ni se pueden devolver). Estas deben reciclarse en el contenedor amarillo/verde según corresponda. La ley ha sido extendida varias veces desde su creación y ahora incluye muchos más envases. Sin embargo, aún hay algunos que están excluidos como algunas bebidas lácteas, algunos zumos, algunas bebidas alcohólicas y todas las botellas que se hayan comprado en otro país (no puedes llevar botellas de otros sitios y devolverlas porque no están dentro del sistema y no serán aceptadas). Estas se reconocen porque tienen otros símbolos en el envase, que indica que deben reciclarse (ya sabes, ese muñequito que parece que tira algo a la papelera) y pueden incluir las palabras *Pfandfrei* o *Ohne Pfand*, aunque no siempre lo hacen.
 
-!["Botellas con Pfand"](/img/flaschen.png "Botellas con Pfand")
+!["Envases con Pfand"](/img/flaschen.png "Envases con Pfand")
 
 ## ¿Cómo saber qué envases tienen *Pfand*?
 Para saber si una botella tiene o no tiene depósito hay diferentes maneras. Lo primero, al comprarla verás que en el ticket de compra el precio del *Pfand* se pone en una línea a parte. Te cobran el precio de la bebida y, por separado, el precio de la botella. Lo segundo, como hemos visto en el apartado anterior, puedes reconocerlas por las palabras *Pfand*, *Einweg* o *Mehrweg*. Incluso más fácil es buscar el siguiente **logo** que te lo indica:
 
 !["Logo de Pfand"](/img/pfand_logo.jpg "Logo de Pfand")
 
-## ¿Cómo se devuelven las botellas?
-En los **supermercados y tiendas** que las venden. Cualquier compañía que venda productos embotellados está obligado por ley también a recogerlos. En ocasiones, si el establecimiento es pequeño (menos de 200m²) puede ser que sólo recoja aquellos envases que venden allí. Si son más grandes, están obligados a recoger todo tipo de botellas, no solo las que ellos venden. Por lo tanto, no las tienes que devolver en la misma tienda que las compraste, puede ser otra, puede ser de otra cadena o incluso de otra ciudad.
+## ¿Cómo se devuelven los envases?
+En los **supermercados y tiendas** que las venden. Cualquier compañía que venda productos embotellados está obligado por ley también a recogerlos. En ocasiones, si el establecimiento es pequeño (menos de 200m²) puede ser que sólo recoja aquellos envases que venden allí. Si son más grandes, están obligados a recoger todo tipo de botellas y latas, no solo las que ellos venden. Por lo tanto, no las tienes que devolver en la misma tienda que las compraste, puede ser otra, puede ser de otra cadena o incluso de otra ciudad.
 
 Hoy en día casi todos los supermercados tienen máquinas de recogida de botellas, donde dice *Leergut*, que se suelen encontrar o bien a la entrada o bien al fondo.
 

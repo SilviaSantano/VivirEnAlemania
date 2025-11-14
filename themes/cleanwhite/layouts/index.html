@@ -17,7 +17,7 @@
                 <div class="post-heading">
                     <h1>{{ .Title }}</h1>
                     <h2 class="subheading">
-                        {{ $page := .Site.GetPage "home/home.md" }}  
+                        {{ $page := .Site.GetPage "home/index.md" }}  
                             {{ $page.Params.Subtitle}}</h2>
                 </div>
             </div>
@@ -38,7 +38,7 @@
             col-sm-12
             col-xs-12
             post-container">
-            {{ $page := .Site.GetPage "home/home.md" }}  
+            {{ $page := .Site.GetPage "home/index.md" }}  
                 {{ $page.Content }}
 
             </div>

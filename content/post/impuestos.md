@@ -1,11 +1,11 @@
 ---
 title: "¿Cuántos impuestos se pagan en Alemania?"
-subtitle: "Retenciones salariales en Alemania en 2025"
+subtitle: "Estos son los impuestos en Alemania en 2025"
 date: 2025-04-26
 lastmod: 2025-10-13
 tags:        ["Finanzas", "Burocracia"]
 categories:  ["Vivir", "Trabajar", "Todos"]
-description:  "¿Sabes cuántos impuestos se pagan en Alemania? Guía completa sobre los impuestos en Alemania en 2025, retenciones salariales, coste de la seguridad social en Alemania, IRPF, y más. Descubre todos los impuestos y cómo calcular el salario neto en Alemania."
+description:  "Guía completa sobre los impuestos en Alemania en 2025, retenciones salariales, coste de la seguridad social en Alemania, IRPF, y más. Descubre todos los impuestos y cómo calcular el salario neto en Alemania."
 ---
 
 # ¿Qué impuestos se pagan en Alemania en 2025?

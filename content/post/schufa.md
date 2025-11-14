@@ -1,15 +1,15 @@
 ---
 title: "¿Qué es SCHUFA en Alemania?"
-subtitle: "Qué significa SCHUFA y para qué sirve en Alemania"
+subtitle: "Para qué sirve la SCHUFA y cómo obtenerla"
 date: 2024-05-03
 lastmod: 2025-10-11
-tags:        ["Finanzas", "Primeros pasos", "Burocracia"]
+tags:        ["Finanzas", "Burocracia"]
 categories:  ["Vivir", "Primeros pasos", "Todos"]
 description:  "¿Qué es la Schufa en Alemania? Descubre cómo funciona, cómo afecta a tu crédito y cómo obtener tu Schufa Bonitätsauskunft."
 ---
 
 # ¿Qué es la *SCHUFA* en Alemania?
-Cuando vives en Alemania, existen muchas situaciones en las que oyes la palabra ***Schufa***. El caso más común es que te la pidan en procesos como el de alquilar o comprar una vivienda o pedir un préstamo, entre otros, pero, ¿qué es eso de la *Schufa*?
+Cuando vives en Alemania, existen muchas situaciones en las que oyes la palabra ***Schufa***. El caso más común es que te la pidan en procesos como el de alquilar o comprar una vivienda o pedir un préstamo, entre otros, pero, ¿qué es eso de la *Schufa*? ¿Cómo la puedes obtener? ¿Hace falta solicitar la SCHUFA?
 
 Schufa es una contracción en alemán que viene de *Schutzgemeinschaft für allgemeine Kreditsicherung* (obvio, ¿qué va ser si no? :wink:), que se traduciría como "asociación para la protección general del crédito". La [Schufa Holding AG](https://www.schufa.de/en/index.jsp) es, por lo tanto, un servicio de **protección de crédito** y tiene como objetivo proteger a sus clientes de riesgos de crédito y de insolvencia de sus prestatarios.
 

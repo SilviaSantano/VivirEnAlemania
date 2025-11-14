@@ -1,14 +1,14 @@
 ---
-title: "Steuerklassen"
-subtitle: "¿Cuáles son las categorías fiscales en Alemania?"
+title: "Steuerklassen: clases de impuestos en Alemania"
+subtitle: "¿Cómo funciona el sistema fiscal alemán?"
 date: 2024-05-02
 tags:        ["Finanzas", "Burocracia"]
-categories:  ["Vivir", "Trabajar", "Todos"]
+categories:  ["Trabajar", "Todos"]
 description:  "¿Qué son las Steuerklassen en Alemania? Descubre cómo las clases fiscales afectan a tus impuestos, opciones para parejas y cómo cambiar tu clase fiscal en Alemania. 🇩🇪"
 ---
 
-# Categorías fiscales en Alemania: *Steuerklassen*
-¿Estás trabajando o te gustaría trabajar en Alemania? Quizá hayas oído hablar de las *Steuerklassen* o categorías fiscales. Este concepto importante y que es necesario entender si trabajas en Alemania, ya que tiene un gran efecto en los [impuestos](/post/impuestos) que tienes que pagar. Concretamente, en los impuestos sobre la renta (IRPF). Si quieres saber más sobre los impuestos que se pagan en Alemania, en [este artículo](/post/impuestos) los explico en detalle.
+# Categorías o clases fiscales en Alemania: *Steuerklassen*
+¿Estás trabajando o te gustaría trabajar en Alemania? Entonces es muy importante que entiendas cómo funciona el sistema de impuestos alemán y sus clases impositivas. Quizá hayas oído hablar de las *Steuerklassen* o categorías fiscales. Este concepto es importante, ya que tiene un gran efecto en los [impuestos](/post/impuestos) que tienes que pagar. Concretamente, en los impuestos sobre la renta (IRPF). Si quieres saber más sobre los impuestos que se pagan en Alemania, en [este artículo](/post/impuestos) los explico en detalle.
 
 En Alemania existen seis categorías, clases o tramos fiscales: *Steuerklassen*. Estar en una u otra depende, principalmente, de tu situación personal y familiar, es decir, tu estado civil y si tienes hijos/as o no. Generalmente, una persona puede cambiar de una a otra cuando se produce un cambio importante o bien en sus ingresos o bien en sus circunstancias vitales, tales como casarse o tener hijos. Al principio, parece un sistema muy complejo pero, una vez que lo entiendes, no es para tanto. 
 
