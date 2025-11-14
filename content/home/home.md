@@ -5,7 +5,7 @@ date: 2025-11-06
 layout: page
 description: "Guía completa para Vivir en Alemania. Todo lo que necesitas saber explicado paso a paso en español y con consejos prácticos: trámites, trabajo, vivienda, impuestos y diferencias culturales."
 ---
-# Vivir en Alemania: todo lo que tienes que saber
+# Vivir en Alemania: guía completa para mudarte
 *Herzlich Willkommen!*
 
 ¡Bienvenidos y bienvenidas a **Vivir en Alemania**!  
@@ -14,17 +14,19 @@ Seguramente hayas oído hablar de las oportunidades que Alemania puede ofrecer. 
 
 Si estás pensando en emigrar y ves a Alemania como tu próxima parada, ya has comenzado el proceso, hace poco que te mudaste o simplemente quieres saber más sobre la vida en el país de la cerveza, los castillos y las famosas “bratwurst”, has llegado al lugar correcto. Te invitamos a descubrir en nuestra web todo lo que el país tiene reservado para estudiantes y profesionales como tú, **tanto lo bueno como lo malo**.
 
-## ¿Qué es esta página?
+## ¿Qué es ***Vivir en Alemania***?
 Es una guía práctica creada por y para españoles que quieren vivir y trabajar en este país. Aquí te contamos **todo lo que tienes que saber para empezar tu vida en Alemania**. Cada artículo está pensado para despejar dudas reales a las que todos nos hemos enfrentado: ¿Cómo hacer el [empadronamiento](/post/anmeldung)? ¿Cómo encontrar vivienda en Alemania? ¿Cómo funciona el [sistema de impuestos](post/impuestos)? ¿Qué peculiaridades y diferencias culturales debo conocer para poder integrarme? 
 
 Esperamos resolver todas tus dudas sobre las grandes cuestiones y obstáculos para ayudarte en este proceso y hacerte la vida más fácil en Alemania.
 
-Todo el contenido está escrito en español, ya que el enfoque principal es para la comunidad hispana, especialmente española, pero toda esta información también puede ser muy útil para cualquiera que esté interesado en Alemania.
+Todo el contenido está escrito en español, ya que el enfoque principal es para la comunidad hispana, especialmente española, pero toda esta información también puede ser muy útil para cualquiera que esté interesado en Alemania. ¿Qué encontrarás aquí?
 
 
-## ¿Qué encontrarás aquí?
-- ### Cómo tomar la decisión
-  Puede que te estés planteando cómo podría ser tu vida en Alemania pero aún no lo tienes claro. Antes de comprar un vuelo, hacer las maletas y lanzarte a la aventura, quizá necesites saber más sobre el país teutón. ¿Cómo es realmente el día a día en Alemania? ¿Encaja con tus planes y tu personalidad? ¿Cuál es el [mejor sitio para vivir](/post/ciudades) en tu caso? ¿Cuál es el [coste de vida](/post/coste-de-vida)?
+## Todo lo que tienes que saber para empezar tu vida en Alemania
+- ### ¿Por qué vivir en Alemania?
+  Descubre cuáles son las ventajas que ofrece Alemania.
+- ### ¿Debería mudarme a Alemania?
+  ¿Cómo tomar la decisión? Puede que te estés planteando cómo podría ser tu vida en Alemania pero aún no lo tienes claro. Antes de comprar un vuelo, hacer las maletas y lanzarte a la aventura, quizá necesites saber más sobre el país teutón. ¿Cómo es realmente el día a día en Alemania? ¿Encaja con tus planes y tu personalidad? ¿Cuál es la [mejor ciudad para vivir](/post/ciudades) en tu caso? ¿Cuál es el [coste de vida](/post/coste-de-vida)?
 - ### Trámites y burocracia
   Guías paso a paso para realizar el *[Anmeldung](/post/anmeldung)*, abrir una [cuenta de banco](/post/cuenta-banco), darte de alta en el seguro médico, solicitar el [paro](/post/prestacion-desempleo), etc.   
 - ### Trabajo
