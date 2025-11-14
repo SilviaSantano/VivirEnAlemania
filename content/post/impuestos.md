@@ -66,7 +66,7 @@ La contribución para los asegurados del **seguro de pensiones** se calcula en b
 ## Coste del seguro de enfermedad en Alemania (Krankenversicherung)
 La siguiente deducción de la nómina es el **seguro de enfermedad** o *Krankenversicherung*, que es obligatorio para todas las personas que vivan en Alemania. A partir de un salario estipulado, se puede puede elegir entre el sistema público o el privado, pero por debajo de ese límite es obligatorio formar parte del sistema público. Es la rama más antigua del sistema de seguridad social alemán y tiene como fin "mantener o restablecer la salud del asegurado/a". Todas las personas aseguradas tienen derecho a prestaciones integrales y uniformes, independientemente de su capacidad financiera, y las cotizaciones dependen de los ingresos.
 
-El tema del seguro médico también es extenso y requiere un artículo propio, donde te explico todo lo que tienes que saber. Puedes encontrarlo [aquí](/post/seguro-medico).
+<!--El tema del seguro médico también es extenso y requiere un artículo propio, donde te explico todo lo que tienes que saber. Puedes encontrarlo [aquí](/post/seguro-medico).-->
 
 La contribución para los asegurados se calcula en base a sus ingresos. La tasa general de cotización en 2025 es del 14,6% del salario bruto, de los cuales el empleado y el empleador pagan cada uno la mitad. Es decir, al trabajador el seguro de enfermedad le cuesta el **7,3% de su salario**. 
 
