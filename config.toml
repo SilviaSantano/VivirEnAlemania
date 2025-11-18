@@ -1,7 +1,9 @@
-baseurl = "https://vivirenalemania.es"
+baseURL = "https://vivirenalemania.es/"
 title = "Vivir en Alemania"
 theme = "cleanwhite"
 enableEmoji = true
+canonifyURLs = true
+relativeURLs = false
 
 defaultContentLanguage = "es" # Set Spanish as the default language
 [languages]
