@@ -108,6 +108,8 @@ Otra razón para considerar vivir en Múnich es su vibrante ambiente social y cu
 - **Lo mejor**: hermosa y tranquila ciudad, rodeada de naturaleza
 - **Lo peor**: sin duda, encontrar un piso en Munich y que te lo puedas permitir va a ser lo más duro 
 
+Para saber más, visita esta [guía y consejos para encontrar piso](/post/encontrar-piso).
+
 ## Colonia (*Köln*)
 Hacia el oeste, Colonia, la cuarta ciudad más grande, se encuentra en el corazón de la densamente poblada región de Renania del Norte-Westfalia, en la que viven algo más de un millón de personas. 
 En una área relativamente compacta de esta región, se encuentran varias ciudades importantes, entre las cuales Colonia y Düsseldorf destacan como las más grandes y están clasificadas entre **las mejores ciudades para vivir en Alemania para extranjeros**.

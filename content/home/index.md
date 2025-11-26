@@ -32,7 +32,7 @@ Todo el contenido está escrito en español, ya que el enfoque principal es para
 - ### Trabajo
   Consejos para buscar empleo, redactar CV en alemán, entrevistas, y cómo el mercado laboral local puede diferir de España.  
 - ### Vivienda
-  Información sobre cómo [elegir la zona adecuada](/post/ciudades) según tu presupuesto y estilo de vida, consejos para encontrar piso y ¿qué es la [SCHUFA](/post/schufa)?
+  Información sobre cómo [elegir la zona adecuada](/post/ciudades) según tu presupuesto y estilo de vida, [guía y consejos para encontrar piso](/post/encontrar-piso) y ¿qué es la [SCHUFA](/post/schufa)?
 - ### Sistema de impuestos  
   Explicaciones sencillas sobre el [impuesto](/post/impuestos) sobre la renta, la seguridad social, el IVA, deducciones y cómo funcionan las [clases fiscales](/post/steuerklassen). 
 - ### Cultura y sociedad  
