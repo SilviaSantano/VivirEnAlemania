@@ -6,8 +6,57 @@
     <description>Recent content in Tags on Vivir en Alemania</description>
     <generator>Hugo</generator>
     <language>es-ES</language>
-    <lastBuildDate>Fri, 21 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Compras</title>
+      <link>http://localhost:1313/tags/compras/</link>
+      <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/compras/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cultura</title>
+      <link>http://localhost:1313/tags/cultura/</link>
+      <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/cultura/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fiestas</title>
+      <link>http://localhost:1313/tags/fiestas/</link>
+      <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/fiestas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Navidad</title>
+      <link>http://localhost:1313/tags/navidad/</link>
+      <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/navidad/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ocio</title>
+      <link>http://localhost:1313/tags/ocio/</link>
+      <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/ocio/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Burocracia</title>
+      <link>http://localhost:1313/tags/burocracia/</link>
+      <pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/burocracia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Empadronamiento</title>
+      <link>http://localhost:1313/tags/empadronamiento/</link>
+      <pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/empadronamiento/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Pros Y Contras</title>
       <link>http://localhost:1313/tags/pros-y-contras/</link>
@@ -23,20 +72,6 @@
       <description></description>
     </item>
     <item>
-      <title>Cultura</title>
-      <link>http://localhost:1313/tags/cultura/</link>
-      <pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/cultura/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Ocio</title>
-      <link>http://localhost:1313/tags/ocio/</link>
-      <pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/ocio/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Tiempo Libre</title>
       <link>http://localhost:1313/tags/tiempo-libre/</link>
       <pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate>
@@ -48,13 +83,6 @@
       <link>http://localhost:1313/tags/trabajo/</link>
       <pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/trabajo/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Compras</title>
-      <link>http://localhost:1313/tags/compras/</link>
-      <pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/compras/</guid>
       <description></description>
     </item>
     <item>
@@ -114,13 +142,6 @@
       <description></description>
     </item>
     <item>
-      <title>Burocracia</title>
-      <link>http://localhost:1313/tags/burocracia/</link>
-      <pubDate>Sat, 26 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/burocracia/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Finanzas</title>
       <link>http://localhost:1313/tags/finanzas/</link>
       <pubDate>Sat, 26 Apr 2025 00:00:00 +0000</pubDate>
@@ -139,13 +160,6 @@
       <link>http://localhost:1313/tags/bancos/</link>
       <pubDate>Wed, 24 Apr 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/bancos/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Empadronamiento</title>
-      <link>http://localhost:1313/tags/empadronamiento/</link>
-      <pubDate>Sun, 21 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/empadronamiento/</guid>
       <description></description>
     </item>
   </channel>

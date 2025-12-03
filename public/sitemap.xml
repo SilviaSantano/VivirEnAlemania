@@ -2,22 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/post/encontrar-vivienda/</loc>
-    <lastmod>2025-11-26T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-12-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/compras/</loc>
+    <lastmod>2025-12-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/cultura/</loc>
+    <lastmod>2025-12-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/curiosidades/</loc>
+    <lastmod>2025-12-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/fiestas/</loc>
+    <lastmod>2025-12-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/navidad/</loc>
+    <lastmod>2025-12-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ocio/</loc>
+    <lastmod>2025-12-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/</loc>
-    <lastmod>2025-11-26T00:00:00+00:00</lastmod>
+    <lastmod>2025-12-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-12-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/todos/</loc>
+    <lastmod>2025-12-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2025-12-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/mercados-navidad/</loc>
+    <lastmod>2025-12-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/burocracia/</loc>
+    <lastmod>2025-11-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/encontrar-piso/</loc>
+    <lastmod>2025-11-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/empadronamiento/</loc>
+    <lastmod>2025-11-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/primeros-pasos/</loc>
+    <lastmod>2025-11-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/vivir/</loc>
     <lastmod>2025-11-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/razones-para-vivir-en-alemania/</loc>
-    <lastmod>2025-11-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-11-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/primeros-pasos/</loc>
     <lastmod>2025-11-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/pros-y-contras/</loc>
@@ -26,28 +62,10 @@
     <loc>http://localhost:1313/tags/razones/</loc>
     <lastmod>2025-11-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-11-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/todos/</loc>
-    <lastmod>2025-11-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/vivir/</loc>
-    <lastmod>2025-11-21T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/home/</loc>
     <lastmod>2025-11-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/cultura/</loc>
-    <lastmod>2025-10-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/curiosidades/</loc>
-    <lastmod>2025-10-29T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/post/festivos/</loc>
-    <lastmod>2025-10-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/ocio/</loc>
     <lastmod>2025-10-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/tiempo-libre/</loc>
@@ -58,9 +76,6 @@
   </url><url>
     <loc>http://localhost:1313/tags/trabajo/</loc>
     <lastmod>2025-10-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/compras/</loc>
-    <lastmod>2025-10-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/mercado-segunda-mano/</loc>
     <lastmod>2025-10-21T00:00:00+00:00</lastmod>
@@ -101,9 +116,6 @@
     <loc>http://localhost:1313/post/impuestos/</loc>
     <lastmod>2025-10-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/burocracia/</loc>
-    <lastmod>2025-10-13T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/finanzas/</loc>
     <lastmod>2025-10-13T00:00:00+00:00</lastmod>
   </url><url>
@@ -132,9 +144,6 @@
     <lastmod>2025-10-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/anmeldung/</loc>
-    <lastmod>2025-10-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/empadronamiento/</loc>
     <lastmod>2025-10-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/archive/</loc>

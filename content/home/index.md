@@ -36,7 +36,7 @@ Todo el contenido está escrito en español, ya que el enfoque principal es para
 - ### Sistema de impuestos  
   Explicaciones sencillas sobre el [impuesto](/post/impuestos) sobre la renta, la seguridad social, el IVA, deducciones y cómo funcionan las [clases fiscales](/post/steuerklassen). 
 - ### Cultura y sociedad  
-  Pequeñas anécdotas y comparaciones con la vida en España: [¿A qué hora se come en Alemania?](/post/horarios) ¿Cómo funciona el *[Pfand](/post/pfand)*, el sistema de depósito de botellas? ¿Qué significa *Pünktlichkeit* (puntualidad) en la práctica? ¿Cuántos días [festivos hay en Alemania](/post/festivos)? ¿Hay [mercado de segunda mano](/post/mercado-segunda-mano)? ¿Hay que dar [propinas](/post/propinas)?
+  Conoce los mágicos [mercados de navidad de Alemania](/post/mercados-navidad) y aprende pequeñas anécdotas y comparaciones con la vida en España: [¿A qué hora se come en Alemania?](/post/horarios) ¿Cómo funciona el *[Pfand](/post/pfand)*, el sistema de depósito de botellas? ¿Qué significa *Pünktlichkeit* (puntualidad) en la práctica? ¿Cuántos días [festivos hay en Alemania](/post/festivos)? ¿Hay [mercado de segunda mano](/post/mercado-segunda-mano)? ¿Hay que dar [propinas](/post/propinas)?
 
 Los artículos están organizados en categorías para que puedas saltar de un tema a otro sin perder el hilo. En la barra de navegación superior, haz clic en la categoría que más te interese y verás una lista de posts relacionados.
 
