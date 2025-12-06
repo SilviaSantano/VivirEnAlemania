@@ -1,10 +1,10 @@
 ---
-title: "¿Por qué vivir en Alemania?"
-subtitle: "Ventajas y desventajas de vivir en Alemania en 2025"
+title: "17 Razones para vivir en Alemania en 2025"
+subtitle: "Ventajas y desventajas de emigrar a Alemania"
 date: 2025-11-21
 tags:        ["Razones", "Pros y Contras"]
 categories:  ["Vivir", "Primeros Pasos", "Todos"]
-description:  "Descubre cuáles son las ventajas que ofrece vivir en Alemania y también las desventajas de vivir en Alemania."
+description:  "Descubre cuáles son las ventajas que ofrece vivir en Alemania y también las desventajas."
 ---
 
 # 17 Razones para vivir en Alemania en 2025
