@@ -23,7 +23,8 @@
                 {{ if .Site.Params.featured_tags }}
                 <section>
                     <hr class="hidden-sm hidden-xs">
-                    <h5><a href="{{ "/tags/" | relLangURL }}">TEMAS</a></h5>
+                    <h5><a href="{{ "/tags/" | relLangURL }}">TODOS LOS TEMAS</a></h5>
+                    <h5>Selecciona un tema para ver todos los artículos relacionados.</h5>
                     <div class="tags">
                         {{ $featured_condition_size := .Site.Params.featured_condition_size }}
                         {{ range $name, $taxonomy := .Site.Taxonomies.tags }}

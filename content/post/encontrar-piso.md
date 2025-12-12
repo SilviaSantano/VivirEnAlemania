@@ -2,7 +2,7 @@
 title: "Cómo encontrar piso de alquiler en Alemania"
 subtitle: "Guía completa para alquilar vivienda en 2025"
 date: 2025-11-26
-tags:        ["Burocracia", "Empadronamiento"]
+tags:        ["Vivienda", "Burocracia", "Vida"]
 categories:  ["Primeros pasos", "Vivir", "Todos"]
 description:  "Guía completa y consejos para alquilar un piso en Alemania."
 ---

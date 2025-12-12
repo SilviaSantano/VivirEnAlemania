@@ -2,8 +2,8 @@
 title: "Cómo solicitar el paro o Arbeitslosengeld en Alemania"
 subtitle: "Prestación por desempleo en Alemania en 2025 paso a paso"
 date: 2025-10-15
-lastmod: 2025-10-22
-tags:        ["Trabajo", "Desempleo", "Paro", "Dinero"]
+lastmod: 2025-12-12
+tags:        ["Trabajo", "Desempleo", "Paro", "Dinero",]
 categories:  ["Trabajar", "Vivir", "Todos"]
 description:  "¿Quieres saber cuánto se cobra de paro y cómo cobrar el paro en Alemania? En esta guía te explicamos paso a paso el proceso para solicitar Arbeitslosengeld, cuáles son las condiciones y qué hay que hacer para pedirlo."
 ---
@@ -15,7 +15,7 @@ En definitiva, es un proceso bastante costoso pero muy necesario para todos aque
 ## Introducción: cobrar el *Arbeitslosengeld* o prestación por desempleo en Alemania
 A grandes rasgos, la prestación de desempleo alemana, conocida como Arbeitslosengeld (ALG I), es una prestación a la que puedes acceder si cumples cuatro requisitos esenciales: estar sin empleo pero ser capaz de trabajar un mínimo de 15 horas a la semana, buscar activamente un puesto sujeto a seguro social en colaboración con tu *Agentur für Arbeit* (la agencia de trabajo alemana), inscribirte como solicitante y desempleado, y haber cumplido el *Anwartschaftszeit* (periodo de cotización mínimo requerido). Este periodo de cotización estándar requiere generalmente 12 meses de seguro obligatorio dentro de los 30 meses previos al desempleo. 
 
-Para los ciudadanos españoles, es relevante saber que los tiempos de trabajo sujetos a cotización en países de la Unión Europea pueden sumarse a los periodos cotizados en Alemania, **siempre y cuando haya trabajado en un empleo sujeto a cotización social en Alemania después de su regreso**. 
+¿Quieres mudarte a Alemania, o de Alemania a otro país, y cobrar allí la prestación por desempleo o llevarte el tiempo cotizado? Para los ciudadanos que hayan trabajado en otros países antes, es relevante saber que los tiempos de trabajo sujetos a cotización en países de la Unión Europea (y EEE) pueden sumarse a los periodos cotizados en Alemania. Más información sobre este caso particular más adelante, donde explicamos qué opciones tienes y [qué formularios son necesarios](#formularios-para-moverte-entre-países-y-ejercer-tus-derechos-de-desempleo) (Formularios U1 y U2) para moverte entre países y ejercer tus derechos de desempleo en estos procesos.
 
 !["Estación central de Munich: Hauptbahnhof"](/img/hbf.jpg "Estación central de Munich: Hauptbahnhof")
 
@@ -174,6 +174,50 @@ Si buscas trabajo en un país de la UE, Suiza, Noruega, Islandia o Liechtenstein
 • Debes cumplir un periodo de espera (*Wartefrist*) de al menos 4 semanas antes de viajar al extranjero y debes presentar una solicitud formal ante la Agentur für Arbeit alemana antes de tu salida. Esta solicitud deberá ser estudiada y aprobada o no según cada caso particular. En todo caso, aunque exista este derecho, será evaluado y pueden rechazar la solicitud.
 
 Si la aprueban, podrás recibir el paro en estos países por un máximo de 3 meses, prorrogable hasta 6 meses bajo ciertas circunstancias. 
+
+Para saber exactamente cómo realizar estos trámites, lee el siguiente apartado sobre los diferentes formularios, necesitarás el U2.
+
+## Formularios para moverte entre países y ejercer tus derechos de desempleo
+Los formularios U1 y U2 son documentos esenciales dentro del sistema de coordinación de la seguridad social en la Unión Europea (UE), el Espacio Económico Europeo (EEE) y Suiza.
+Estos documentos "portátiles" (Portable Documents) tienen propósitos distintos, pero ambos te permiten ejercer tus derechos de desempleo al moverte entre países: ya sea para acceder al paro en Alemania contando tus cotizaciones españolas ([Formulario U1](https://www.sepe.es/HomeSepe/prestaciones-desempleo/prestaciones-desempleo-trabajo-ue/he-trabajado-quiero-trabajar-en-la-ue.html)) o para cobrar tu prestación española mientras buscas trabajo en Alemania ([Formulario U2](https://europa.eu/youreurope/citizens/work/social-security-and-benefits/transferring-unemployment-benefits/index_es.htm)).
+A continuación, te explicamos el uso, propósito, casos prácticos y las diferencias de cada uno.
+
+- **U1**: **Acredita los periodos cotizados en otro país** para que puedas adquirir un nuevo derecho al desempleo en el país donde lo solicitas, sumando cotizaciones.
+- **U2**: **Autoriza a cobrar una prestación existente** mientras buscas trabajo en otro país. Es decir, te permite transferir el pago de una prestación que ya tienes aprobada y seguir cobrando en otro país.
+
+Ojo, los formularios U1 y U2 son incompatibles entre sí. No puedes usar los mismos períodos cotizados para generar un nuevo derecho (U1) y, al mismo tiempo, exportar un derecho ya existente (U2).
+
+### Formulario U1 (Acreditación de Períodos de Cotización)
+El Formulario U1 (anteriormente conocido como E301) es un certificado que acredita los períodos de seguro o cotización que tú has cubierto en otro país de la UE/EEE o Suiza. La función del U1 es permitir que se sumen o totalicen tus periodos de cotización. Esto es vital si regresas a Alemania y solicitas allí la prestación por desempleo (Arbeitslosengeld), ya que los tiempos cotizados en el extranjero se considerarán para cumplir el periodo de carencia (Anwartschaftszeit) que te exigen en Alemania.
+
+*Ejemplo Práctico (Obtener el paro en Alemania con cotizaciones españolas):  trabajaste 2 años en España, regresas y cotizas 3 meses en un trabajo en Alemania antes de quedar desempleado. La Agencia Federal de Empleo (Bundesagentur für Arbeit) considerará los 2 años españoles más los 3 meses alemanes para ver si cumples con el mínimo requerido (generalmente 12 meses en los últimos 30). El U1 prueba el tiempo cotizado en España.* 
+
+El U1 se solicita a la institución de seguridad social del país donde terminaste tu último empleo, por ejemplo, el SEPE en España (o la *Agentur für Arbeit* en Alemania, si lo haces a la inversa).
+Debido a los reglamentos modernos (Reglamentos 883/2004 y 987/2009) y el sistema de intercambio electrónico de datos (EESSI), la institución que tramita tu solicitud está obligada a solicitar esta información directamente a la otra, pero si quieres tener el documento por seguridad, puedes solicitarlo.
+
+Para saber más sobre cómo hacer uso de los períodos cotizados en España para acceder a prestaciones por desempleo en Alemania, puedes leer toda la información en [este enlace](https://www.sepe.es/HomeSepe/prestaciones-desempleo/prestaciones-desempleo-trabajo-ue/he-trabajado-quiero-trabajar-en-la-ue.html).
+
+### Formulario U2 (Autorización de Exportación de Prestaciones)
+El Formulario U2 (antiguo E303) es la autorización que te permite **seguir cobrando la prestación por desempleo** que ya tienes reconocida en un país (el país que te paga) mientras buscas trabajo en otro país de la UE/EEE o Suiza.
+Te autoriza a trasladarte a Alemania para buscar empleo, manteniendo el cobro de tu prestación española (prestación contributiva o subsidios ordinarios) por un tiempo limitado. O viceversa, seguir cobrando en España tu prestación alemana.
+
+Esta posibilidad es práctica pero para hacerlo existen unos requisitos, como mencionamos en el apartado anterior. Aquí de nuevo en más detalle:
+1. Antes de viajar (en el país que te paga, ej. España):
+- Debes ser beneficiario de una prestación o subsidio por desempleo en España
+- Debes haber estado inscrito como demandante de empleo en España por un mínimo de cuatro semanas antes de tu salida (puede haber excepciones)
+- Tienes que solicitar el Formulario U2 a tu servicio nacional de empleo antes de salir
+
+2. Al llegar al país de destino (por ej. Alemania):
+- Debes inscribirte como demandante de empleo en el servicio público de empleo alemán (Agentur für Arbeit) en un plazo de siete días desde la fecha en que dejaste de estar registrado en el país de origen
+- Tienes que presentar el formulario U2 al inscribirte
+- Debes cumplir con todas las obligaciones y controles que te exijan en el nuevo país, como si fuera ese país quien te pagase
+
+En cuanto a la duración, la prestación se exporta por un periodo inicial máximo de 3 meses y puedes solicitar una prórroga por otros 3 meses (hasta un total de 6 meses) antes de que expire el periodo inicial de 3 meses.
+Respecto al pago, es la misma institución la que sigue pagándote el mismo importe de la prestación en la misma cuenta bancaria donde te la ingresaban antes.
+
+Este tema es un poco lioso de entender, por eso utilizo algunos ejemplos. Ya que hay personas que necesitan hacer los trámites en un sentido (hacia Alemania) y otras en el contrario (saliendo de Alemania) utilizamos ejemplos para ambos, para que quede más claro. Espero que no cause confusión. La normativa es europea y, por tanto, la misma para los dos casos.
+
+Puedes leer más sobre la normativa de transferencia de prestaciones de desempleo europea [aquí](https://europa.eu/youreurope/citizens/work/social-security-and-benefits/transferring-unemployment-benefits/index_es.htm).
 
 ## Más información sobre Arbeitslosengeld
 Toda la información explicada en esta guía está sacada íntegramente de la documentación oficial que puedes leer en [este enlace](https://www.arbeitsagentur.de/datei/merkblatt-fuer-arbeitslose_ba036520.pdf). Es un documento de 100 páginas, sólo disponible en alemán, que explica en aún más detalle todos estos puntos. Si tienes alguna duda o tu caso o pregunta no ha quedado resuelta en este artículo, puedes dejar un comentario o utilizar la documentación oficial.
