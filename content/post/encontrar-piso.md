@@ -1,6 +1,6 @@
 ---
-title: "Cómo encontrar piso de alquiler en Alemania"
-subtitle: "Guía completa para alquilar vivienda en 2025"
+title: "Cómo alquilar piso en Alemania en 6 pasos"
+subtitle: "Guía completa para encontrar apartamento en 2025"
 date: 2025-11-26
 tags:        ["Vivienda", "Burocracia", "Vida"]
 categories:  ["Primeros pasos", "Vivir", "Todos"]
@@ -137,4 +137,4 @@ Por eso, recuerda que el primer piso será sólo un punto de partida para comenz
 
 Como se realizan tantas mudanzas a diario, hay muchas empresas que alquilan furgonetas para mudanzas, que tú mismo conduces. Y puede que en la primera mudanza no conozcas a mucha gente pero te aseguro que en las demás no estarás solo. Aquí todo el mundo sabe que este es uno de los momentos en los que hay que demostrar que se es amigo de verdad y los amigos acudirán a ayudarte con esta tarea tan pesada. He perdido la cuenta de las veces que me he mudado pero aún más he perdido la cuenta de las mudanzas de amigos y amigas que he hecho a lo largo de los años... incontables. Es un evento en sí mismo. Se junta mucha gente y entre todos es más fácil y rápido. Después, tras mucho subir y bajar escaleras, se pone fin a la tarea, o se hace una pausa, llega la recompensa y la costumbre es invitar a comer o a cervezas y aperitivos a las personas que te han ayudado. Son momentos bonitos, donde después de pasar un día duro, ves que todo vale la pena, echas unas risas con los amigos y habláis del futuro en la nueva casa.
 
-¡Espero que te haya ayudado a comprender el *maravilloso* proceso de buscar piso en Alemania! Para continuar tu viaje, quizás te interese leer otros artículos relacionados, como éste sobre el [coste de vida](/post/coste-de-vida) o cómo realizar el [empadronamiento o Anmeldung](/post/anmeldung) de tu nueva casa.
+¡Espero que te haya ayudado a comprender el *maravilloso* proceso de buscar piso en Alemania! Para continuar tu viaje, quizás te interese leer otros artículos relacionados, como éste sobre [cómo elegir una cuenta de banco](/post/cuenta-banco) o cómo realizar el [empadronamiento o Anmeldung](/post/anmeldung) de tu nueva casa.
