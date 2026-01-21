@@ -1,14 +1,14 @@
 ---
 title: "¿Cuántos impuestos se pagan en Alemania?"
-subtitle: "Estos son los impuestos en Alemania en 2025"
+subtitle: "Estos son los impuestos en Alemania en 2026"
 date: 2025-04-26
-lastmod: 2025-10-13
+lastmod: 2026-01-21
 tags:        ["Finanzas", "Burocracia"]
 categories:  ["Vivir", "Trabajar", "Todos"]
-description:  "Guía completa sobre los impuestos en Alemania en 2025, retenciones salariales, coste de la seguridad social en Alemania, IRPF, y más. Descubre todos los impuestos y cómo calcular el salario neto en Alemania."
+description:  "Guía completa sobre los impuestos en Alemania en 2026, retenciones salariales, coste de la seguridad social en Alemania, IRPF, y más. Descubre todos los impuestos y cómo calcular el salario neto en Alemania."
 ---
 
-# ¿Qué impuestos se pagan en Alemania en 2025?
+# ¿Qué impuestos se pagan en Alemania en 2026?
 ¿Estás trabajando o te gustaría trabajar en Alemania? Algo importante que tienes que saber es que si ganas dinero en Alemania, tu ingreso estará sujeto a diferentes tipos de deducciones como, por ejemplo, el impuesto sobre la renta, la cuota de la seguridad social o los seguros de pensiones y de desempleo, entre otros. 
 
 Alemania ofrece muchos apoyos y ayudas sociales en el caso de que los ciudadanos/as se queden sin trabajo, caigan enfermos o necesiten otras ayudas en situaciones  como el nacimiento de los hijos. Para poder pagar todo esto, la otra cara de la moneda es que en Alemania se pagan **muchos impuestos**, que son las fuentes de ingresos más importantes para el Estado, con la que financia gastos para el bien común. Este podría ser un artículo en el que me quejo del complejo sistema fiscal, de lo altos que son los impuestos y de las leyes alemanas en general y bla, bla, bla. En lugar de eso (quizá otro día ya lo haré) voy a dedicarlo a describirlos **detalladamente** para que tengas bien claro cuáles son todos los impuestos que se tienen que pagar en Alemania. Además, como ya ves, es mucho lo que el Estado ofrece a cambio.
@@ -24,29 +24,31 @@ Cuánto te corresponde pagar depende de varios factores.
 En primer lugar, existen diferentes **tramos**, cada cual con un tipo impositivo diferente, que va aumentando progresivamente de manera proporcional al salario.
 El hecho de que suba progresivamente y no escalonadamente es, en realidad, un punto importante y una gran ventaja, ya que así no se producen grandes saltos de una tramo al siguiente en el caso de que se produzca un aumento de sueldo. Al recibir, por tanto, un aumento de sueldo, los impuestos aumentarán con él pero no será una gran cantidad de golpe (lo cual podría equiparar la subida o incluso dejarte con menos dinero neto que antes de la subida) sino que lo hacen paulatinamente.
 
-En cuanto a los tramos, para que veas como es la fórmula exacta que se aplica para el año fiscal 2025 tal cual para calcular la deducción según tu sueldo de acuerdo a [§ 32a EStG](https://www.bmf-steuerrechner.de/):
+En cuanto a los tramos, para que veas como es la fórmula exacta que se aplica para el año fiscal 2026 tal cual para calcular la deducción según tu sueldo de acuerdo a [§ 32a EStG](https://www.bmf-steuerrechner.de/) para declaraciones individuales son de:
 
-a) bis 12.084 € (Grundfreibetrag): 0;
+a) bis 12.348 € (Grundfreibetrag): 0;
 
-b) 12.084 € bis 17.430 €:
-ESt = (922,98 * y + 1.400) * y;
-y = (zvE - 11.604) / 10.000
+b) 12.349 € bis 17.799 €: 
+ESt = (914,51 * y + 1.400) * y;
+y = (zvE - 12.348) / 10.000
 
-c) 17.430 € bis 68.430 €: 
-ESt = (181,19 * z + 2.397) * z + 1.025,38
-z = (zvE - 17.005) / 10.000
+c) 17.800 € bis 69.878 €: 
+ESt = (173,10 * z + 2.397) * z + 1.034,87;
+z = (zvE - 17.799) / 10.000
 
-d) 68.430 € bis 277.825 €: 
-ESt = 0,42 * zvE - 10.602,13;
+d) 69.879 € bis 277.825 €: 
+ESt = 0,42 * zvE - 11.135,63;
 
-e) ab 277.826 €: ESt = 0,45 * zvE - 18.936,88
+e) ab 277.826 €: ESt = 0,45 * zvE - 19.470,38.
 
 donde zvE significa *zu versteundem Einkommen*, es decir, ingresos brutos.
+
+Estos tramos se suelen actualizar cada año fiscal. [Aquí](https://www.bmf-steuerrechner.de/javax.faces.resource/2025_10_14_Tarifhistorie_Steuerrechner.pdf.xhtml) puedes ver un histórico desde el año 1958 hasta el 2026 para saber cómo han ido evolucionando.
 
 **Pero, ¿qué me estás contando?** 
 
 Ya. Exactamente eso mismo. Bienvenido/a a Alemania. Es una fórmula realmente compleja que se tarda un rato en comprender y aplicar porque no son simples porcentajes sino que es más complicado que eso. No hace falta que hagas las cuentas a mano, utiliza la [calculadora oficial](https://www.bmf-steuerrechner.de/).
-Esto es a lo que me refería cuando decía que el cálculo de este impuesto es muy complejo pero, en resumidas cuentas, este impuesto va desde 0€ para ingresos menores a 11604€, a partir de tal cantidad pasa a ser 14% y llega hasta un máximo de aproximadamente un 42% en los casos de los salarios más altos (muy altos, porque si te fijas, en el caso *d* hay una cantidad de más de 10k que se resta y que hace que el porcentaje real sea mucho menor, alrededor del 35% para salarios de alrededor de 66761€ que es el mínimo de ese tramo). Y, para los más ricos, a partir de 277826 anuales (o sea, muy muy altos), existe el Reichensteuersatz del 45%.
+Esto es a lo que me refería cuando decía que el cálculo de este impuesto es muy complejo pero, en resumidas cuentas, este impuesto va desde 0€ para ingresos menores a 12.348€, a partir de tal cantidad pasa a ser 14% y llega hasta un máximo de aproximadamente un 42% en los casos de los salarios más altos (muy altos, porque si te fijas, en el caso *d* hay una cantidad de más de 10k que se resta y que hace que el porcentaje real sea mucho menor, alrededor del 35% para salarios de alrededor de 69.879€ que es el mínimo de ese tramo). Y, para los más ricos, a partir de 277.825 anuales (o sea, muy muy altos), existe el Reichensteuersatz del 45%.
 
 En segundo lugar, el **Lohnsteuer** también depende de tu situación familiar, es decir, tu estado civil y si tienes hijos/as o no y según esa situación tendrás una **Steuerklasse** u otra. También es diferente si tienes varios empleos. Las Steuerklassen son seis y, de manera resumida son: una clase para trabajadores solteros y divorciados sin hijos (I), una clase para trabajadores divorciados o viudos con hijos a su cargo (II), tres diferentes combinaciones de clases para parejas casadas y los trabajadores con dos empleos tienen dos clases (una de ellas la VI). En [este artículo](/post/steuerklassen), te explico todas las Steuerklassen de manera más detallada.
 
@@ -56,32 +58,34 @@ También varía un poco dependiendo del Bundesland (región) en el que tributas.
 
 ## Cuánto se paga por la seguridad social en Alemania (Sozialversicherung)
 La **seguridad social** es un elemento central del estado social que tiene como objetivo ayudar y proteger a los ciudadanos en los momentos de dificultad. Las personas que están empleadas en Alemania están protegidas y tienen derecho a ayudas y prestaciones a cambio de pagar ese seguro obligatorio con una parte de su nómina.
-Los impuestos de la seguridad social o [*Sozialversicherung*](https://www.bmas.de/DE/Soziales/Sozialversicherung/sozialversicherung-art.html), componen las *Sozialabgaben* que aparecen en la nómina y se dividen en los siguientes, ordenados de mayor a menor coste: el seguro de pensiones, el seguro de enfermedad, el seguro de dependencia, el seguro de desempleo y el seguro de accidentes. El coste de estos impuestos, excepto el del seguro de accidentes, se paga a medias entre el empleador y el trabajador.
+Los impuestos de la seguridad social o [*Sozialversicherung*](https://www.bmas.de/DE/Service/Presse/Pressemitteilungen/2025/sozialversicherungsrechengroessen-2026.html), componen las *Sozialabgaben* que aparecen en la nómina y se dividen en los siguientes, ordenados de mayor a menor coste: el seguro de pensiones, el seguro de enfermedad, el seguro de dependencia, el seguro de desempleo y el seguro de accidentes. El coste de estos impuestos, excepto el del seguro de accidentes, se paga a medias entre el empleador y el trabajador.
 
 ## Coste del seguro de pensiones en Alemania (Rentenversicherung)
 El seguro de pensiones o *Rentenversicherung* es obligatorio para prácticamente todos los trabajadores con muy pocas excepciones y tiene como objetivo, evidentemente, pagar las pensiones de las personas jubiladas.
 
-La contribución para los asegurados del **seguro de pensiones** se calcula en base a sus ingresos. La tasa general de cotización en 2025 es del 18,6% del salario bruto, de los cuales el empleado y el empleador pagan cada uno la mitad. Es decir, al trabajador el seguro de pensiones le cuesta el **9,3% de su salario**. 
+La contribución para los asegurados del **seguro de pensiones** se calcula en base a sus ingresos. La tasa general de cotización en 2026 es del 18,6% del salario bruto, de los cuales el empleado y el empleador pagan cada uno la mitad. Es decir, al trabajador el seguro de pensiones le cuesta el **9,3% de su salario**. 
 
 ## Coste del seguro de enfermedad en Alemania (Krankenversicherung)
 La siguiente deducción de la nómina es el **seguro de enfermedad** o *Krankenversicherung*, que es obligatorio para todas las personas que vivan en Alemania. A partir de un salario estipulado, se puede puede elegir entre el sistema público o el privado, pero por debajo de ese límite es obligatorio formar parte del sistema público. Es la rama más antigua del sistema de seguridad social alemán y tiene como fin "mantener o restablecer la salud del asegurado/a". Todas las personas aseguradas tienen derecho a prestaciones integrales y uniformes, independientemente de su capacidad financiera, y las cotizaciones dependen de los ingresos.
 
 <!--El tema del seguro médico también es extenso y requiere un artículo propio, donde te explico todo lo que tienes que saber. Puedes encontrarlo [aquí](/post/seguro-medico).-->
 
-La contribución para los asegurados se calcula en base a sus ingresos. La tasa general de cotización en 2025 es del 14,6% del salario bruto, de los cuales el empleado y el empleador pagan cada uno la mitad. Es decir, al trabajador el seguro de enfermedad le cuesta el **7,3% de su salario**. 
+La contribución para los asegurados se calcula en base a sus ingresos. La tasa general de cotización en 2026 es del 14,6% del salario bruto, de los cuales el empleado y el empleador pagan cada uno la mitad. Es decir, al trabajador el seguro de enfermedad le cuesta el **7,3% de su salario**. 
 
 ## Coste del seguro de dependencia o asistencia en Alemania (Pflegeversicherung)
 El seguro de dependencia o *Pflegeversicherung* también es obligatorio para prácticamente todos los trabajadores con muy pocas excepciones y su fin es cubrir prestaciones de ayuda en caso de dependencia.
 
-Como en todos los otros casos, a contribución para los asegurados del **seguro de dependencia** se calcula en base a sus ingresos. La tasa general de cotización en 2025 es del 3,6% del salario bruto, de los cuales el empleado y el empleador pagan cada uno la mitad. Es decir, al trabajador el seguro de dependencia le cuesta el **1,8% de su salario**. 
+Como en todos los otros casos, a contribución para los asegurados del **seguro de dependencia** se calcula en base a sus ingresos. La tasa general de cotización en 2026 es del 3,6% del salario bruto, de los cuales el empleado y el empleador pagan cada uno la mitad. Es decir, al trabajador el seguro de dependencia le cuesta el **1,8% de su salario**. 
 
 ## Coste del seguro de desempleo en Alemania (Arbeitslosenversicherung)
 El **seguro de desempleo** o *Arbeitslosenversicherung* también es obligatorio para prácticamente todos los trabajadores con muy pocas excepciones y su fin es cubrir prestaciones por desempleo (paro) cuando las personas se quedan sin trabajo.
 
-Como en todos los otros casos, a contribución para los asegurados se calcula en base a sus ingresos. La tasa general de cotización en 2025 es del 2,6% del salario bruto, de los cuales el empleado y el empleador pagan cada uno la mitad. Es decir, al trabajador el seguro de desempleo le cuesta el **1,3% de su salario**.  
+Como en todos los otros casos, a contribución para los asegurados se calcula en base a sus ingresos. La tasa general de cotización en 2026 es del 2,6% del salario bruto, de los cuales el empleado y el empleador pagan cada uno la mitad. Es decir, al trabajador el seguro de desempleo le cuesta el **1,3% de su salario**.  
 
 ## Coste del seguro de accidentes en Alemania (Unfallversicherung)
 También pertence a este grupo el *Unfallversicherung* o **seguro de accidentes**, también obligatorio. No obstante, este lo paga el empleador al 100%. Por lo tanto, no pagarás nada como trabajador/a, a no ser que trabajes por cuenta propia.
+
+Si quieres saber más sobre este tema y conocer los números de forma más detallada puedes hacerlo [aquí](https://www.lohn-info.de/sozialversicherungsbeitraege2026.html).
 
 ## El recargo de solidaridad o Solidaritätszuschlag
 El **recargo de solidaridad** o *Solidaritätszuschlag* o *Soli* es un impuesto bastante particular de Alemania. Consiste en un gravamen complementario al impuesto de la renta que fue introducido en el año 1991 y se deducía desde entonces cada mes de todos los asalariados. 
@@ -119,7 +123,7 @@ Existe también el impuesto por la radio y televisión públicas que **todas** l
 - Impuestos sobre sucesiones y donaciones
 - etc, etc, etc
 
-Todos los valores mencionados se refieren a los impuestos de 2025. Ten en cuenta que se suelen actualizar y cambian cada año.
+Todos los valores mencionados se refieren a los impuestos de 2026. Ten en cuenta que se suelen actualizar y cambian cada año.
 
 ## TLDR; Todo esto de los impuestos es un lío y no entiendo nada
 Estoy contigo. Este tema es muy lioso. Por si te está entrando dolor de cabeza de solo leer toda esta información, aquí te dejo un resumen con menos datos y un cálculo de ejemplo, sencillo de seguir, para que te hagas una idea.

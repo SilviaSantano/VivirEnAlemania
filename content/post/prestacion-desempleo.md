@@ -1,8 +1,8 @@
 ---
 title: "Cómo solicitar el paro o Arbeitslosengeld en Alemania"
-subtitle: "Prestación por desempleo en Alemania en 2025 paso a paso"
+subtitle: "Prestación por desempleo en Alemania en 2026 paso a paso"
 date: 2025-10-15
-lastmod: 2025-12-12
+lastmod: 2026-01-21
 tags:        ["Trabajo", "Desempleo", "Paro", "Dinero",]
 categories:  ["Trabajar", "Vivir", "Todos"]
 description:  "¿Quieres saber cuánto se cobra de paro y cómo cobrar el paro en Alemania? En esta guía te explicamos paso a paso el proceso para solicitar Arbeitslosengeld, cuáles son las condiciones y qué hay que hacer para pedirlo."
@@ -19,7 +19,7 @@ A grandes rasgos, la prestación de desempleo alemana, conocida como Arbeitslose
 
 !["Estación central de Munich: Hauptbahnhof"](/img/hbf.jpg "Estación central de Munich: Hauptbahnhof")
 
-## De cuánto dinero es la prestación por desempleo en Alemania en 2025
+## De cuánto dinero es la prestación por desempleo en Alemania en 2026
 El monto de la prestación por desempleo (Arbeitslosengeld o ALG I) no es una cantidad fija, sino que se calcula individualmente en función de tu salario anterior y de tu situación familiar.
 
 Aquí te resumimos cómo se calcula el dinero que recibirás:
