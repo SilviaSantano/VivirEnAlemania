@@ -2,7 +2,7 @@
 title: "Propinas en Alemania"
 subtitle: "¿Son obligatorias las propinas en Alemania?"
 date: 2024-07-11
-lastmod: 2025-10-14
+lastmod: 2026-01-21
 tags:        ["Vida"]
 categories:  ["Curiosidades", "Vivir", "Todos"]
 description:  "¿Son obligatorias las propinas en Alemania? ¿Cuánto se paga de propina en Alemania? Guía completa sobre propinas en restaurantes, bares, baños y taxis. Descubre si es obligatoria y cuánto dejar en Alemania."

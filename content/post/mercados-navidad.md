@@ -2,6 +2,7 @@
 title: "Weihnachstmärkte: Mercados de navidad en Alemania"
 subtitle: "Qué hacer en los mercadillos navideños alemanes"
 date: 2025-12-03
+lastmod: 2026-01-21
 tags:        ["Cultura", "Compras", "Ocio", "Fiestas", "Navidad", "Tiempo libre"]
 categories:  ["Curiosidades", "Todos"]
 description:  "Weihnachstmärkte en Alemania 🇩🇪. Descubre cuáles son los mejores y más bonitos mercadillos navideños en cada ciudad."
@@ -71,7 +72,7 @@ Cada ciudad se llena cada año a finales de noviembre de mercadillos navideños,
 
 Todos son increíbles y te dejarán con la boca abierta pero se dice que los mercados más bonitos son los de **Munich**, con su árbol de más de 30 metros, iluminado con miles de luces, **Núremberg**, uno de los mercadillos de Navidad más espectaculares, con sus característicos puestos rojos y blancos a rayas, **Rothenburg ob der Tauber**, donde parece que te encuentres en una película de navidad, y el de la **Garganta de Rávena (Ravennaschlucht)**, situado en un desfiladero, bajo un enorme puente sobre el que pasan las vías de tren. Sólo por nombrar algunos de los más famosos ¡hay miles!
 
-## Información y horarios sobre los mercados de navidad más importantes en Alemania en 2025
+## Información y horarios sobre los mercados de navidad más importantes en Alemania en 2026
 Aquí tienes enlaces a toda la información actualizada sobre los mercados de navidad más importantes de Alemania por ciudades:
 
 - [Mercados de navidad de Colonia](https://www.koeln.de/weihnachten/weihnachtsmaerkte-koeln/) (Kölner Weihnachtsmärkte)

@@ -1,7 +1,8 @@
 ---
 title: "Cómo alquilar piso en Alemania en 6 pasos"
-subtitle: "Guía completa para encontrar apartamento en 2025"
+subtitle: "Guía completa para encontrar apartamento en 2026"
 date: 2025-11-26
+lastmod: 2026-01-21
 tags:        ["Vivienda", "Burocracia", "Vida"]
 categories:  ["Primeros pasos", "Vivir", "Todos"]
 description:  "Guía completa y consejos para alquilar un piso en Alemania."

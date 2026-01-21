@@ -2,6 +2,7 @@
 title: "Vivir en Alemania"
 subtitle: "Todo lo que tienes que saber para empezar tu vida en Alemania"
 date: 2025-11-06
+lastmod: 2026-01-21
 layout: page
 description: "Guía completa para Vivir en Alemania. Todo lo que necesitas saber explicado paso a paso en español y con consejos prácticos: trámites, trabajo, vivienda, impuestos y diferencias culturales."
 ---
