@@ -6,8 +6,29 @@
     <description>Recent content in Categories on Vivir en Alemania</description>
     <generator>Hugo</generator>
     <language>es-ES</language>
-    <lastBuildDate>Wed, 03 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Feb 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Todos</title>
+      <link>http://localhost:1313/categories/todos/</link>
+      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/todos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Trabajar</title>
+      <link>http://localhost:1313/categories/trabajar/</link>
+      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/trabajar/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vivir</title>
+      <link>http://localhost:1313/categories/vivir/</link>
+      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/vivir/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Curiosidades</title>
       <link>http://localhost:1313/categories/curiosidades/</link>
@@ -16,31 +37,10 @@
       <description></description>
     </item>
     <item>
-      <title>Todos</title>
-      <link>http://localhost:1313/categories/todos/</link>
-      <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/todos/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Primeros Pasos</title>
       <link>http://localhost:1313/categories/primeros-pasos/</link>
       <pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/categories/primeros-pasos/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Vivir</title>
-      <link>http://localhost:1313/categories/vivir/</link>
-      <pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/vivir/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Trabajar</title>
-      <link>http://localhost:1313/categories/trabajar/</link>
-      <pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/trabajar/</guid>
       <description></description>
     </item>
   </channel>
