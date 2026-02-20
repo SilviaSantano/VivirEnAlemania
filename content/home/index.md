@@ -6,7 +6,7 @@ lastmod: 2026-01-21
 layout: page
 description: "Guía completa para Vivir en Alemania. Todo lo que necesitas saber explicado paso a paso en español y con consejos prácticos: trámites, trabajo, vivienda, impuestos y diferencias culturales."
 ---
-# Vivir en Alemania: guía completa para mudarte
+# Vivir en Alemania: todo lo que tienes que saber
 *Herzlich Willkommen!*
 
 ¡Bienvenidos y bienvenidas a **Vivir en Alemania**!  
@@ -31,7 +31,7 @@ Todo el contenido está escrito en español, ya que el enfoque principal es para
 - ### Trámites y burocracia
   Guías paso a paso para realizar el *[Anmeldung](/post/anmeldung)*, abrir una [cuenta de banco](/post/cuenta-banco), darte de alta en el seguro médico, solicitar el [paro](/post/prestacion-desempleo), etc.   
 - ### Trabajo
-  Consejos para buscar empleo, redactar CV en alemán, entrevistas, y cómo el mercado laboral local puede diferir de España.  
+  Todo lo que necesitas saber sobre [trabajar en Alemania](/post/trabajar): cuáles son los requisitos, consejos para buscar empleo, redactar CV en alemán, entrevistas, y cómo son el mercado laboral y las condiciones laborales.  
 - ### Vivienda
   Información sobre cómo [elegir la zona adecuada](/post/ciudades) según tu presupuesto y estilo de vida, [guía y consejos para encontrar piso](/post/encontrar-piso) y ¿qué es la [SCHUFA](/post/schufa)?
 - ### Sistema de impuestos  
