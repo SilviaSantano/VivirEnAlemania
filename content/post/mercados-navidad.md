@@ -4,7 +4,7 @@ subtitle: "Qué hacer en los mercadillos navideños alemanes"
 date: 2025-12-03
 lastmod: 2026-01-21
 tags:        ["Cultura", "Compras", "Ocio", "Fiestas", "Navidad", "Tiempo libre"]
-categories:  ["Curiosidades", "Todos"]
+categories:  ["Cultura", "Todos"]
 description:  "Weihnachstmärkte en Alemania 🇩🇪. Descubre cuáles son los mejores y más bonitos mercadillos navideños en cada ciudad."
 ---
 

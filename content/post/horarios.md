@@ -4,7 +4,7 @@ subtitle: "Cómo son los horarios en Alemania"
 date: 2025-10-16
 lastmod: 2026-01-21
 tags:        ["Horarios", "Cultura", "Diferencias culturales"]
-categories:  ["Curiosidades", "Vivir", "Todos"]
+categories:  ["Cultura", "Vida diaria", "Todos"]
 description:  "¿Cómo son los horarios en Alemania? 🇩🇪 En esta guía descubrirás los horarios de comidas, trabajo y ocio, los hábitos de los alemanes y las diferencias con España."
 ---
 

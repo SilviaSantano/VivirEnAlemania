@@ -4,7 +4,7 @@ subtitle: "Guía completa para encontrar apartamento en 2026"
 date: 2025-11-26
 lastmod: 2026-01-21
 tags:        ["Vivienda", "Burocracia", "Vida"]
-categories:  ["Primeros pasos", "Vivir", "Todos"]
+categories:  ["Burocracia y finanzas", "Vida diaria", "Todos"]
 description:  "Guía completa y consejos para alquilar un piso en Alemania."
 ---
 

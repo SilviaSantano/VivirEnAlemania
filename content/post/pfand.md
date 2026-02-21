@@ -4,7 +4,7 @@ subtitle: "Pfandsystem: cómo funciona el reciclaje de envases alemán"
 date: 2024-07-11
 lastmod: 2026-01-21
 tags:        ["Vida", "Reciclaje"]
-categories:  ["Curiosidades", "Vivir", "Todos"]
+categories:  ["Cultura", "Vida diaria", "Todos"]
 description:  "¿Sabías que en Alemania se paga un depósito (Pfand) por los envases? Así funciona el Pfand o sistema de reciclaje de envases alemán."
 ---
 

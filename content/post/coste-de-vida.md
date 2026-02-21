@@ -4,7 +4,7 @@ subtitle: "Índice de coste de vida en Alemania?"
 date: 2024-08-12
 lastmod: 2026-01-21
 tags:        ["Finanzas"]
-categories:  ["Vivir", "Curiosidades", "Todos"]
+categories:  ["Vida diaria", "Cultura", "Todos"]
 description:  "¿Cuánto cuesta vivir en Alemania en 2026? Guía completa sobre costos de vida, vivienda, comida y transporte. Comparación con España y salarios. ¡Descubre si te conviene mudarte a Alemania!"
 ---
 

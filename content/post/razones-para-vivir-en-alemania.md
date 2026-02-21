@@ -3,7 +3,7 @@ title: "17 Razones para vivir en Alemania en 2026"
 subtitle: "Ventajas y desventajas de emigrar a Alemania"
 date: 2025-11-21
 tags:        ["Razones", "Pros y Contras"]
-categories:  ["Vivir", "Primeros Pasos", "Todos"]
+categories:  ["Vida diaria", "Cultura", "Todos"]
 description:  "Descubre cuáles son las ventajas que ofrece vivir en Alemania y también las desventajas."
 ---
 

@@ -4,7 +4,7 @@ subtitle: "¿Cómo funciona el sistema fiscal alemán?"
 date: 2024-05-02
 lastmod: 2026-01-21
 tags:        ["Finanzas", "Burocracia"]
-categories:  ["Trabajar", "Todos"]
+categories:  ["Trabajo", "Burocracia y finanzas", "Todos"]
 description:  "¿Qué son las Steuerklassen en Alemania? Descubre cómo las clases fiscales afectan a tus impuestos, opciones para parejas y cómo cambiar tu clase fiscal en Alemania. 🇩🇪"
 ---
 

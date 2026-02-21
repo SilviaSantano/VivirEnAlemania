@@ -4,7 +4,7 @@ subtitle: "Para qué sirve la SCHUFA y cómo obtenerla"
 date: 2024-05-03
 lastmod: 2026-01-21
 tags:        ["Finanzas", "Burocracia"]
-categories:  ["Vivir", "Primeros pasos", "Todos"]
+categories:  ["Vida diaria", "Burocracia y finanzas", "Todos"]
 description:  "¿Qué es la Schufa en Alemania? Descubre cómo funciona, cómo afecta a tu crédito y cómo obtener tu Schufa Bonitätsauskunft."
 ---
 

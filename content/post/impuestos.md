@@ -4,7 +4,7 @@ subtitle: "Estos son los impuestos en Alemania en 2026"
 date: 2025-04-26
 lastmod: 2026-01-21
 tags:        ["Finanzas", "Burocracia"]
-categories:  ["Vivir", "Trabajar", "Todos"]
+categories:  ["Vida diaria", "Burocracia y finanzas", "Trabajo", "Todos"]
 description:  "Guía completa sobre los impuestos en Alemania en 2026, retenciones salariales, coste de la seguridad social en Alemania, IRPF, y más. Descubre todos los impuestos y cómo calcular el salario neto en Alemania."
 ---
 

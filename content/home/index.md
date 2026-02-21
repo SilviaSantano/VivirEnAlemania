@@ -65,7 +65,7 @@ Vivir en Alemania es mucho más que sólo trabajar y hacer papeleo. Entiende su 
 * **[Mercadillos Navideños](/post/mercados-navidad):** Nuestra guía de los lugares más mágicos para el invierno
 * **[Las Propinas](/post/propinas):** Cuándo dar propinas
 * **[Días Festivos](/post/festivos):** Calendario de festivos y qué estados tienen más días libres
-* **[El Mercado de Segunda Mano](/post/pfand):** Cómo comprar de todo de segunda mano en Alemania, como lo hacen los alemanes
+* **[El Mercado de Segunda Mano](/post/mercado-segunda-mano):** Cómo comprar de todo de segunda mano en Alemania, como lo hacen los alemanes
 * **[Diferencias Culturales de Horarios](/post/horarios):** Desde los horarios de comida hasta la obsesión por la puntualidad (*Pünktlichkeit*)
 
 ---

@@ -4,7 +4,7 @@ subtitle: "Prestación por desempleo en Alemania en 2026 paso a paso"
 date: 2025-10-15
 lastmod: 2026-01-21
 tags:        ["Trabajo", "Desempleo", "Paro", "Dinero",]
-categories:  ["Trabajar", "Vivir", "Todos"]
+categories:  ["Trabajo", "Vida diaria", "Todos"]
 description:  "¿Quieres saber cuánto se cobra de paro y cómo cobrar el paro en Alemania? En esta guía te explicamos paso a paso el proceso para solicitar Arbeitslosengeld, cuáles son las condiciones y qué hay que hacer para pedirlo."
 ---
 

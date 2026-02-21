@@ -4,7 +4,7 @@ subtitle: "Cuáles son los bancos y las cuentas bancarias disponibles en Alemani
 date: 2024-04-24
 lastmod: 2026-01-21
 tags:        ["Bancos", "Burocracia", "Finanzas", "Dinero"]
-categories:  ["Vivir", "Primeros pasos", "Todos"]
+categories:  ["Vida diaria", "Burocracia y finanzas", "Todos"]
 description:  "¿Necesitas abrir una cuenta de banco en Alemania? Guía completa para descubrir cuáles son los bancos en Alemania, físicos y online y las cuentas de banco qué ofrecen, los precios actualizados y las diferencias. Cómo elegir cuenta de banco en Alemania."
 ---
 

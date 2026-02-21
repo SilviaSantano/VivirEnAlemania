@@ -20,10 +20,10 @@
     <loc>http://localhost:1313/categories/todos/</loc>
     <lastmod>2026-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/trabajar/</loc>
+    <loc>http://localhost:1313/post/trabajar/</loc>
     <lastmod>2026-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/trabajar/</loc>
+    <loc>http://localhost:1313/categories/trabajo/</loc>
     <lastmod>2026-02-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/trabajo/</loc>
@@ -88,6 +88,9 @@
   </url><url>
     <loc>http://localhost:1313/home/</loc>
     <lastmod>2026-02-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/cultura/</loc>
+    <lastmod>2026-01-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/festivos/</loc>
     <lastmod>2026-01-21T00:00:00+00:00</lastmod>
@@ -156,5 +159,7 @@
     <lastmod>2026-01-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/archive/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/trabajar/</loc>
   </url>
 </urlset>

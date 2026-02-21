@@ -3,7 +3,7 @@ title: "Trabajar en Alemania: guía completa"
 subtitle: "Requisitos, búsqueda de empleo y condiciones laborales en 2026"
 date: 2026-02-16
 tags:        ["Condiciones de vida", "Trabajo", "Dinero"]
-categories:  ["Vivir", "Trabajar", "Todos"]
+categories:  ["Vida diaria", "Trabajo", "Todos"]
 description: "Guía completa sobre trabajar en Alemania para extranjeros. Aprende sobre los requisitos, visados, búsqueda de empleo, condiciones y todo lo relacionado con el mercado laboral alemán."
 ---
 

@@ -4,7 +4,7 @@ subtitle: "Guía completa para empadronarse en Alemania paso a paso"
 date: 2024-04-21
 lastmod: 2026-01-21
 tags:        ["Burocracia", "Empadronamiento"]
-categories:  ["Primeros pasos", "Vivir", "Todos"]
+categories:  ["Burocracia y finanzas", "Vida diaria", "Todos"]
 description:  "¿Cómo empadronarse en Alemania? Guía completa sobre el Anmeldung para extranjeros. Trámites, documentos, horarios y diferencias. Anmelden, Meldebescheinigung y consejos."
 ---
 

@@ -4,7 +4,7 @@ subtitle: "Cómo comprar cosas de Segunda Mano en Alemania"
 date: 2025-10-21
 lastmod: 2026-01-21
 tags:        ["Ocio", "Cultura", "Compras", "Tiempo libre"]
-categories:  ["Vivir", "Curiosidades", "Todos"]
+categories:  ["Cultura", "Todos"]
 description:  "Descubre el mercado de segunda mano en Alemania 🇩🇪 Aprende cómo comprar de segunda mano y encuentra gangas en muebles, ropa, coches y más en mercadillos y online en Kleinanzeigen."
 ---
 # ¿Existe mercado de segunda mano en Alemania?
