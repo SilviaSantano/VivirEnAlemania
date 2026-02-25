@@ -17,7 +17,7 @@
                     {{ range .Pages  }}
                         {{ if (eq ($.Scratch.Get "count") 1) }}
                             {{ $.Scratch.Set "count" 0 }}
-                            <h1 class="title is-4 has-text-weight-normal">{{ .Date.Format "2006" }}</h1>
+                            <h2 class="title is-4 has-text-weight-normal">{{ .Date.Format "2006" }}</h2>
                         {{ end }}
                     {{ end }}
 

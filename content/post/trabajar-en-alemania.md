@@ -1,10 +1,13 @@
 ---
 title: "Cómo Trabajar en Alemania en 2026: Guía para Extranjeros/as"
-subtitle: "Requisitos, visados, búsqueda de empleo, condiciones laborales y consejos"
+subtitle: "Requisitos, visados, búsqueda de empleo, condiciones laborales y consejos para encontrar empleo e integrarse"
 date: 2026-02-16
 tags:        ["Condiciones de vida", "Trabajo", "Dinero"]
 categories:  ["Vida diaria", "Trabajo", "Todos"]
 description: "¿Quieres trabajar en Alemania? 🇩🇪 Descubre los requisitos, tipos de visado, cómo conseguir empleo y condiciones laborales para profesionales extranjeros en 2026."
+aliases:
+    - /post/trabajar
+    - /post/trabajar/
 ---
 
 ## Todo lo que necesitas saber para buscar trabajo en Alemania con éxito

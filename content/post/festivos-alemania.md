@@ -6,6 +6,9 @@ lastmod: 2026-01-21
 tags:        ["Ocio", "Cultura", "Trabajo", "Tiempo libre"]
 categories:  ["Vida diaria", "Cultura", "Trabajo", "Todos"]
 description:  "Consulta todos los días festivos en Alemania para 2026. 📅 Planifica tus puentes y descubre qué días son no laborables en tu región (Bundesland)."
+aliases:
+    - /post/festivos
+    - /post/festivos/
 ---
 
 ## Todos los días no laborables y festivos regionales alemanes

@@ -1,11 +1,14 @@
 ---
 title: "Cómo Alquilar Piso en Alemania: Guía Paso a Paso 2026"
-subtitle: "Portales inmobiliarios, vocabulario, requisitos y consejos para encontrar casa"
+subtitle: "Todo sobre portales inmobiliarios, vocabulario, requisitos, proceso y consejos para encontrar casa"
 date: 2025-11-26
 lastmod: 2026-01-21
 tags:        ["Vivienda", "Burocracia", "Vida"]
 categories:  ["Burocracia y finanzas", "Vida diaria", "Todos"]
 description:  "Encontrar vivienda en Alemania es un reto. 🏠 Sigue estos 6 pasos y nuestros consejos para alquilar piso en Alemania, desde la búsqueda hasta la firma del contrato."
+aliases:
+    - /post/encontrar-piso
+    - /post/encontrar-piso/
 ---
 
 ## ¿Cómo encontrar y conseguir un piso de alquiler en Alemania rápidamente?

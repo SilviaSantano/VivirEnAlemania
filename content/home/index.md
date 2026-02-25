@@ -5,6 +5,13 @@ date: 2025-11-06
 lastmod: 2026-02-21
 layout: page
 description: "Guía definitiva para vivir en Alemania 🇩🇪: Trámites de extranjería, búsqueda de empleo, alquiler de vivienda e impuestos. Todo lo que necesitas saber explicado paso a paso en español y con consejos prácticos para españoles y latinos."
+aliases:
+    - /home
+    - /home/home
+    - /home/index
+    - /home/
+    - /home/home/
+    - /home/index/
 ---
 
 ## Vivir en Alemania: tu guía paso a paso para emigrar con éxito

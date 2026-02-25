@@ -1,11 +1,14 @@
 ---
 title: "Cómo hacer el Anmeldung en Alemania: Guía de Empadronamiento (2026)"
-subtitle: "Cita previa, documentos necesarios y procedimiento a seguir paso a paso"
+subtitle: "Meldebescheinigung: pedir cita en Bürgeramt, documentos, Wohnungsgeberbestätigung y procedimiento paso a paso"
 date: 2024-04-21
 lastmod: 2026-01-21
 tags:        ["Burocracia", "Empadronamiento"]
 categories:  ["Burocracia y finanzas", "Vida diaria", "Todos"]
 description:  "El Anmeldung es el trámite más importante al llegar a Alemania. 🏠 Guía completa sobre cómo empadronarse, documentos necesarios y consejos para conseguir el Meldebescheinigung para extranjeros."
+aliases:
+    - /post/anmeldung
+    - /post/anmeldung/
 ---
 
 ## Guía completa para empadronarse en Alemania por primera vez (*Anmeldung*)

@@ -6,6 +6,9 @@ lastmod: 2026-01-21
 tags:        ["Vida"]
 categories:  ["Cultura", "Vida diaria", "Todos"]
 description:  "Evita situaciones incómodas. ☕ Descubre cuándo es costumbre dejar propina en Alemania, cómo se paga correctamente y las normas de cortesía alemanas."
+aliases:
+    - /post/propinas
+    - /post/propinas/
 ---
 
 ## ¿Son obligatorias las propinas en Alemania? Costumbres y propina sugerida

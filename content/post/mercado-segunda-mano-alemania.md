@@ -6,6 +6,9 @@ lastmod: 2026-01-21
 tags:        ["Ocio", "Cultura", "Compras", "Tiempo libre"]
 categories:  ["Cultura", "Todos"]
 description:  "Ahorra dinero en Alemania comprando de segunda mano. 🚲 Aprende a usar Kleinanzeigen, encuentra las mejores gangas en muebles, ropa y coches en mercadillos."
+aliases:
+    - /post/mercado-segunda-mano
+    - /post/mercado-segunda-mano/
 ---
 
 ## ¿Dónde comprar cosas de segunda mano en Alemania y encontrar gangas?

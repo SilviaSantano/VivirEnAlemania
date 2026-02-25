@@ -1,11 +1,14 @@
 ---
 title: "Cómo Solicitar el Paro en Alemania (Arbeitslosengeld) en 2026"
-subtitle: "Requisitos, cuantía y pasos para cobrar el desempleo"
+subtitle: "Requisitos del Agentur für Arbeit, cuantía, duración y procedimiento para cobrar el desempleo paso a paso"
 date: 2025-10-15
 lastmod: 2026-01-21
 tags:        ["Trabajo", "Desempleo", "Paro", "Dinero",]
 categories:  ["Trabajo", "Vida diaria", "Todos"]
 description:  "Guía paso a paso para pedir la prestación por desempleo en Alemania. Requisitos del Agentur für Arbeit, plazos y cómo hacer el trámite paso a paso."
+aliases:
+    - /post/prestacion-desempleo
+    - /post/prestacion-desempleo/
 ---
 
 ## Pasos para cobrar el paro (Arbeitslosengeld) en Alemania tras perder el empleo

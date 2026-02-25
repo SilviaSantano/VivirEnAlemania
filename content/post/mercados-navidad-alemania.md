@@ -6,6 +6,9 @@ lastmod: 2026-01-21
 tags:        ["Cultura", "Compras", "Ocio", "Fiestas", "Navidad", "Tiempo libre"]
 categories:  ["Cultura", "Todos"]
 description:  "Descubre los mercados navideños más bonitos de Alemania 🎄. Guía con los mejores Weihnachtsmärkte, qué comer, qué comprar y consejos para tu visita."
+aliases:
+    - /post/mercados-navidad
+    - /post/mercados-navidad/
 ---
 
 ## Guía de los mercadillos navideños más mágicos
