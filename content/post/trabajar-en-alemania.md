@@ -4,7 +4,7 @@ subtitle: "Requisitos, visados, búsqueda de empleo, condiciones laborales y con
 date: 2026-02-16
 tags:        ["Condiciones de vida", "Trabajo", "Dinero"]
 categories:  ["Vida diaria", "Trabajo", "Todos"]
-description: "¿Quieres trabajar en Alemania? 🇩🇪 Descubre los requisitos, tipos de visado, cñomo conseguir empleo y condiciones laborales para profesionales extranjeros en 2026."
+description: "¿Quieres trabajar en Alemania? 🇩🇪 Descubre los requisitos, tipos de visado, cómo conseguir empleo y condiciones laborales para profesionales extranjeros en 2026."
 ---
 
 ## Todo lo que necesitas saber para buscar trabajo en Alemania con éxito
