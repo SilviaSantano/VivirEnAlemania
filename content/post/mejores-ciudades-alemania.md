@@ -36,7 +36,7 @@ Alemania se divide en 403 distritos (*Kreise*) a nivel municipal, de los cuales 
 
 El país cuenta con 80 grandes ciudades (de más de 100.000 habitantes, de las cuales sólo cuatro superan el millón de habitantes: Berlín, Hamburgo, Múnich y Colonia), 618 ciudades medianas (de entre 20.000 y 99.999 habitantes) y 1584 ciudades pequeñas. 
 
-Las grandes ciudades alemanas están bien posicionadas en las clasificaciones sobre calidad de vida por ofrecer buenos lugares de trabajo, un medio ambiente sano, bajo nivel de delincuencia, mucha oferta cultural y de ocio y buenas conexiones de transporte público. Es por estos motivos que, al igual que sucede en muchos otros países, a lo largo de las últimas décadas se ha producido una gran migración de las zonas menos desarrolladas y rurales a las ciudades. 
+Las grandes ciudades alemanas están bien posicionadas en las clasificaciones sobre calidad de vida por ofrecer buenos lugares de [trabajo](post/trabajar-en-alemania), un medio ambiente sano, bajo nivel de delincuencia, mucha oferta cultural y de ocio y buenas conexiones de transporte público. Es por estos motivos que, al igual que sucede en muchos otros países, a lo largo de las últimas décadas se ha producido una gran migración de las zonas menos desarrolladas y rurales a las ciudades. 
 
 No obstante, el gobierno federal apuesta por garantizar buenas condiciones de vida para las personas de todas las nacionalidades en todo el territorio alemán, tanto en la ciudad como en el campo, y presta apoyo específico a las regiones afectadas con paquetes de medidas orientadas al empleo, la movilidad y la infraestructura. 
 
@@ -116,7 +116,7 @@ En una área relativamente compacta de esta región, se encuentran varias ciudad
 
 Colonia es famosa por su catedral gótica y su animada vida. Al ser una ciudad que alberga varias universidades, son muchos los estudiantes que viven en ella y, por lo tanto, componen una gran parte de su población, convirtiéndola en una población principalmente **joven**, abierta, amigable, multicultural y relativamente alternativa. Esta ciudad combina lo antiguo y lo moderno, con una rica historia que se remonta a la época romana y una vibrante escena artística y cultural. 
 
-!["Colonia"](/img/cologne.jpg "Colonia")
+!["Colonia"](/img/rhein_koeln.jpg "Colonia")
 
 La ciudad también se enorgullece de tener una buena infraestructura, incluyendo un sistema de transporte público eficiente, si bien sufre pequeños retrasos con frecuencia, que facilita los desplazamientos tanto dentro como fuera de la ciudad. Por otro lado, su amplia red ferroviaria y su aeropuerto bien conectado hacen que Colonia esté muy accesible. Cuenta con rápidas conexiones de transporte a ciudades vecinas como Bonn y Düsseldorf y ciudades populares en los países cercanos como Amsterdam o Bruselas son alcanzadas en tan sólo tres horas en tren. Además, está considerada como una de las ciudades más limpias y seguras del país. 
 
@@ -171,7 +171,7 @@ Leipzig es conocida por ser una ciudad asequible en comparación con otras grand
 Dortmund es una ciudad industrial en el oeste de Alemania y se encuentra entre las más baratas para vivir en el país. El alquiler de viviendas y los gastos diarios son más bajos en comparación con las principales ciudades alemanas.
 
 ### Bremen
-Bremen es una de las ciudades alemanas con más encanto medieval. Cada año, miles de expatriados deciden buscar trabajo y establecer su residencia en esta apacible y organizada urbe del norte del país. Bremen es uno de los centros líderes en investigación marina, polar y del cambio climático. Además, se destaca por albergar importantes laboratorios dedicados a la tecnología espacial.
+Bremen es una de las ciudades alemanas con más encanto medieval. Cada año, miles de expatriados deciden buscar [trabajo](post/trabajar-en-alemania) y establecer su residencia en esta apacible y organizada urbe del norte del país. Bremen es uno de los centros líderes en investigación marina, polar y del cambio climático. Además, se destaca por albergar importantes laboratorios dedicados a la tecnología espacial.
 
 !["Estación central de Bremen"](/img/bremen.jpg "Estación central de Bremen")
 

@@ -5,6 +5,9 @@
     <loc>http://localhost:1313/categories/</loc>
     <lastmod>2026-02-16T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/post/trabajar-en-alemania/</loc>
+    <lastmod>2026-02-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/condiciones-de-vida/</loc>
     <lastmod>2026-02-16T00:00:00+00:00</lastmod>
   </url><url>
@@ -20,16 +23,13 @@
     <loc>http://localhost:1313/categories/todos/</loc>
     <lastmod>2026-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/trabajar/</loc>
-    <lastmod>2026-02-16T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/categories/trabajo/</loc>
     <lastmod>2026-02-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/trabajo/</loc>
     <lastmod>2026-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/vivir/</loc>
+    <loc>http://localhost:1313/categories/vida-diaria/</loc>
     <lastmod>2026-02-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
@@ -38,13 +38,16 @@
     <loc>http://localhost:1313/tags/compras/</loc>
     <lastmod>2026-01-21T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/categories/cultura/</loc>
+    <lastmod>2026-01-21T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/cultura/</loc>
     <lastmod>2026-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/curiosidades/</loc>
+    <loc>http://localhost:1313/tags/fiestas/</loc>
     <lastmod>2026-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/fiestas/</loc>
+    <loc>http://localhost:1313/post/mercados-navidad/</loc>
     <lastmod>2026-01-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/navidad/</loc>
@@ -56,16 +59,13 @@
     <loc>http://localhost:1313/tags/tiempo-libre/</loc>
     <lastmod>2026-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/mercados-navidad/</loc>
-    <lastmod>2026-01-21T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/burocracia/</loc>
     <lastmod>2026-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/encontrar-piso/</loc>
+    <loc>http://localhost:1313/categories/burocracia-y-finanzas/</loc>
     <lastmod>2026-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/primeros-pasos/</loc>
+    <loc>http://localhost:1313/post/alquilar-piso-alemania/</loc>
     <lastmod>2026-01-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/vida/</loc>
@@ -74,7 +74,7 @@
     <loc>http://localhost:1313/tags/vivienda/</loc>
     <lastmod>2026-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/razones-para-vivir-en-alemania/</loc>
+    <loc>http://localhost:1313/post/razones-vivir-alemania/</loc>
     <lastmod>2025-11-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/pros-y-contras/</loc>
@@ -83,19 +83,13 @@
     <loc>http://localhost:1313/tags/razones/</loc>
     <lastmod>2025-11-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/home/old_index/</loc>
-    <lastmod>2026-01-21T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/home/</loc>
     <lastmod>2026-02-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/cultura/</loc>
+    <loc>http://localhost:1313/post/festivos-alemania/</loc>
     <lastmod>2026-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/festivos/</loc>
-    <lastmod>2026-01-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/mercado-segunda-mano/</loc>
+    <loc>http://localhost:1313/post/mercado-segunda-mano-alemania/</loc>
     <lastmod>2026-01-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/diferencias-culturales/</loc>
@@ -104,10 +98,10 @@
     <loc>http://localhost:1313/tags/horarios/</loc>
     <lastmod>2026-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/horarios/</loc>
+    <loc>http://localhost:1313/post/horarios-alemania/</loc>
     <lastmod>2026-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/prestacion-desempleo/</loc>
+    <loc>http://localhost:1313/post/paro-alemania-arbeitslosengeld/</loc>
     <lastmod>2026-01-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/desempleo/</loc>
@@ -116,50 +110,48 @@
     <loc>http://localhost:1313/tags/paro/</loc>
     <lastmod>2026-01-21T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/post/mejores-ciudades-alemania/</loc>
+    <lastmod>2026-01-21T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/ciudades-de-alemania/</loc>
-    <lastmod>2026-01-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/ciudades/</loc>
-    <lastmod>2026-01-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/impuestos/</loc>
     <lastmod>2026-01-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/finanzas/</loc>
     <lastmod>2026-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/coste-de-vida/</loc>
+    <loc>http://localhost:1313/post/impuestos-alemania/</loc>
     <lastmod>2026-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/pfand/</loc>
+    <loc>http://localhost:1313/post/costo-vida-alemania/</loc>
     <lastmod>2026-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/propinas/</loc>
+    <loc>http://localhost:1313/post/pfand-reciclaje-alemania/</loc>
+    <lastmod>2026-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/propinas-en-alemania/</loc>
     <lastmod>2026-01-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/reciclaje/</loc>
     <lastmod>2026-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/schufa/</loc>
+    <loc>http://localhost:1313/post/schufa-alemania/</loc>
     <lastmod>2026-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/steuerklassen/</loc>
+    <loc>http://localhost:1313/post/steuerklassen-clases-fiscales/</loc>
     <lastmod>2026-01-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/bancos/</loc>
     <lastmod>2026-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/cuenta-banco/</loc>
+    <loc>http://localhost:1313/post/cuenta-banco-alemania/</loc>
     <lastmod>2026-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/anmeldung/</loc>
+    <loc>http://localhost:1313/post/anmeldung-alemania/</loc>
     <lastmod>2026-01-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/empadronamiento/</loc>
     <lastmod>2026-01-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/archive/</loc>
-  </url><url>
-    <loc>http://localhost:1313/categories/trabajar/</loc>
   </url>
 </urlset>

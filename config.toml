@@ -25,7 +25,7 @@ showtoc = true
 home = ["HTML", "RSS"] #, "Algolia"
 
 [params]
-  header_image = "img/cologne.jpeg"
+  header_image = "img/header_image_koeln.webp"
   SEOTitle = "Vivir en Alemania"
   description = "Guía completa para Vivir en Alemania. Todo lo que necesitas saber explicado paso a paso en español y con consejos prácticos: trámites, trabajo, vivienda, impuestos y diferencias culturales."
   keyword = "Vivir en Alemania"
