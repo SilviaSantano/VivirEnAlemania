@@ -6,6 +6,9 @@ lastmod: 2026-01-21
 tags:        ["Vida", "Reciclaje"]
 categories:  ["Cultura", "Vida diaria", "Todos"]
 description:  "No tires tus botellas: en Alemania valen dinero. ♻️ Aprende cómo funciona el sistema de Pfand, qué envases se devuelven y cuánto dinero recuperas por cada uno en el supermercado."
+aliases:
+    - /post/pfand
+    - /post/pfand/
 ---
 
 ## Todo sobre el sistema de reciclaje de botellas y latas alemán

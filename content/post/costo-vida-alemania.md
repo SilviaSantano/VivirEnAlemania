@@ -6,6 +6,9 @@ lastmod: 2026-01-21
 tags:        ["Finanzas"]
 categories:  ["Vida diaria", "Cultura", "Todos"]
 description:  "Guía actualizada sobre el costo de vida en Alemania. Comparamos precios con España y te ayudamos a calcular cuánto dinero necesitas al mes."
+aliases:
+    - /post/coste-de-vida
+    - /post/coste-de-vida/
 ---
 
 ## ¿Cuánto dinero se necesita para vivir en Alemania en 2026?

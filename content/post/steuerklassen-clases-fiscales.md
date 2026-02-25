@@ -6,6 +6,9 @@ lastmod: 2026-01-21
 tags:        ["Finanzas", "Burocracia"]
 categories:  ["Trabajo", "Burocracia y finanzas", "Todos"]
 description:  "Aprende qué son las Steuerklassen y cómo afectan a tu salario neto. Guía para cambiar de clase fiscal y pagar menos impuestos en Alemania."
+aliases:
+    - /post/steuerklassen
+    - /post/steuerklassen/
 ---
 
 ## ¿Cómo funciona el sistema de clases fiscales alemán (*Steuerklassen*)?

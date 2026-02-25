@@ -6,6 +6,9 @@ lastmod: 2026-01-21
 tags:        ["Burocracia", "Empadronamiento"]
 categories:  ["Burocracia y finanzas", "Vida diaria", "Todos"]
 description:  "El Anmeldung es el trámite más importante al llegar a Alemania. 🏠 Guía completa sobre cómo empadronarse, documentos necesarios y consejos para conseguir el Meldebescheinigung para extranjeros."
+aliases:
+    - /post/anmeldung
+    - /post/anmeldung/
 ---
 
 ## Guía completa para empadronarse en Alemania por primera vez (*Anmeldung*)

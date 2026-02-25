@@ -18,6 +18,7 @@ defaultContentLanguage = "es" # Set Spanish as the default language
     
 preserveTaxonomyNames = true
 paginate = 15 #frontpage pagination
+paginatePath = "page"
 hasCJKLanguage = true
 showtoc = true
 

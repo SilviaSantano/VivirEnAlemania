@@ -49,9 +49,22 @@
     <link rel="preload" as="image" href="/img/header_image_koeln.webp" fetchpriority="high">
     <link rel="shortcut icon" href="{{ "img/favicon.ico" | relURL }}">
 
-    <title>{{ if .Title }}{{ .Title }} | {{ .Site.Params.SEOTitle }}{{ else }}{{ .Site.Params.SEOTitle }}{{ end }}</title>
+    <title>
+    {{- if .IsHome -}}
+        {{ .Site.Params.SEOTitle }}
+    {{- else -}}
+        {{- .Title -}}
+        {{- if .IsNode -}}
+        {{- if gt .Paginator.PageNumber 1 }} (Página {{ .Paginator.PageNumber }}){{ end -}}
+        {{- end }} | {{ .Site.Params.SEOTitle -}}
+    {{- end -}}
+    </title>
 
-    <link rel="canonical" href="{{ .Permalink | absURL }}">
+    {{ if .IsNode }}
+    <link rel="canonical" href="{{ .Paginator.URL | absURL }}">
+    {{ else }}
+    <link rel="canonical" href="{{ .Permalink }}">
+    {{ end }}
 
     {{ if .Site.Params.disqus_proxy }}
     <link rel="stylesheet" href="{{ "css/iDisqus.min.css" | relURL }}"/>

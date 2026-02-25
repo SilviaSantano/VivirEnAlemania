@@ -6,6 +6,9 @@ lastmod: 2026-01-21
 tags:        ["Finanzas", "Burocracia"]
 categories:  ["Vida diaria", "Burocracia y finanzas", "Todos"]
 description:  "Guía completa sobre la Schufa. Qué es, por qué la necesitas para alquilar un piso y cómo solicitar tu Schufa Bonitätsauskunft paso a paso."
+aliases:
+    - /post/schufa
+    - /post/schufa/
 ---
 
 ## Para qué sirve la *SCHUFA* y cómo afecta a tu vida en Alemania

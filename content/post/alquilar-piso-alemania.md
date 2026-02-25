@@ -6,6 +6,9 @@ lastmod: 2026-01-21
 tags:        ["Vivienda", "Burocracia", "Vida"]
 categories:  ["Burocracia y finanzas", "Vida diaria", "Todos"]
 description:  "Encontrar vivienda en Alemania es un reto. 🏠 Sigue estos 6 pasos y nuestros consejos para alquilar piso en Alemania, desde la búsqueda hasta la firma del contrato."
+aliases:
+    - /post/encontrar-piso
+    - /post/encontrar-piso/
 ---
 
 ## ¿Cómo encontrar y conseguir un piso de alquiler en Alemania rápidamente?

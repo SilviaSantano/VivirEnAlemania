@@ -6,6 +6,9 @@ lastmod: 2026-01-21
 tags:        ["Finanzas", "Burocracia"]
 categories:  ["Vida diaria", "Burocracia y finanzas", "Trabajo", "Todos"]
 description:  "Entiende el sistema fiscal alemán. 📑 Descubre qué impuestos pagas en tu nómina, las retenciones de seguridad social y cómo calcular lo que recibirás a fin de mes."
+aliases:
+    - /post/impuestos
+    - /post/impuestos/
 ---
 
 ## ¿Cuántos impuestos se pagan en Alemania realmente de tu sueldo?

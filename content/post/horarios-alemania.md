@@ -6,6 +6,9 @@ lastmod: 2026-01-21
 tags:        ["Horarios", "Cultura", "Diferencias culturales"]
 categories:  ["Cultura", "Vida diaria", "Todos"]
 description:  "¿A qué hora se cena en Alemania? 🕒 Descubre los horarios comerciales, de trabajo y los hábitos sociales alemanes para adaptarte rápidamente a tu nueva vida."
+aliases:
+    - /post/horarios
+    - /post/horarios/
 ---
 
 ## Costumbres y horarios comerciales que debes conocer al llegar a Alemania
