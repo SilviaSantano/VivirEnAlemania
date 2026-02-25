@@ -77,7 +77,7 @@ Antes de lanzarte a la búsqueda de piso, hay una serie de conceptos importantes
 
 ### ¿Qué está incluido en el precio del alquiler?
 Ojo, en Alemania **el coste de la electricidad nunca está incluído** en los *Nebenkosten*. El agua siempre lo está. El gas, a veces. En algunos casos, también se incluyen unos costes obligatorios por conexión a internet o televisión por cable pero no es común. Normalmente, tendrás que hacer un contrato con una compañía proveedora para tener internet, como con la luz.
-La cuota mensual obligatoria para la radio y teledifusión estatal ([*Rundfunkbeitrag*](/post/impuestos#el-impuesto-por-la-radio-y-televisión-públicas-rundfunkbeitrag)) tampoco estará nunca incluída y se paga aparte.
+La cuota mensual obligatoria para la radio y teledifusión estatal ([*Rundfunkbeitrag*](/post/impuestos-alemania#el-impuesto-por-la-radio-y-televisión-públicas-rundfunkbeitrag)) tampoco estará nunca incluída y se paga aparte.
 
 Por lo demás, hay variaciones, por lo tanto deberás leer el contrato con detenimiento y preguntar si fuera necesario, para saber qué se incluye en los *Nebenkosten* y qué se paga aparte, para evitar facturas sorpresa más adelante.
 
@@ -114,7 +114,7 @@ Los requisitos comunes para alquilar una vivienda en Alemania, que te pedirán s
 Si no tienes porque es la primera vez que alquilas en Alemania, no te preocupes, no siempre es necesaria y simplemente explícalo. Faltando este documento, seguramente lo comprobarán de otra manera.
 Muy frecuentemente, sobre todo si no tienes la cartita de un arrendador anterior, se piden además otros requisitos extra, por ejemplo la famosa ***Schufa***, con una antigüedad no superior a tres meses. 
 
-Si no sabes lo que es la *Schufa*, visita [este artículo](/post/schufa) donde lo explicamos en detalle, porque puede que la necesites.
+Si no sabes lo que es la *Schufa*, visita [este artículo](/post/schufa-alemania) donde lo explicamos en detalle, porque puede que la necesites.
 
 ## Consejos para contactar
 Al momento de contactar para mostrar tu interés y pedir una cita ellos le dan mucha importante a que cuentes un poco sobre ti, lo que sea relevante, y así causar una buena impresión. Redáctalo con atención, usando las herramientas que tengas disponibles y procura que sea en un alemán correcto y formal. Una vez tengas este texto escrito lo podrás usar tantas veces sea necesario para todos los pisos que te interesen.
@@ -138,4 +138,4 @@ Por eso, recuerda que el primer piso será sólo un punto de partida para comenz
 
 Como se realizan tantas mudanzas a diario, hay muchas empresas que alquilan furgonetas para mudanzas, que tú mismo conduces. Y puede que en la primera mudanza no conozcas a mucha gente pero te aseguro que en las demás no estarás solo. Aquí todo el mundo sabe que este es uno de los momentos en los que hay que demostrar que se es amigo de verdad y los amigos acudirán a ayudarte con esta tarea tan pesada. He perdido la cuenta de las veces que me he mudado pero aún más he perdido la cuenta de las mudanzas de amigos y amigas que he hecho a lo largo de los años... incontables. Es un evento en sí mismo. Se junta mucha gente y entre todos es más fácil y rápido. Después, tras mucho subir y bajar escaleras, se pone fin a la tarea, o se hace una pausa, llega la recompensa y la costumbre es invitar a comer o a cervezas y aperitivos a las personas que te han ayudado. Son momentos bonitos, donde después de pasar un día duro, ves que todo vale la pena, echas unas risas con los amigos y habláis del futuro en la nueva casa.
 
-¡Espero que te haya ayudado a comprender el *maravilloso* proceso de buscar piso en Alemania! Para continuar tu viaje, quizás te interese leer otros artículos relacionados, como éste sobre [cómo elegir una cuenta de banco](/post/cuenta-banco) o cómo realizar el [empadronamiento o Anmeldung](/post/anmeldung) de tu nueva casa.
+¡Espero que te haya ayudado a comprender el *maravilloso* proceso de buscar piso en Alemania! Para continuar tu viaje, quizás te interese leer otros artículos relacionados, como éste sobre [cómo elegir una cuenta de banco](/post/cuenta-banco-alemania) o cómo realizar el [empadronamiento o Anmeldung](/post/anmeldung-alemania) de tu nueva casa.

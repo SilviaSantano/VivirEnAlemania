@@ -50,7 +50,7 @@ Estos tramos se suelen actualizar cada año fiscal. [Aquí](https://www.bmf-steu
 Ya. Exactamente eso mismo. Bienvenido/a a Alemania. Es una fórmula realmente compleja que se tarda un rato en comprender y aplicar porque no son simples porcentajes sino que es más complicado que eso. No hace falta que hagas las cuentas a mano, utiliza la [calculadora oficial](https://www.bmf-steuerrechner.de/).
 Esto es a lo que me refería cuando decía que el cálculo de este impuesto es muy complejo pero, en resumidas cuentas, este impuesto va desde 0€ para ingresos menores a 12.348€, a partir de tal cantidad pasa a ser 14% y llega hasta un máximo de aproximadamente un 42% en los casos de los salarios más altos (muy altos, porque si te fijas, en el caso *d* hay una cantidad de más de 10k que se resta y que hace que el porcentaje real sea mucho menor, alrededor del 35% para salarios de alrededor de 69.879€ que es el mínimo de ese tramo). Y, para los más ricos, a partir de 277.825 anuales (o sea, muy muy altos), existe el Reichensteuersatz del 45%.
 
-En segundo lugar, el **Lohnsteuer** también depende de tu situación familiar, es decir, tu estado civil y si tienes hijos/as o no y según esa situación tendrás una **Steuerklasse** u otra. También es diferente si tienes varios empleos. Las Steuerklassen son seis y, de manera resumida son: una clase para trabajadores solteros y divorciados sin hijos (I), una clase para trabajadores divorciados o viudos con hijos a su cargo (II), tres diferentes combinaciones de clases para parejas casadas y los trabajadores con dos empleos tienen dos clases (una de ellas la VI). En [este artículo](/post/steuerklassen), te explico todas las Steuerklassen de manera más detallada.
+En segundo lugar, el **Lohnsteuer** también depende de tu situación familiar, es decir, tu estado civil y si tienes hijos/as o no y según esa situación tendrás una **Steuerklasse** u otra. También es diferente si tienes varios empleos. Las Steuerklassen son seis y, de manera resumida son: una clase para trabajadores solteros y divorciados sin hijos (I), una clase para trabajadores divorciados o viudos con hijos a su cargo (II), tres diferentes combinaciones de clases para parejas casadas y los trabajadores con dos empleos tienen dos clases (una de ellas la VI). En [este artículo](/post/steuerklassen-clases-fiscales), te explicamos todas las Steuerklassen de manera más detallada.
 
 También varía un poco dependiendo del Bundesland (región) en el que tributas. 
 
@@ -68,7 +68,7 @@ La contribución para los asegurados del **seguro de pensiones** se calcula en b
 ## Coste del seguro de enfermedad en Alemania (Krankenversicherung)
 La siguiente deducción de la nómina es el **seguro de enfermedad** o *Krankenversicherung*, que es obligatorio para todas las personas que vivan en Alemania. A partir de un salario estipulado, se puede puede elegir entre el sistema público o el privado, pero por debajo de ese límite es obligatorio formar parte del sistema público. Es la rama más antigua del sistema de seguridad social alemán y tiene como fin "mantener o restablecer la salud del asegurado/a". Todas las personas aseguradas tienen derecho a prestaciones integrales y uniformes, independientemente de su capacidad financiera, y las cotizaciones dependen de los ingresos.
 
-<!--El tema del seguro médico también es extenso y requiere un artículo propio, donde te explico todo lo que tienes que saber. Puedes encontrarlo [aquí](/post/seguro-medico).-->
+<!--El tema del seguro médico también es extenso y requiere un artículo propio, donde te explicamos todo lo que tienes que saber. Puedes encontrarlo [aquí](/post/seguro-medico).-->
 
 La contribución para los asegurados se calcula en base a sus ingresos. La tasa general de cotización en 2026 es del 14,6% del salario bruto, de los cuales el empleado y el empleador pagan cada uno la mitad. Es decir, al trabajador el seguro de enfermedad le cuesta el **7,3% de su salario**. 
 
@@ -137,7 +137,7 @@ Estoy contigo. Este tema es muy lioso. Por si te está entrando dolor de cabeza 
     - Arbeitlosenversicherung (Seguro de desempleo): 650,00€
 - Kirchensteuer (Impuesto eclesiástico): 0€ porque Juanita es atea
 
-**Total: de los 50000€ brutos, Juanita recibe 32298,04€ netos** anuales en su [cuenta bancaria](/post/cuenta-banco).
+**Total: de los 50000€ brutos, Juanita recibe 32298,04€ netos** anuales en su [cuenta bancaria](/post/cuenta-banco-alemania).
 Por lo tanto, sus ingresos se han reducido en un **35%** por los impuestos.
 
 Todos esos impuestos se los van a descontar automáticamente de su nómina antes de que se la ingresen en su cuenta y, por lo tanto, no tiene que hacer nada. Aparte de las deducciones de la nómina, Juanita tiene que pagar 18.36€ al mes por el impuesto de la televisión, a pesar que ella no tiene televisión ni radio en su casa ni la ha visto nunca porque no le gusta. Como vive con Pepito, su compañero de piso, y el impuesto es por vivienda, lo pagan entre los dos y su parte es de 9.18€. 
@@ -146,6 +146,6 @@ Ahora que ya has leído la versión ultra-mega-corta con el super-resumen y el c
 
 La página del ministerio de finanzas tiene un [artículo sobre los impuestos](https://www.bundesfinanzministerium.de/Content/DE/Standardartikel/Service/Leichte_Sprache/steuern.html) en *leichte Sprache*, es decir, en alemán pero en alemán muy sencillo para que sea fácil de entender por todos que te puede ser de ayuda.
 
-Quizá te interese también conocer cómo funciona el [sistema de clases fiscales](/post/steuerklassen) o el [paro en Alemania](/post/prestacion-desempleo). En esta guía te explicamos cómo funciona y qué requisitos hacen falta para solicitarlo. 
+Quizá te interese también conocer cómo funciona el [sistema de clases fiscales](/post/steuerklassen-clases-fiscales) o el [paro en Alemania](/post/paro-alemania-arbeitslosengeld). En esta guía te explicamos cómo funciona y qué requisitos hacen falta para solicitarlo. 
 
 Hasta aquí esta explicación sobre los impuestos en Alemania. El tema de los impuestos es complejo pero también muy importante. ¡Espero que te haya servido!

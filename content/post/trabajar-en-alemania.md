@@ -91,11 +91,11 @@ En Alemania existe un salario mínimo por ley que se debe abonar al trabajador/a
 
 En algunos sectores profesionales existen, además, salarios mínimos adicionales respectivos del sector. Entre estas ramas se encuentran por ejemplo la construcción, la limpieza de edificios y la asistencia a personas dependientes o enfermas.
 
-Este salario mínimo mencionado es el **salario bruto**, es decir, antes de impuestos y no es lo que te llega a tu cuenta cada mes. Para saber más sobre cuántos impuestos se pagan en Alemania y, por lo tanto, la diferencia entre bruto y neto, visita nuestro detallado [artículo sobre impuestos](/post/impuestos). La nómina debe de ser abonada a más tardar a mediados del mes siguiente al trabajado. Lo más común es que lo ingresen en tu cuenta corriente. También están obligados a extenderte cada mes una nómina, que pueden entregarte en mano, por correo postal o digitalmente, en la cual deberá figurar un desglose de cuánto has ganado y cuáles son las sumas que se descontaron en concepto de impuestos y seguros sociales. 
+Este salario mínimo mencionado es el **salario bruto**, es decir, antes de impuestos y no es lo que te llega a tu cuenta cada mes. Para saber más sobre cuántos impuestos se pagan en Alemania y, por lo tanto, la diferencia entre bruto y neto, visita nuestro detallado [artículo sobre impuestos](/post/impuestos-alemania). La nómina debe de ser abonada a más tardar a mediados del mes siguiente al trabajado. Lo más común es que lo ingresen en tu cuenta corriente. También están obligados a extenderte cada mes una nómina, que pueden entregarte en mano, por correo postal o digitalmente, en la cual deberá figurar un desglose de cuánto has ganado y cuáles son las sumas que se descontaron en concepto de impuestos y seguros sociales. 
 
 Respecto a las diferencias salariales, científicos, médicos e ingenieros se encuentran entre los colectivos mejor pagados. No obstante, la remuneración en Alemania no depende únicamente de la profesión. También hay diferencias regionales de salarios. 
 
-Ahora sabes la cantidad mínima que puedes ganar en Alemania pero para que este número te dirva de algo, hay que ponerlo en contexto, ¿qué significa esta cantidad realmente? Para saber cuánto es realmente necesario para poder vivir (decentemente) en Alemania, compara este número con el [coste de vida](/post/coste-de-vida).
+Ahora sabes la cantidad mínima que puedes ganar en Alemania pero para que este número te dirva de algo, hay que ponerlo en contexto, ¿qué significa esta cantidad realmente? Para saber cuánto es realmente necesario para poder vivir (decentemente) en Alemania, compara este número con el [coste de vida](/post/costo-vida-alemania).
 
 ### Máximo de horas de trabajo
 En Alemania, la ley determina cuántas horas por día y por semana está permitido trabajar, es decir, hay máximos que no se pueden sobrepasar. Las horas de trabajo no deberán superar el máximo de 8 horas al día generalmente. Éstas solo podrán ser aumentadas a un máximo (temporal) de hasta 10h diarias si durante un periodo de 24 semanas o de 6 meses no se exceden en promedio las 8 horas de trabajo por día. El horario estándar de trabajo es de 8h al día, 40 semanales.
@@ -104,7 +104,7 @@ En Alemania, la ley determina cuántas horas por día y por semana está permiti
 También existe un periodo de descanso o pausa que establece la ley y es de un mínimo 30 minutos de descanso por periodos de 6 hasta 9 horas trabajados y de 45 minutos a partir de más de 9 horas. Esto sería, por ejemplo, el derecho a la pausa para comer.
 
 ### Derecho a vacaciones
-Respecto a los días de vacaciones mínimos al año, en Alemania existe el derecho a vacaciones de como **mínimo 20 días laborables** (contando una semana laboral de 5 días). Cuando se dice laborables, no están incluidos días que normalmente son de descanso, como sábados y domingos, sino que contándolos se traducirían en un total de **4 semanas de vacaciones al año**. Frecuentemente, las empresas ofrecen más (no hay límites superiores), que pueden variar, por lo general, entre 20 y 30 días al año. Además de estos días, también tienes el derecho a los [días festivos](/post/festivos), que no forman parte de esa cantidad.
+Respecto a los días de vacaciones mínimos al año, en Alemania existe el derecho a vacaciones de como **mínimo 20 días laborables** (contando una semana laboral de 5 días). Cuando se dice laborables, no están incluidos días que normalmente son de descanso, como sábados y domingos, sino que contándolos se traducirían en un total de **4 semanas de vacaciones al año**. Frecuentemente, las empresas ofrecen más (no hay límites superiores), que pueden variar, por lo general, entre 20 y 30 días al año. Además de estos días, también tienes el derecho a los [días festivos](/post/festivos-alemania), que no forman parte de esa cantidad.
 
 ### Baja por maternidad y paternidad y subsidio parental
 La ley alemana hace distinción entre dos tipos de bajas de maternidad (y sus protecciones asociadas): la *Mutterschutz* (protección de la madre) y el *Elternzeit* (baja parental). 
@@ -131,7 +131,7 @@ Además de todos los derechos mencionados, también existen convenios colectivos
 
 ## Sistema fiscal y seguridad social
 Si trabajas más de 183 días en un año natural en Alemania, tendrás que pagar
-impuestos en Alemania. Para saber cuántos impuestos son, lee el [artículo sobre impuestos](/post/impuestos). Aquí te explicamos cómo funcionan las deducciones sobre la nómina: IRPF, seguridad social, etc y cómo éstas dependen de tu [clase fiscal](/post/steuerklassen).
+impuestos en Alemania. Para saber cuántos impuestos son, lee el [artículo sobre impuestos](/post/impuestos-alemania). Aquí te explicamos cómo funcionan las deducciones sobre la nómina: IRPF, seguridad social, etc y cómo éstas dependen de tu [clase fiscal](/post/steuerklassen-clases-fiscales).
 
 ## Código de etiqueta laboral alemán
 Para poder integrarte exitosamente en el entorno laboral alemán, deberás adoptar las costumbres del código de etiqueta laboral alemán, que en algunos casos, pueden diferir de las costumbres de tu país o cultura. Vamos a hablar de las más importantes.
@@ -159,10 +159,10 @@ A grandes rasgos, se necesita cumplir cuatro requisitos esenciales: estar sin em
 
 ¿Quieres mudarte a Alemania, o de Alemania a otro país, y cobrar allí la prestación por desempleo o llevarte el tiempo cotizado? Para los ciudadanos que hayan trabajado en otros países antes, es relevante saber que los tiempos de trabajo sujetos a cotización en países de la Unión Europea (y EEE) pueden sumarse a los periodos cotizados en Alemania. Más información sobre este caso particular más adelante, donde explicamos qué opciones tienes y qué formularios son necesarios (Formularios U1 y U2) para moverte entre países y ejercer tus derechos de desempleo en estos procesos.
 
-Si este tema te interesa, lee nuestro detallado [artículo sobre la prestación por desempleo](/post/prestacion-desempleo/) para comprender exactamente cómo funciona.
+Si este tema te interesa, lee nuestro detallado [artículo sobre la prestación por desempleo](/post/paro-alemania-arbeitslosengeld/) para comprender exactamente cómo funciona.
 
 ## Trabajar por cuenta propia (como autónomo)
-Si quieres trabajar en Alemania por cuenta propia (como autónomo/a), deberás informarte de si es necesario que te registres como empresa, en cuyo caso tienes que registrar la empresa en la Oficina de Actividad Empresarial (*Gewerbeamt*)  de la ciudad donde vivas. Para ello, hay que presentar tu certificado de empadronamiento ([***Meldebescheinigung***](/post/anmeldung)) actual y rellenar
+Si quieres trabajar en Alemania por cuenta propia (como autónomo/a), deberás informarte de si es necesario que te registres como empresa, en cuyo caso tienes que registrar la empresa en la Oficina de Actividad Empresarial (*Gewerbeamt*)  de la ciudad donde vivas. Para ello, hay que presentar tu certificado de empadronamiento ([***Meldebescheinigung***](/post/anmeldung-alemania)) actual y rellenar
 un formulario. La tasa de registro varía entre los 15 y los 65€ aproximadamente. En el caso de algunas profesiones, sólo podrás registrar la empresa si puedes
 presentar el título de maestría (por ejemplo, como albañil, carpintero, tejador, técnico aislador de edificios, montador de andamios o fontanero), apostillado y traducido. En otras no será necesario.
 Además, para poder registrar la empresa, necesitarás un número de identificación fiscal que recibirás de hacienda, una vez se tramite tu solicitud.

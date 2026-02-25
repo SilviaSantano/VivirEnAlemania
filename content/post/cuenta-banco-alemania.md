@@ -15,7 +15,7 @@ Al principio, abrir una cuenta bancaria puede parecer algo difícil para muchos 
 Antes de nada:
 
 ## ¿Para qué necesitas una cuenta bancaria alemana?
-Es necesario abrir una cuenta alemana si quieres vivir y trabajar en Alemania ya que la vas a necesitar para pagar el alquiler, recibir un salario (ya que el empleador por lo general te va a pedir un IBAN alemán para ingresarte la nómina), obtener un seguro médico, inscribirte como autónomo, [cobrar el paro](/post/prestacion-desempleo) (si es tu caso) y otras gestiones. 
+Es necesario abrir una cuenta alemana si quieres vivir y trabajar en Alemania ya que la vas a necesitar para pagar el alquiler, recibir un salario (ya que el empleador por lo general te va a pedir un IBAN alemán para ingresarte la nómina), obtener un seguro médico, inscribirte como autónomo, [cobrar el paro](/post/paro-alemania-arbeitslosengeld) (si es tu caso) y otras gestiones. 
 
 ## Qué tipos de cuentas bancarias hay en Alemania
 Los bancos alemanes ofrecen distintos tipos de cuentas, que tienen diferentes propósitos:
@@ -35,13 +35,13 @@ Los bancos tradicionales son los más conocidos y reputados internacionalmente. 
 
 ### Bancos tradicionales
 Cuando al principio de este artículo he mencionado que hace unos años abrir una cuenta bancaria en Alemania podía ser toda una odisea, lo decía en serio. Y me refería, por supuesto al método de los bancos tradicionales.
-Cuando llegué a Alemania en 2012 y tuve que abrirme la cuenta, no pensé que sería algo muy difícil más allá de conseguir comunicarme con los trabajadores del banco, preguntándome si hablarían inglés. Al fin y al cabo, mis intenciones eran depositar mi dinero (vale, era poco dinero, sí, pero dinero a fin de cuentas) en sus manos, deberían estar deseosos de ayudarme a abrir una cuenta, ¿no es verdad? Pues no lo parecía, ya que todo eran trabas. Tuve que dirijirme a varias entidades diferentes y me llegó a parecer que les estaba suplicando que me permitiesen darles mi dinero más que al revés. En un par de ellas no tuve mucha suerte, ya que o bien no hablaban alemán o no tenían muchas ganas de hacerlo, mientras que en otras me decían que necesitaba pedir una cita previa para poder hacerlo. Así que pedí una cita que me dieron para varios días después. A la cita debía acudir con mi [certificado de empadronamiento](../anmeldung), ya que muchos bancos aún lo requieren. Al final, conseguí abrirla pero me pareció un proceso demasiado complicado y nada *friendly* con los extranjeros. En ese momento, no había más remedio que hacerlo así.
+Cuando llegué a Alemania en 2012 y tuve que abrirme la cuenta, no pensé que sería algo muy difícil más allá de conseguir comunicarme con los trabajadores del banco, preguntándome si hablarían inglés. Al fin y al cabo, mis intenciones eran depositar mi dinero (vale, era poco dinero, sí, pero dinero a fin de cuentas) en sus manos, deberían estar deseosos de ayudarme a abrir una cuenta, ¿no es verdad? Pues no lo parecía, ya que todo eran trabas. Tuve que dirijirme a varias entidades diferentes y me llegó a parecer que les estaba suplicando que me permitiesen darles mi dinero más que al revés. En un par de ellas no tuve mucha suerte, ya que o bien no hablaban alemán o no tenían muchas ganas de hacerlo, mientras que en otras me decían que necesitaba pedir una cita previa para poder hacerlo. Así que pedí una cita que me dieron para varios días después. A la cita debía acudir con mi [certificado de empadronamiento](/post/anmeldung-alemania), ya que muchos bancos aún lo requieren. Al final, conseguí abrirla pero me pareció un proceso demasiado complicado y nada *friendly* con los extranjeros. En ese momento, no había más remedio que hacerlo así.
 
 Resumiendo, para abrir la cuenta con un banco tradicional, probablemente tendrás que hacerlo en una oficina. Para ello:
 * Pide cita por adelantado
 * Solicita abrir una cuenta y completa un formulario
 * Verifica tu identidad con tu DNI o pasaporte 
-* Presenta una copia de tu [Meldebescheinigung (aka Anmeldung)](../anmeldung)
+* Presenta una copia de tu [Meldebescheinigung (aka Anmeldung)](/post/anmeldung-alemania)
 * Opcional: Presenta tu registro de estudiante si quieres abrir una cuenta de estudiante
 * Espera hasta que te envíen la confirmación de apertura de tu cuenta por correo postal
 
@@ -98,7 +98,7 @@ Existen otras muchas con otras condiciones y también algunos ofrecen cuentas es
 ### Bancos online
 En los últimos años han aparecido una serie de bancos online (también llamados *bancos directos*) alemanes que están modernizando el mercado. Su principal atractivo es que ofrecen la posibilidad de tener una cuenta bancaria alemana con todos sus servicios prácticamente sin costes ni comisiones, lo cual es una gran ventaja, porque otros bancos alemanes cobran por absolutamente todo. Eso sí, no disponen de oficinas físicas de atención al cliente.
 Al ser online, también te ahorras ir a una oficina para abrir la cuenta, sino que la abres desde casa en pocos minutos. Naturalmente, también será necesario comprobar tu identidad, pero también esto lo puedes hacer online. El proceso se llama *legitimación* y básicamente consiste en una videollamada con un agente que te va a pedir que enseñes tu documento de identificación (pasaporte o DNI) a la cámara por delante y por detrás y comprobará que efectivamente se trata de la misma persona.
-Además, estos bancos no piden que muestres tu [Meldebescheinigung (aka Anmeldung)](../anmeldung) ni ninguna otra prueba de residencia. Técnicamente, según la ley europea, nadie debería pedirlo porque se debería tener derecho a abrir una cuenta con cualquier país miembro de la UE, independientemente de si resides en él o no. Como puedes ver, esto también es una gran ventaja, que te permite abrir la cuenta antes de desplazarte a Alemania incluso o antes de encontrar una residencia fija y empadronarte. Al hacer la cuenta desde España, puedes poner tu dirección española y aun así solicitar un IBAN alemán. Una vez te mudes, simplemente la tendrás que actualizar pero ya tendrás tu cuenta disponible.
+Además, estos bancos no piden que muestres tu [Meldebescheinigung (aka Anmeldung)](/post/anmeldung-alemania) ni ninguna otra prueba de residencia. Técnicamente, según la ley europea, nadie debería pedirlo porque se debería tener derecho a abrir una cuenta con cualquier país miembro de la UE, independientemente de si resides en él o no. Como puedes ver, esto también es una gran ventaja, que te permite abrir la cuenta antes de desplazarte a Alemania incluso o antes de encontrar una residencia fija y empadronarte. Al hacer la cuenta desde España, puedes poner tu dirección española y aun así solicitar un IBAN alemán. Una vez te mudes, simplemente la tendrás que actualizar pero ya tendrás tu cuenta disponible.
 
 Los bancos más populares y con mejores condiciones actualmente son: N26, DKB e ING.
 
@@ -144,9 +144,9 @@ Algunos bancos ofrecen una tarjeta que puede combinar dos de estos sistemas, que
 ## Pagos con tarjeta vs en efectivo en Alemania
 Lamentablemente, Alemania se moderniza muy lentamente en muchos aspectos y este es uno de ellos. Después de la pandemia de COVID19, muchos establecimientos se abrieron más al pago por tarjeta pero a día de hoy sigue siendo realmente común que en muchos (muchos muchos) establecimientos como tiendas y restaurantes solamente acepten pago en efectivo, incluso en restaurantes grandes y conocidos. Es algo que sucede cada día. 
 
-Cuando quieras y puedas pagar con tarjeta, solamente tendrás que decir "*Mit Karte, bitte!*" (con tarjeta, por favor) a la hora de pagar. Incluso si quieres dejar una [propina](/post/propinas) también se puede hacer con tarjeta.
+Cuando quieras y puedas pagar con tarjeta, solamente tendrás que decir "*Mit Karte, bitte!*" (con tarjeta, por favor) a la hora de pagar. Incluso si quieres dejar una [propina](/post/propinas-en-alemania) también se puede hacer con tarjeta.
 
-Si quieres saber más sobre el [coste de vida en Alemania](/post/coste-de-vida) o [qué impuestos se pagan](/post/impuestos), visita nuestros otros artículos.
+Si quieres saber más sobre el [coste de vida en Alemania](/post/costo-vida-alemania) o [qué impuestos se pagan](/post/impuestos-alemania), visita nuestros otros artículos.
 
 Hasta aquí esta explicación sobre los tipos de cuentas bancarias disponibles en Alemania y cómo abrir una cuenta. ¡Espero que te haya servido!
 
