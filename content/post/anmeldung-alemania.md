@@ -63,6 +63,6 @@ Si esto no es posible, porque no conoces a nadie que te pueda dar alojamiento, h
 ## ¿Y si luego vuelvo a cambiar de dirección?
 Si te quedas una larga temporada en Alemania, lo más seguro es que pases por más de una vivienda. Cada vez que cambies de dirección, tendrás que volver a hacer este registro. En el caso de cambio de residencia ya no se llamará **An**meldung sino **Um**meldung pero es prácticamente lo mismo. Además, ¡ya tendrás experiencia! y será todo más fácil, ya que conoces el proceso.
 
-Si quieres saber más sobre [cómo elegir una cuenta de banco](/post/cuenta-banco), o [qué impuestos se pagan](/post/impuestos), visita nuestros otros artículos.
+Si quieres saber más sobre [cómo elegir una cuenta de banco](/post/cuenta-banco-alemania), o [qué impuestos se pagan](/post/impuestos-alemania), visita nuestros otros artículos.
 
 Esto es todo lo que necesitas saber sobre el Anmeldung. Esta palabra no la olvidarás porque durante todo el tiempo que vivas en Alemania la oirás cientos de veces, sobre todo si te relacionas con otros extranjeros, y es una de las múltiples palabras que los españoles jamás traducimos sino que la decimos tal cual. ¡Espero que te haya servido!

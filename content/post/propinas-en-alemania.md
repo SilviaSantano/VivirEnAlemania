@@ -31,6 +31,6 @@ En bares, pubs y cafeterías en los que pides y pagas en la barra suele haber un
 ## ¿Hay que pagar en los baños?
 Cada vez que vayas a un baño público, no te sorprendas si ves a una persona sentada en la puerta y una mesa con un platito cerca de la entrada para dejar unas monedas. En muchos baños de Alemania encontrarás este sistema para dejar propina, incluso en lugares o eventos donde hayas pagado una entrada ¡o en restaurantes en los que ya estás consumiendo y te vas a dejar una pasta! En algunos casos, también verás un cartel indicando la cantidad esperada, generalmente entre 0,30€ y 1€.
 
-Si quieres saber más curiosidades sobre Alemania, visita nuestros otros artículos como, por ejemplo, cómo funciona el [pfand o depósito por las botellas](/post/pfand), cuántos [festivos](/post/festivos) hay o cómo son los [horarios](/post/horarios).
+Si quieres saber más curiosidades sobre Alemania, visita nuestros otros artículos como, por ejemplo, cómo funciona el [pfand o depósito por las botellas](/post/pfand-reciclaje-alemania), cuántos [festivos](/post/festivos-alemania) hay o cómo son los [horarios](/post/horarios-alemania).
 
 ¡Espero que este artículo te sirva de referencia para saber cuándo y cuánta propina dejar en Alemania!

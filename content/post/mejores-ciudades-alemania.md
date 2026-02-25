@@ -95,7 +95,7 @@ Según diversos estudios, la ciudad se ubica consistentemente entre las mejores 
 Tiene un **costo de vida significativamente más caro** que el resto y, a pesar de su aspecto tranquilo y provincial, es una ciudad con una fuerte economía y costos de vida y rentas elevadas. Baviera no fue siempre rica pero, a lo largo de la segunda mitad del siglo pasado, las multinacionales fueron instalándose allí. Una razón es que querían como sede un lugar de calidad de vida atractiva para conseguir que el personal más competente y demandado quisiera trabajar con ellos.
 Si bien es cierto que, en general, Múnich es una ciudad cara, los salarios también son bastante más elevados que en el resto del país, por lo que se goza de una alta calidad de vida. No obstante, la búsqueda de piso puede ser una gran odisea debido a la altísima demanda de vivienda céntrica y la baja oferta. Por este motivo, puedes también contar con que los precios van a ser bastante altos. Considera todo esto antes de llegar allí y pegarte un buen susto.
 
-Para saber más sobre el coste de vida en Alemania, visita esta [guía](post/coste-de-vida).
+Para saber más sobre el coste de vida en Alemania, visita esta [guía](/post/costo-vida-alemania).
 
 Otro aspecto destacado de Múnich es su ubicación geográfica. Rodeada de impresionantes paisajes alpinos y con fácil acceso a lagos y áreas naturales, la ciudad ofrece numerosas oportunidades para disfrutar de actividades al aire libre, como el senderismo, el esquí y el ciclismo.
 
@@ -108,7 +108,7 @@ Otra razón para considerar vivir en Múnich es su vibrante ambiente social y cu
 - **Lo mejor**: hermosa y tranquila ciudad, rodeada de naturaleza
 - **Lo peor**: sin duda, encontrar un piso en Munich y que te lo puedas permitir va a ser lo más duro 
 
-Para saber más, visita esta [guía y consejos para encontrar piso](/post/encontrar-piso).
+Para saber más, visita esta [guía y consejos para encontrar piso](/post/alquilar-piso-alemania).
 
 ## Colonia (*Köln*)
 Hacia el oeste, Colonia, la cuarta ciudad más grande, se encuentra en el corazón de la densamente poblada región de Renania del Norte-Westfalia, en la que viven algo más de un millón de personas. 
@@ -198,6 +198,6 @@ Si quieres saber más sobre cómo es la vida en un pueblo en el sur de Alemania,
 # ¿Cuál es la mejor ciudad para vivir en Alemania?
 En resumen, cada uno de estos lugares tiene su propia personalidad y encanto, por lo que la elección de la mejor ciudad para vivir en Alemania dependerá de tus necesidades y preferencias personales. Berlín, Múnich, Hamburgo, Colonia y Fráncfort son todas excelentes opciones para establecerse en Alemania, ya sea que estés buscando oportunidades laborales, una vida nocturna vibrante, una rica historia cultural o simplemente un lugar para disfrutar de la vida en Europa. Sin embargo, Alemania es mucho más que eso y también existen otras muchas ciudades más pequeñas con su encanto y algo más asequibles.
 
-Para saber más sobre el coste de vida en Alemania, visita esta [guía](post/coste-de-vida). Y si ya te has decidido, probablemente te interese saber [cómo empadronarse en Alemania](/post/anmeldung) o cómo elegir una [cuenta de banco](/post/cuenta-banco).
+Para saber más sobre el coste de vida en Alemania, visita esta [guía](/post/costo-vida-alemania). Y si ya te has decidido, probablemente te interese saber [cómo empadronarse en Alemania](/post/anmeldung-alemania) o cómo elegir una [cuenta de banco](/post/cuenta-banco-alemania).
 
 ¡Espero que te haya servido!

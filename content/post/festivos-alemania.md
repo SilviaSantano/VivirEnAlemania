@@ -47,6 +47,6 @@ El porqué de estas diferencias se debe a varias razones. Por un lado, a razones
 
 Para saber los días exactos que son oficialmente festivos este año y los dos siguientes, visita este [enlace](https://www.dgb.de/service/ratgeber/feiertage/) que los detalla para cada estado federado.
 
-Si quieres saber más curiosidades sobre Alemania, visita nuestros otros artículos como, por ejemplo, cómo funciona el [pfand o depósito por las botellas](/post/pfand), cómo son los [horarios](/post/horarios) o cómo son las [propinas](/post/propinas).
+Si quieres saber más curiosidades sobre Alemania, visita nuestros otros artículos como, por ejemplo, cómo funciona el [pfand o depósito por las botellas](/post/pfand-reciclaje-alemania), cómo son los [horarios](/post/horarios-alemania) o cómo son las [propinas](/post/propinas-en-alemania).
 
 ¡Espero que hayas aprendido cuáles son los días festivos en Alemania!

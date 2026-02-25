@@ -25,7 +25,7 @@ El monto de la prestación por desempleo (Arbeitslosengeld o ALG I) no es una ca
 Aquí te resumimos cómo se calcula el dinero que recibirás:
 1. Base de Cálculo (*Bemessungsentgelt*): la base para el cálculo es tu salario bruto (*Brutto-Arbeitsentgelt*) de los últimos 12 meses anteriores al inicio del desempleo. Solo se tiene en cuenta la parte del salario que estaba sujeta a cotización en el seguro de desempleo (por ejemplo, los Minijobs no se consideran). Al dividir este total por 365 días, se obtiene el salario bruto diario (*Bemessungsentgelt*).
 
-2. Salario Neto Teórico (*Leistungsentgelt*): del Bemessungsentgelt se restan la retención del impuesto sobre el salario (*Lohnsteuer*), el recargo de solidaridad (si aplica) y una cantidad de aproximadamente el 20% para el seguro social ([*Sozialversicherung*](/post/impuestos/)). El resultado es tu salario neto diario teórico, denominado *Leistungsentgelt*.
+2. Salario Neto Teórico (*Leistungsentgelt*): del Bemessungsentgelt se restan la retención del impuesto sobre el salario (*Lohnsteuer*), el recargo de solidaridad (si aplica) y una cantidad de aproximadamente el 20% para el seguro social ([*Sozialversicherung*](/post/impuestos-alemania/)). El resultado es tu salario neto diario teórico, denominado *Leistungsentgelt*.
 
 3. Cuantía de la Prestación (Tasa): el monto final que recibes es un porcentaje de ese *Leistungsentgelt* diario y es una prestación libre de impuestos (*steuerfrei*). Sin embargo, es de eeclaración obligatoria, si el ALG I recibido (más otras prestaciones similares) supera los 410 euros en un año, estás obligado a presentar una declaración de la renta. 
     • **Tasa estándar: Recibirás el 60% de tu *Leistungsentgelt* (salario neto) si no tienes hijos.**  
@@ -33,11 +33,11 @@ Aquí te resumimos cómo se calcula el dinero que recibirás:
 
 Ejemplo para una trabajadora desempleada sin hijos: si su salario anterior era de 5000€ brutos mensuales, que equivalen a 3125 € netos mensuales aproximadamente (depende de muchas variables), el 60% equivaldría a unos 1875 € y esta sería la cuantía que recibiría en concepto de paro.
 
-Modalidad de pago: el *Arbeitslosengeld* se paga regularmente mensualmente y de forma retroactiva en tu [cuenta bancaria](/post/cuenta-banco). Un mes completo se calcula siempre como 30 días.
+Modalidad de pago: el *Arbeitslosengeld* se paga regularmente mensualmente y de forma retroactiva en tu [cuenta bancaria](/post/cuenta-banco-alemania). Un mes completo se calcula siempre como 30 días.
 
-Si quieres saber más sobre si la cantidad de paro sería suficiente para poder vivir, y saber más sobre el coste de vida en Alemania, visita esta [guía](post/coste-de-vida).
+Si quieres saber más sobre si la cantidad de paro sería suficiente para poder vivir, y saber más sobre el coste de vida en Alemania, visita esta [guía](/post/costo-vida-alemania).
 
-Importante: la [*Lohnsteuerklasse*](/post/steuerklassen/) (la clase de impuesto sobre el salario) utilizada en el cálculo es la que estaba vigente al comienzo del año en que surge el derecho a la prestación. Debes saber que un cambio de clase de impuesto (por ejemplo, con tu pareja) puede reducir el monto de tu subsidio.
+Importante: la [*Lohnsteuerklasse*](/post/steuerklassen-clases-fiscales/) (la clase de impuesto sobre el salario) utilizada en el cálculo es la que estaba vigente al comienzo del año en que surge el derecho a la prestación. Debes saber que un cambio de clase de impuesto (por ejemplo, con tu pareja) puede reducir el monto de tu subsidio.
 Puedes utilizar la [calculadora de subsidio de desempleo (Arbeitslosengeld-Rechner)](https://www.pub.arbeitsagentur.de/start.html) de la Agencia Federal de Empleo para estimar tu cuantía exacta individualmente.
 
 ## Quién tiene derecho a la prestación por desempleo en Alemania

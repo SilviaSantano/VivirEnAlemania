@@ -73,6 +73,6 @@ También puedes buscar en grupos de compraventa locales en Facebook, donde la ge
 
 !["Munich. El uso de bicicletas como medio de transporte está muy extendido en Alemania"](/img/munich_bicicleta.jpg "Munich. El uso de bicicletas como medio de transporte está muy extendido en Alemania")
 
-Si quieres saber más curiosidades sobre Alemania, visita nuestros otros artículos como, por ejemplo, cómo funciona el [pfand o depósito por las botellas](/post/pfand), cuántos [festivos](/post/festivos) hay o cómo son los [horarios](/post/horarios).
+Si quieres saber más curiosidades sobre Alemania, visita nuestros otros artículos como, por ejemplo, cómo funciona el [pfand o depósito por las botellas](/post/pfand-reciclaje-alemania), cuántos [festivos](/post/festivos-alemania) hay o cómo son los [horarios](/post/horarios-alemania).
 
 ¡Espero que hayas aprendido sobre el mercado de segunda mano en Alemania!

@@ -49,7 +49,7 @@ Alemania es una de las economías más grandes y eficientes del mundo, la princi
 
 ## Coste de vida 
 Aunque muchos puedan tener la idea de que Alemania es un país muy caro, e incluso se imaginen unos precios al nivel de Suiza o los países nórdicos, te sorprenderá conocer el bajo costo de vida del país, comparado con países como Reino Unido, Suiza, Noruega, Holanda, Francia, Bélgica o Suecia. 
-Alemania ofrece opciones de precios para todos los bolsillos, siendo mucho más fácil ahorrar que en otros lugares, debido a que la diferencia entre los sueldos medios y el coste de vida es mayor. Para saber más sobre este tema, visita nuestro artículo completo sobre el [coste de vida en Alemania](/post/coste-de-vida).
+Alemania ofrece opciones de precios para todos los bolsillos, siendo mucho más fácil ahorrar que en otros lugares, debido a que la diferencia entre los sueldos medios y el coste de vida es mayor. Para saber más sobre este tema, visita nuestro artículo completo sobre el [coste de vida en Alemania](/post/costo-vida-alemania).
 
 ## Work-Life-Balance
 En este país se valora fuertemente el equilibrio entre trabajo y descanso, al contrario de lo que muchas personas piensan sobre Alemania. Es posible que hayas oído o te hayas imaginado a los alemanes como trabajadores incansables, con jornadas larguísimas, pero no es así en absoluto. En Alemania sí se descansa.
@@ -68,12 +68,12 @@ Con su sistema educativo gratuito o de bajo costo y su enfoque multilingüe, Ale
 Estudiar en Alemania significa acceder a un entorno educativo de calidad que combina universidades de renombre mundial con programas de formación profesional y oportunidades de aprendizaje continuo. El coste de la educación superior es bastante bajo en comparación con muchos países: alrededor de 250 € por semestre cubren la matrícula y el ID de estudiante que permite el uso gratuito de los servicios de transporte público, lo que reduce aún más los gastos cotidianos. Este coste reducido no se limita a los ciudadanos alemanes sino que los estudiantes internacionales también se benefician de esta política, lo que facilita la obtención de títulos reconocidos globalmente sin que el presupuesto sea un obstáculo tan grande. Además, las universidades alemanas ofrecen una variedad de programas en inglés, lo que facilita la adaptación y la integración de los estudiantes del extranjero, ampliando así sus oportunidades profesionales y personales. 
 
 ## Sistema de seguridad social y ayudas sociales
-Alemania ofrece un robusto sistema de seguridad social que cubre la asistencia médica así como las ayudas en caso enfermedad, accidentes, desempleo y vejez mediante [contribuciones salariales](/post/impuestos/#cuánto-se-paga-por-la-seguridad-social-en-alemania-sozialversicherung), que se descuentan de la nómina. 
+Alemania ofrece un robusto sistema de seguridad social que cubre la asistencia médica así como las ayudas en caso enfermedad, accidentes, desempleo y vejez mediante [contribuciones salariales](/post/impuestos-alemania/#cuánto-se-paga-por-la-seguridad-social-en-alemania-sozialversicherung), que se descuentan de la nómina. 
 
-Entre las ayudas sociales, destacan prestaciones como el *Elterngeld* (ayuda a los padres durante y madres durante la baja por maternidad y paternidad, de hasta 1800€, acorde a su salario anterior) y el *Kindergeld* (subsidio mensual por hijos hasta 18 años de 255€ al mes por hijo/a en 2026). Otra ayuda muy apreciada es que dispone de matronas a domicilio para apoyo previo y postparto. En cuanto al *Arbeitslosengeld*, el paro o subsidio por desempleo, puedes acceder a nuestra [guía completa sobre el paro](/post/prestacion-desempleo) para saber cómo funciona.
+Entre las ayudas sociales, destacan prestaciones como el *Elterngeld* (ayuda a los padres durante y madres durante la baja por maternidad y paternidad, de hasta 1800€, acorde a su salario anterior) y el *Kindergeld* (subsidio mensual por hijos hasta 18 años de 255€ al mes por hijo/a en 2026). Otra ayuda muy apreciada es que dispone de matronas a domicilio para apoyo previo y postparto. En cuanto al *Arbeitslosengeld*, el paro o subsidio por desempleo, puedes acceder a nuestra [guía completa sobre el paro](/post/paro-alemania-arbeitslosengeld) para saber cómo funciona.
 
 ## Ubicación geográfica
-Alemania se encuentra en el corazón de Europa, en una [ubicación inmejorable](/post/ciudades#un-poco-de-información-sobre-alemania), fronteriza con 9 países de la UE, lo que la convierte en un punto neurálgico para viajar y conectar con todo el continente. La posición central facilita accesos en pocas horas a capitales europeas como París, Ámsterdam, Ámsterdam, Berlín, Viena y más, a través de trenes o aviones de corta distancia. 
+Alemania se encuentra en el corazón de Europa, en una [ubicación inmejorable](/post/mejores-ciudades-alemania#un-poco-de-información-sobre-alemania), fronteriza con 9 países de la UE, lo que la convierte en un punto neurálgico para viajar y conectar con todo el continente. La posición central facilita accesos en pocas horas a capitales europeas como París, Ámsterdam, Ámsterdam, Berlín, Viena y más, a través de trenes o aviones de corta distancia. 
 
 Además, posee una infraestructura vial y de transporte terrestre (trenes y autobuses) de buena calidad, lo que garantiza desplazamientos rápidos y seguros dentro del país y a sus vecinos.  
 Su ubicación estratégica la convierte también en un hub logístico esencial para el comercio y los negocios europeos.
@@ -102,7 +102,7 @@ Alemania es un país muy tranquilo, en cuestiones de seguridad y en cuestiones d
 
 ## Reciclaje
 Hay muchas facilidades para reciclar. La mayoría de los edificios cuentan con sus propios contenedores de basura orgánica, papel y envases, lo cual es una ventaja para el reciclaje, ya que los diferentes contenedores los tienes en la puerta de tu casa. 
-También está el sistema de [Pfand](/post/pfand) o reciclaje de envases y botellas.
+También está el sistema de [Pfand](/post/pfand-reciclaje-alemania) o reciclaje de envases y botellas.
 
 ## Bicicletas
 En la práctica, la bicicleta representa un medio de transporte muy conveniente, sencillo, barato y no contaminante, en el que gran parte de la población investe su rutina diaria, incluido en invierno, lloviendo, nevando o a temperaturas bajo cero, lo que explica por qué las ciudades están tan bien equipadas. Los carriles bici de Alemania bordean casi todas las calles, y para muchos de sus habitantes la bici es el principal medio de desplazamiento. Los conductores han crecido junto a ellos, por lo que, aunque el riesgo depende de la situación, rara vez se siente que estés jugando con la seguridad. 
@@ -134,14 +134,14 @@ La burocracia es lenta y muy exigente. Incluso hoy en día hay muchos trámites 
 Aunque desde hace algunos años se está mejorando un poco en este aspecto, la verdad es que Alemania no hace una gran inversión en alumbrado público sino que prefiere ahorrar reduciendo el gasto energético y las calles y carreteras pueden resultar oscuras de noche. Hay a quien le incomoda.
 
 ## Los impuestos son altos
-El [coste de los impuestos](/post/impuestos) puede llegar hasta el 40% o 45%. Aunque la mayoría de los trabajos están muy bien pagados, a tus ingresos netos tendrás que restarles una parte importante en impuestos, que abarcan áreas incluso como impuestos por tener mascotas, por pertenecer a una religión, y hasta una tarifa de radio y TV obligatoria. Estos impuestos, no obstante, cubren una gran cantidad de servicios de los que todos nos beneficiamos.
+El [coste de los impuestos](/post/impuestos-alemania) puede llegar hasta el 40% o 45%. Aunque la mayoría de los trabajos están muy bien pagados, a tus ingresos netos tendrás que restarles una parte importante en impuestos, que abarcan áreas incluso como impuestos por tener mascotas, por pertenecer a una religión, y hasta una tarifa de radio y TV obligatoria. Estos impuestos, no obstante, cubren una gran cantidad de servicios de los que todos nos beneficiamos.
 
 ## El sistema de transporte público es un poco caro
 El precio de los billetes de transporte público puede considerarse elevado. Por ejemplo, un billete sencillo en Berlín cuesta 3,80€ en 2026.
 
 ## No es tan fácil encontrar piso
 Hay una crisis habitacional, sobre todo en ciudades populares como Berlín, Múnich, Hamburgo y Colonia, las ciudades más pobladas del país. Debido a que hay mucha demanda y poca oferta, hay que cumplir bastantes requisitos para conseguir una vivienda a un precio razonable. Se consigue pero se tarda y requiere esfuerzo.
-Para saber más, visita esta [guía y consejos para encontrar piso](/post/encontrar-piso).
+Para saber más, visita esta [guía y consejos para encontrar piso](/post/alquilar-piso-alemania).
 
 ## La gastronomía
 La comida no es el punto fuerte de Alemania. Aunque existe una gran variedad de platos tradicionales que se deben probar y son muy ricos, es cierto que se suelen basar en unos pocos ingredientes como patatas, embutidos, cebolla, pan, repollo y carne de cerdo. Hay que decir que no es una zona donde se hayan desarrollado grandes platos a lo largo de la historia, básicamente por el clima, ni tampoco ocupa un lugar muy importante para los alemanes, ¡muy diferente de otras culturas! Sin embargo, llegan ingredientes de todos lugares y se puede comer prácticamente comida de todo el mundo sin problemas.
@@ -158,4 +158,4 @@ Relacionado con el punto anterior sobre las normas y lo estrictos que pueden res
 
 ¡Espero que hayas despejado tus dudas sobre buenas razones para vivir en Alemania! Alemania es un país que ofrece una alta calidad de vida, por eso, a pesar de las desventajas, merece la pena considerarlo.
 
-Si quieres seguir aprendiendo sobre temas relacionados, puede que te interese nuestro artículo sobre [cuál es mejor lugar para vivir en Alemania](/post/ciudades).
+Si quieres seguir aprendiendo sobre temas relacionados, puede que te interese nuestro artículo sobre [cuál es mejor lugar para vivir en Alemania](/post/mejores-ciudades-alemania).

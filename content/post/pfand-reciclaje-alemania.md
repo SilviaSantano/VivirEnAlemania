@@ -62,6 +62,6 @@ No sólo en botellas y envases se utiliza este sistema y esta palabra. Con mucha
 
 Para conocer más sobre cómo funciona el sistema de Pfand en Alemania en detalle, puedes hacer click [aquí](https://dpg-pfandsystem.de/en/).
 
-Si quieres saber más curiosidades sobre Alemania, visita nuestros otros artículos como, por ejemplo, cómo funciona el [mercado de segunda mano](/post/mercado-segunda-mano), cuántos [festivos](/post/festivos) hay o cómo son las [propinas](/post/propinas).
+Si quieres saber más curiosidades sobre Alemania, visita nuestros otros artículos como, por ejemplo, cómo funciona el [mercado de segunda mano](/post/mercado-segunda-mano-alemania), cuántos [festivos](/post/festivos-alemania) hay o cómo son las [propinas](/post/propinas-en-alemania).
 
 Así que, ya sabes: no tires el dinero, ¡devuelve las botellas!

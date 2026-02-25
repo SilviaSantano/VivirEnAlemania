@@ -47,11 +47,11 @@ Una cosa en la que siempre tienes que pensar y confirmar con las personas con la
 
 !["Fiesta de música techno en discoteca de Colonia"](/img/fiesta_techno_koeln.jpg "Fiesta de música techno en discoteca de Colonia")
 
-Sí que es verdad que puede haber pequeñas diferencias de horarios entre las distintas [ciudades de Alemania](/post/ciudades) pero a rasgos generales los horarios serían más o menos así con pequeñas variaciones.
+Sí que es verdad que puede haber pequeñas diferencias de horarios entre las distintas [ciudades de Alemania](/post/mejores-ciudades-alemania) pero a rasgos generales los horarios serían más o menos así con pequeñas variaciones.
 
 Y hasta aquí este resumen sobre cómo son los horarios en Alemania. En general, va todo adelantado si lo comparamos con España. 
 
-Si quieres saber más sobre [cuál es el mejor lugar para vivir en Alemania](/post/ciudades), cómo elegir una [cuenta de banco](/post/cuenta-banco), o [qué impuestos se pagan](/post/impuestos), visita nuestros otros artículos.
+Si quieres saber más sobre [cuál es el mejor lugar para vivir en Alemania](/post/mejores-ciudades-alemania), cómo elegir una [cuenta de banco](/post/cuenta-banco-alemania), o [qué impuestos se pagan](/post/impuestos-alemania), visita nuestros otros artículos.
 
 ¡Espero que hayas aprendido sobre los horarios en Alemania!
 

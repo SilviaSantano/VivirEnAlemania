@@ -87,4 +87,4 @@ Aquí tienes enlaces a toda la información actualizada sobre los mercados de na
 
 ¡Espero que hayas disfrutado de este recorrido por los hermosos mercados de navidad y te animes a venir a conocerlos!
 
-Si quieres saber más sobre costumbres alemanas, no te pierdas nuestros otros artículos como, por ejemplo, sobre [razones para vivir en Alemania](/post/razones-para-vivir-en-alemania) o sobre [dónde vivir en Alemania](/post/ciudades).
+Si quieres saber más sobre costumbres alemanas, no te pierdas nuestros otros artículos como, por ejemplo, sobre [razones para vivir en Alemania](/post/razones-vivir-alemania) o sobre [dónde vivir en Alemania](/post/mejores-ciudades-alemania).
