@@ -1,14 +1,14 @@
 ---
-title: "Steuerklassen: clases de impuestos en Alemania"
-subtitle: "¿Cómo funciona el sistema fiscal alemán?"
+title: "Steuerklassen: Guía de las Clases de Impuestos en Alemania"
+subtitle: "Cómo elegir tu clase fiscal para pagar menos impuestos (solteros y parejas)"
 date: 2024-05-02
 lastmod: 2026-01-21
 tags:        ["Finanzas", "Burocracia"]
 categories:  ["Trabajo", "Burocracia y finanzas", "Todos"]
-description:  "¿Qué son las Steuerklassen en Alemania? Descubre cómo las clases fiscales afectan a tus impuestos, opciones para parejas y cómo cambiar tu clase fiscal en Alemania. 🇩🇪"
+description:  "Aprende qué son las Steuerklassen y cómo afectan a tu salario neto. Guía para cambiar de clase fiscal y pagar menos impuestos en Alemania."
 ---
 
-# Categorías o clases fiscales en Alemania: *Steuerklassen*
+## ¿Cómo funciona el sistema de clases fiscales alemán (*Steuerklassen*)?
 ¿Estás trabajando o te gustaría trabajar en Alemania? Entonces es muy importante que entiendas cómo funciona el sistema de impuestos alemán y sus clases impositivas. Quizá hayas oído hablar de las *Steuerklassen* o categorías fiscales. Este concepto es importante, ya que tiene un gran efecto en los [impuestos](/post/impuestos) que tienes que pagar. Concretamente, en los impuestos sobre la renta (IRPF). Si quieres saber más sobre los impuestos que se pagan en Alemania, en [este artículo](/post/impuestos) los explico en detalle.
 
 En Alemania existen seis categorías, clases o tramos fiscales: *Steuerklassen*. Estar en una u otra depende, principalmente, de tu situación personal y familiar, es decir, tu estado civil y si tienes hijos/as o no. Generalmente, una persona puede cambiar de una a otra cuando se produce un cambio importante o bien en sus ingresos o bien en sus circunstancias vitales, tales como casarse o tener hijos. Al principio, parece un sistema muy complejo pero, una vez que lo entiendes, no es para tanto. 

@@ -1,14 +1,14 @@
 ---
-title: "¿Cuántos impuestos se pagan en Alemania?"
-subtitle: "Estos son los impuestos en Alemania en 2026"
+title: "Impuestos en Alemania 2026: Guía de Retenciones y Salario"
+subtitle: "IRPF, Seguridad Social y cómo calcular tu salario neto"
 date: 2025-04-26
 lastmod: 2026-01-21
 tags:        ["Finanzas", "Burocracia"]
 categories:  ["Vida diaria", "Burocracia y finanzas", "Trabajo", "Todos"]
-description:  "Guía completa sobre los impuestos en Alemania en 2026, retenciones salariales, coste de la seguridad social en Alemania, IRPF, y más. Descubre todos los impuestos y cómo calcular el salario neto en Alemania."
+description:  "Entiende el sistema fiscal alemán. 📑 Descubre qué impuestos pagas en tu nómina, las retenciones de seguridad social y cómo calcular lo que recibirás a fin de mes."
 ---
 
-# ¿Qué impuestos se pagan en Alemania en 2026?
+## ¿Cuántos impuestos se pagan en Alemania realmente de tu sueldo?
 ¿Estás trabajando o te gustaría trabajar en Alemania? Algo importante que tienes que saber es que si ganas dinero en Alemania, tu ingreso estará sujeto a diferentes tipos de deducciones como, por ejemplo, el impuesto sobre la renta, la cuota de la seguridad social o los seguros de pensiones y de desempleo, entre otros. 
 
 Alemania ofrece muchos apoyos y ayudas sociales en el caso de que los ciudadanos/as se queden sin trabajo, caigan enfermos o necesiten otras ayudas en situaciones  como el nacimiento de los hijos. Para poder pagar todo esto, la otra cara de la moneda es que en Alemania se pagan **muchos impuestos**, que son las fuentes de ingresos más importantes para el Estado, con la que financia gastos para el bien común. Este podría ser un artículo en el que me quejo del complejo sistema fiscal, de lo altos que son los impuestos y de las leyes alemanas en general y bla, bla, bla. En lugar de eso (quizá otro día ya lo haré) voy a dedicarlo a describirlos **detalladamente** para que tengas bien claro cuáles son todos los impuestos que se tienen que pagar en Alemania. Además, como ya ves, es mucho lo que el Estado ofrece a cambio.

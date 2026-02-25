@@ -1,14 +1,14 @@
 ---
-title: "Días festivos en Alemania"
-subtitle: "¿Cuántos días festivos hay en Alemania?"
+title: "Calendario de Días Festivos en Alemania"
+subtitle: "Festivos nacionales y regionales: ¿Cuántos días libres hay en cada Bundesland?"
 date: 2025-10-29
 lastmod: 2026-01-21
 tags:        ["Ocio", "Cultura", "Trabajo", "Tiempo libre"]
 categories:  ["Vida diaria", "Cultura", "Trabajo", "Todos"]
-description:  "¿Cuántos días festivos hay en Alemania? 🇩🇪 Exploramos los festivos nacionales y regionales. Descubre los días libres y de descanso en cada región de Alemania, los Bundesländer."
+description:  "Consulta todos los días festivos en Alemania para 2026. 📅 Planifica tus puentes y descubre qué días son no laborables en tu región (Bundesland)."
 ---
 
-# ¿Cuántos días festivos hay en Alemania?
+## Todos los días no laborables y festivos regionales alemanes
 Quizá alguna vez te hayas preguntado cuántos días festivos al año hay en Alemania y cuáles son. Sí, hay varios en común con otros países pero también hay muchas diferencias.
 
 Lo primero que hay que aclarar es que son los *Bundesländer* (estados federados, o regiones autonómicas) los que fijan los festivos de cada región y que aunque hay algunos que son compartidos entre todos, otros son específicos de cada estado.

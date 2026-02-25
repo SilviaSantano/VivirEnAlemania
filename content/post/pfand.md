@@ -1,14 +1,14 @@
 ---
-title: "El Pfand en Alemania"
-subtitle: "Pfandsystem: cómo funciona el reciclaje de envases alemán"
+title: "Guía del Pfand en Alemania: Cómo Reciclar y Recuperar el Dinero"
+subtitle: "Símbolos, precios y el sistema de depósito alemán (Pfandsystem)"
 date: 2024-07-11
 lastmod: 2026-01-21
 tags:        ["Vida", "Reciclaje"]
 categories:  ["Cultura", "Vida diaria", "Todos"]
-description:  "¿Sabías que en Alemania se paga un depósito (Pfand) por los envases? Así funciona el Pfand o sistema de reciclaje de envases alemán."
+description:  "No tires tus botellas: en Alemania valen dinero. ♻️ Aprende cómo funciona el sistema de Pfand, qué envases se devuelven y cuánto dinero recuperas por cada uno en el supermercado."
 ---
 
-# **Pfand**: cómo funciona el reciclaje de envases en Alemania
+## Todo sobre el sistema de reciclaje de botellas y latas alemán
 ¿Sabías que en Alemania **las botellas y latas usadas se devuelven** para reutilizarse o reciclarse y, al hacerlo, te devuelven una parte del importe pagado?
 
 En Alemania, la ley de depósito para envases, conocida como **Pfand**, se implementa desde enero de 2003.
