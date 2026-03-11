@@ -18,7 +18,7 @@ Al principio, abrir una cuenta bancaria puede parecer algo difícil para muchos 
 Antes de nada:
 
 ## ¿Para qué necesitas una cuenta bancaria alemana?
-Es necesario abrir una cuenta alemana si quieres vivir y trabajar en Alemania ya que la vas a necesitar para pagar el alquiler, recibir un salario (ya que el empleador por lo general te va a pedir un IBAN alemán para ingresarte la nómina), obtener un seguro médico, inscribirte como autónomo, [cobrar el paro](/post/paro-alemania-arbeitslosengeld) (si es tu caso) y otras gestiones. 
+Es necesario abrir una cuenta alemana si quieres vivir y [trabajar en Alemania](/post/trabajar-en-alemania), ya que la vas a necesitar para pagar el [alquiler](/post/alquilar-piso-alemania), recibir un salario (ya que el empleador por lo general te va a pedir un IBAN alemán para ingresarte la nómina), obtener un seguro médico, inscribirte como autónomo, [cobrar el paro](/post/paro-alemania-arbeitslosengeld) (si es tu caso) y otras gestiones. 
 
 ## Qué tipos de cuentas bancarias hay en Alemania
 Los bancos alemanes ofrecen distintos tipos de cuentas, que tienen diferentes propósitos:
@@ -149,7 +149,7 @@ Lamentablemente, Alemania se moderniza muy lentamente en muchos aspectos y este 
 
 Cuando quieras y puedas pagar con tarjeta, solamente tendrás que decir "*Mit Karte, bitte!*" (con tarjeta, por favor) a la hora de pagar. Incluso si quieres dejar una [propina](/post/propinas-en-alemania) también se puede hacer con tarjeta.
 
-Si quieres saber más sobre el [coste de vida en Alemania](/post/costo-vida-alemania) o [qué impuestos se pagan](/post/impuestos-alemania), visita nuestros otros artículos.
+Si quieres saber más sobre el [coste de vida en Alemania](/post/costo-vida-alemania), las [ventajas y desventajas](/post/razones-vivir-alemania) de vivir en Alemania o [qué impuestos se pagan](/post/impuestos-alemania), visita nuestros otros artículos.
 
 Hasta aquí esta explicación sobre los tipos de cuentas bancarias disponibles en Alemania y cómo abrir una cuenta. ¡Espero que te haya servido!
 

@@ -174,3 +174,5 @@ Si quieres trabajar en Alemania como autónomo/a, deberás informarte muy bien s
 Por ejemplo, deberás escribir una factura por cada encargo que realices y también tendrás la obligación de llevar una contabilidad de todos los ingresos y gastos. Cada año deberás entregar a hacienda una declaración de impuestos (independientemente de si has tenido ganancias o no), ya que si no entregas ninguna declaración de impuestos, hacienda llevará a cabo una estimación de tus ingresos y esto te puede resultar muy caro. También tendrás que ocuparte de contratar tu seguro médico obligatorio.
 
 ¡Esperamos que esta guía te haya ayudado a comprender cómo es trabajar en Alemania! Si tienes más dudas que no has conseguido resolver, no dudes en ponerte en contacto a través de los comentarios.
+
+Visita el resto de artículos para conocer las [ventajas y desventajas](/post/razones-vivir-alemania) de vivir en Alemania o esta [guía y consejos para encontrar piso](/post/alquilar-piso-alemania).

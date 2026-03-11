@@ -21,6 +21,8 @@ No se puede hablar de segunda mano sin hablar del absoluto rey indiscutible de l
 
 Es especialmente práctico para muebles, pudiendo amueblar tu casa por muy poco dinero pero mucho estilo escogiendo las mejores gangas, electrónica (teléfonos, ordenadores y electrodomésticos), libros, ropa, menaje de hogar, bicicletas...
 
+Por cierto, si quieres saber todos los consejos para [encontrar casa en Alemania](/post/alquilar-piso-alemania), visita nuestro artículo.
+
 Una vez encuentres el artículo que buscas, sólo ponte el contacto con el vendedor/a para cerrar la compra-venta y acordar la recogida ¡y no tengas miedo de negociar el precio! Es totalmente normal pedir una rebaja. El tono es generalmente informal.
 
 Otra opción que comentamos sólo para completar pero no recomendamos es Facebook Marketplace para la compraventa de muebles, decoración y otros artículos para el hogar. Aunque la plataforma es grande, la usabilidad de la página es pésima, lo que hace la experiencia de usuario muy muy decepcionante.

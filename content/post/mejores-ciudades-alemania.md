@@ -12,7 +12,7 @@ aliases:
 ---
 
 ## ¿Dónde vivir en Alemania? Análisis de las principales ciudades alemanas
-Alemania, con más de 84 millones de habitantes, es el **país más poblado de la Unión Europea** en 2026. Es un país que ofrece a sus habitantes una **alta calidad de vida**, ya que cuenta con un sólido sistema de bienestar, buenas oportunidades y condiciones laborales, seguridad, estabilidad económica y una buena conciliación familiar. De hecho, se encuentra entre las naciones con jornadas de trabajo más cortas y más vacaciones y días festivos en el mundo. Todo esto la convierte en un gran lugar para vivir, estudiar y trabajar.  
+Alemania, con más de 84 millones de habitantes, es el **país más poblado de la Unión Europea** en 2026. Es un país que ofrece a sus habitantes una **alta calidad de vida**, ya que cuenta con un sólido sistema de bienestar, buenas oportunidades y condiciones laborales, seguridad, estabilidad económica y una buena conciliación familiar. De hecho, se encuentra entre las naciones con jornadas de trabajo más cortas y más vacaciones y días festivos en el mundo. Todo esto la convierte en un [gran lugar para vivir, estudiar y trabajar](/post/razones-vivir-alemania).  
 
 En las últimas décadas, esta nación centroeuropea ha llamado la atención de muchos ciudadanos de otros países, convirtiéndose con ello en un destino popular para los inmigrantes. Según [datos de 2021](https://www.tatsachen-ueber-deutschland.de/en/migration-and-integration), de sus 83 millones de habitantes, el número de personas con origen migratorio y pasaporte alemán asciende a más de 22 millones y el número de personas con pasaportes extranjeros registrados a casi 11 millones. Estos inmigrantes, a su vez, también hacen una contribución importante al desarrollo social y económico del país, y su diversidad ofrece una variada vida cultural y social. 
 
@@ -39,7 +39,7 @@ Alemania se divide en 403 distritos (*Kreise*) a nivel municipal, de los cuales 
 
 El país cuenta con 80 grandes ciudades (de más de 100.000 habitantes, de las cuales sólo cuatro superan el millón de habitantes: Berlín, Hamburgo, Múnich y Colonia), 618 ciudades medianas (de entre 20.000 y 99.999 habitantes) y 1584 ciudades pequeñas. 
 
-Las grandes ciudades alemanas están bien posicionadas en las clasificaciones sobre calidad de vida por ofrecer buenos lugares de [trabajo](post/trabajar-en-alemania), un medio ambiente sano, bajo nivel de delincuencia, mucha oferta cultural y de ocio y buenas conexiones de transporte público. Es por estos motivos que, al igual que sucede en muchos otros países, a lo largo de las últimas décadas se ha producido una gran migración de las zonas menos desarrolladas y rurales a las ciudades. 
+Las grandes ciudades alemanas están bien posicionadas en las clasificaciones sobre calidad de vida por ofrecer buenos lugares de [trabajo](/post/trabajar-en-alemania), un medio ambiente sano, bajo nivel de delincuencia, mucha oferta cultural y de ocio y buenas conexiones de transporte público. Es por estos motivos que, al igual que sucede en muchos otros países, a lo largo de las últimas décadas se ha producido una gran migración de las zonas menos desarrolladas y rurales a las ciudades. 
 
 No obstante, el gobierno federal apuesta por garantizar buenas condiciones de vida para las personas de todas las nacionalidades en todo el territorio alemán, tanto en la ciudad como en el campo, y presta apoyo específico a las regiones afectadas con paquetes de medidas orientadas al empleo, la movilidad y la infraestructura. 
 
@@ -174,7 +174,7 @@ Leipzig es conocida por ser una ciudad asequible en comparación con otras grand
 Dortmund es una ciudad industrial en el oeste de Alemania y se encuentra entre las más baratas para vivir en el país. El alquiler de viviendas y los gastos diarios son más bajos en comparación con las principales ciudades alemanas.
 
 ### Bremen
-Bremen es una de las ciudades alemanas con más encanto medieval. Cada año, miles de expatriados deciden buscar [trabajo](post/trabajar-en-alemania) y establecer su residencia en esta apacible y organizada urbe del norte del país. Bremen es uno de los centros líderes en investigación marina, polar y del cambio climático. Además, se destaca por albergar importantes laboratorios dedicados a la tecnología espacial.
+Bremen es una de las ciudades alemanas con más encanto medieval. Cada año, miles de expatriados deciden buscar [trabajo](/post/trabajar-en-alemania) y establecer su residencia en esta apacible y organizada urbe del norte del país. Bremen es uno de los centros líderes en investigación marina, polar y del cambio climático. Además, se destaca por albergar importantes laboratorios dedicados a la tecnología espacial.
 
 !["Estación central de Bremen"](/img/bremen.jpg "Estación central de Bremen")
 

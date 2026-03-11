@@ -16,7 +16,7 @@ Quizá alguna vez te hayas preguntado cuántos días festivos al año hay en Ale
 
 Lo primero que hay que aclarar es que son los *Bundesländer* (estados federados, o regiones autonómicas) los que fijan los festivos de cada región y que aunque hay algunos que son compartidos entre todos, otros son específicos de cada estado.
 
-Está prohibido trabajar los días festivos. Existe una prohibición general de empleo, aunque hay algunas excepciones, y en lo que respecta a las aulas, también son días no lectivos.
+Está prohibido [trabajar](/post/trabajar-en-alemania) los días festivos. Existe una prohibición general de empleo, aunque hay algunas excepciones, y en lo que respecta a las aulas, también son días no lectivos.
 
 ## Días festivos en todo el territorio federal de Alemania
 El único día festivo nacional decretado por el gobierno federal es el **Día de la Unidad Alemana**. El **3 de octubre** fue la fecha elegida para este día, ya que en 1990 la RDA se adhirió a la Ley Fundamental. Fue establecido como día festivo nacional por el Tratado de Unificación y forma parte del simbolismo nacional de la República Federal de Alemania. El resto de días festivos los determina cada estado federal.

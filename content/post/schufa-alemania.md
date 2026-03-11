@@ -12,7 +12,7 @@ aliases:
 ---
 
 ## Para qué sirve la *SCHUFA* y cómo afecta a tu vida en Alemania
-Cuando vives en Alemania, existen muchas situaciones en las que oyes la palabra ***Schufa***. El caso más común es que te la pidan en procesos como el de alquilar o comprar una vivienda o pedir un préstamo, entre otros, pero, ¿qué es eso de la *Schufa*? ¿Cómo la puedes obtener? ¿Hace falta solicitar la SCHUFA?
+Cuando vives en Alemania, existen muchas situaciones en las que oyes la palabra ***Schufa***. El caso más común es que te la pidan en procesos como el de [alquilar o comprar una vivienda](/post/alquilar-piso-alemania) o pedir un préstamo, entre otros, pero, ¿qué es eso de la *Schufa*? ¿Cómo la puedes obtener? ¿Hace falta solicitar la SCHUFA?
 
 Schufa es una contracción en alemán que viene de *Schutzgemeinschaft für allgemeine Kreditsicherung* (obvio, ¿qué va ser si no? :wink:), que se traduciría como "asociación para la protección general del crédito". La [Schufa Holding AG](https://www.schufa.de/en/index.jsp) es, por lo tanto, un servicio de **protección de crédito** y tiene como objetivo proteger a sus clientes de riesgos de crédito y de insolvencia de sus prestatarios.
 
@@ -52,6 +52,6 @@ Los datos empiezan a registrarse en varias situaciones, tales como cuando realiz
 ## En resumen: qué es la SCHUFA y por qué es importante
 Resumiendo, en Alemania, mantener una buena **reputación crediticia es sumamente importante**, ya que se toman muy en serio tu historial para saber si eres un buen pagador o no. La *Schufa* es un informe donde se certifica que no tenemos ninguna **deuda pendiente** en Alemania y, por lo general, son los bancos y los propietarios de vivendas o empresas inmobiliarias quienes solicitan saber la puntuación que da este informe para ver si tienes pagos pendientes o deudas a tu nombre y si eres un cliente o inquilino de confianza. Cuando pides un préstamo a un banco, esta puntuación también va a determinar, por ejemplo, las tasas de interés.
 
-Si quieres saber más sobre [cuál es el mejor lugar para vivir en Alemania](/post/mejores-ciudades-alemania) o el [coste de vida en Alemania](/post/costo-vida-alemania), visita nuestros otros artículos.
+Si quieres saber más sobre [cuál es el mejor lugar para vivir en Alemania](/post/mejores-ciudades-alemania), las [ventajas y desventajas](/post/razones-vivir-alemania) de vivir en Alemania o el [coste de vida en Alemania](/post/costo-vida-alemania), visita nuestros otros artículos.
 
 Hasta aquí toda la información sobre la *Schufa* en Alemania y cómo obtenerla. ¡Espero que te haya servido!

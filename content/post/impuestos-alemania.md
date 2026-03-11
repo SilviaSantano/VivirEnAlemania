@@ -12,7 +12,7 @@ aliases:
 ---
 
 ## ¿Cuántos impuestos se pagan en Alemania realmente de tu sueldo?
-¿Estás trabajando o te gustaría trabajar en Alemania? Algo importante que tienes que saber es que si ganas dinero en Alemania, tu ingreso estará sujeto a diferentes tipos de deducciones como, por ejemplo, el impuesto sobre la renta, la cuota de la seguridad social o los seguros de pensiones y de desempleo, entre otros. 
+¿Estás trabajando o te gustaría [trabajar en Alemania](/post/trabajar-en-alemania)? Algo importante que tienes que saber es que si ganas dinero en Alemania, tu ingreso estará sujeto a diferentes tipos de deducciones como, por ejemplo, el impuesto sobre la renta, la cuota de la seguridad social o los seguros de pensiones y de desempleo, entre otros. 
 
 Alemania ofrece muchos apoyos y ayudas sociales en el caso de que los ciudadanos/as se queden sin trabajo, caigan enfermos o necesiten otras ayudas en situaciones  como el nacimiento de los hijos. Para poder pagar todo esto, la otra cara de la moneda es que en Alemania se pagan **muchos impuestos**, que son las fuentes de ingresos más importantes para el Estado, con la que financia gastos para el bien común. Este podría ser un artículo en el que me quejo del complejo sistema fiscal, de lo altos que son los impuestos y de las leyes alemanas en general y bla, bla, bla. En lugar de eso (quizá otro día ya lo haré) voy a dedicarlo a describirlos **detalladamente** para que tengas bien claro cuáles son todos los impuestos que se tienen que pagar en Alemania. Además, como ya ves, es mucho lo que el Estado ofrece a cambio.
 
@@ -81,7 +81,7 @@ El seguro de dependencia o *Pflegeversicherung* también es obligatorio para pr�
 Como en todos los otros casos, a contribución para los asegurados del **seguro de dependencia** se calcula en base a sus ingresos. La tasa general de cotización en 2026 es del 3,6% del salario bruto, de los cuales el empleado y el empleador pagan cada uno la mitad. Es decir, al trabajador el seguro de dependencia le cuesta el **1,8% de su salario**. 
 
 ## Coste del seguro de desempleo en Alemania (Arbeitslosenversicherung)
-El **seguro de desempleo** o *Arbeitslosenversicherung* también es obligatorio para prácticamente todos los trabajadores con muy pocas excepciones y su fin es cubrir prestaciones por desempleo (paro) cuando las personas se quedan sin trabajo.
+El **seguro de desempleo** o *Arbeitslosenversicherung* también es obligatorio para prácticamente todos los trabajadores con muy pocas excepciones y su fin es cubrir [prestaciones por desempleo (paro)](/post/paro-alemania-arbeitslosengeld) cuando las personas se quedan sin trabajo.
 
 Como en todos los otros casos, a contribución para los asegurados se calcula en base a sus ingresos. La tasa general de cotización en 2026 es del 2,6% del salario bruto, de los cuales el empleado y el empleador pagan cada uno la mitad. Es decir, al trabajador el seguro de desempleo le cuesta el **1,3% de su salario**.  
 
@@ -148,6 +148,8 @@ Todos esos impuestos se los van a descontar automáticamente de su nómina antes
 Ahora que ya has leído la versión ultra-mega-corta con el super-resumen y el caso práctico de Juanita, ya entiendes mucho mejor de qué va la cosa. Si tienes dudas y quieres saber más ahora que te sientes más preparado/a vuelve a leer el resto del artículo.
 
 La página del ministerio de finanzas tiene un [artículo sobre los impuestos](https://www.bundesfinanzministerium.de/Content/DE/Standardartikel/Service/Leichte_Sprache/steuern.html) en *leichte Sprache*, es decir, en alemán pero en alemán muy sencillo para que sea fácil de entender por todos que te puede ser de ayuda.
+
+Visita nuestro artículo sobre el trabajo para resolver todas tus dudas sobre [trabajar en Alemania](/post/trabajar-en-alemania).
 
 Quizá te interese también conocer cómo funciona el [sistema de clases fiscales](/post/steuerklassen-clases-fiscales) o el [paro en Alemania](/post/paro-alemania-arbeitslosengeld). En esta guía te explicamos cómo funciona y qué requisitos hacen falta para solicitarlo. 
 
