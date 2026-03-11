@@ -4,6 +4,7 @@ theme = "cleanwhite"
 enableEmoji = true
 canonifyURLs = true
 relativeURLs = false
+enableRobotsTXT = true
 
 defaultContentLanguage = "es" # Set Spanish as the default language
 [languages]

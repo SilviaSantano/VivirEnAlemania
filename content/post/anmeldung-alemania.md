@@ -47,7 +47,7 @@ Para el empadronamiento en las principales ciudades de Alemania, utiliza estos e
 * [Colonia](https://www.stadt-koeln.de/service/produkte/00415/index.html) (En español)
 * [Frankfurt](https://frankfurt.de/leistungen/Umzug-8958631/Abmeldungen-Ummeldungen-Anmeldungen-8958634/Anmeldung-einer-Wohnung) (En español)
 * [Munich](https://stadt.muenchen.de/service/info/wohnsitz-anmelden-oder-ummelden/1063475/n0/) (Lamentablemente, la página oficial sólo está en alemán)
-* [Hamburgo](https://www.hamburg.com/welcome/entry-residence/general-regulations/11725242/registration/) (En inglés)
+* [Hamburgo](https://www.hamburg.com/publicservice/info/111202449/n0/) (En inglés)
 * [Düsseldorf](https://service.duesseldorf.de/suche/-/egov-bis-detail/dienstleistung/227/show) (Lamentablemente, la página oficial sólo está en alemán)
 * [Stuttgart](https://www.stuttgart.de/organigramm/leistungen/wohnsitz-anmelden-als-hauptwohnsitz.php) (Lamentablemente, la página oficial sólo está en alemán)
 

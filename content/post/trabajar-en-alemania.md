@@ -53,7 +53,7 @@ Para la búsqueda de empleo te recomendamos usar los siguientes métodos:
 - Online: 
     - El portal oficial de la agencia federal de empleo alemana es la [Bundesagentur für Arbeit](https://web.arbeitsagentur.de)
     - Los portales de empleo más usados en Alemania:
-        - [LinkedIn](http://www.linkedin.com/)
+        - [LinkedIn](https://www.linkedin.com/)
         - [XING](https://www.xing.com/)
         - [Indeed](https://indeed.com/)
         - [Stepstone](https://www.stepstone.de/)
