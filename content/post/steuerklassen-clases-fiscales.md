@@ -41,7 +41,7 @@ Sí se puede. Por ejemplo, cuando te casas, se os deben asignar por defecto las 
 
 Hasta hace poco solo se podía hacer un cambio al año pero, actualmente, se puede cambiar tantas veces como se quiera. En el caso de cambiar de *Steuerklasse* en caso de que te hayas casado, es posible que necesites una traducción jurada de tu certificado de matrimonio, si no está en alemán.
 
-!["Alemania tiene muchos lugares preciosos como este, Heidelberg"](/img/heidelberg.jpg "Alemania tiene muchos lugares preciosos como este, Heidelberg") 
+!["Alemania tiene muchos lugares preciosos como este, Heidelberg"](/img/heidelberg.webp "Alemania tiene muchos lugares preciosos como este, Heidelberg") 
 
 ## ¿Por qué es tan complicado es el sistema de categorías fiscales para personas casadas en Alemania?
 Las parejas casadas (o parejas de hecho registradas) en Alemania presentan una declaración de impuestos conjunta, incluso si sus impuestos están bajo diferentes niveles impositivos y eligen entre dos posibilidades:

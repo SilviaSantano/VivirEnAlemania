@@ -77,7 +77,7 @@ Vivir en Alemania es mucho más que sólo trabajar y hacer papeleo. Entiende su 
 
 ---
 
-!["Heidelberg"](/img/heidelberg.jpg "Heidelberg") 
+!["Heidelberg"](/img/heidelberg.webp "Heidelberg") 
 
 ## 👋 Únete a la Comunidad
 **Vivir en Alemania** es un proyecto vivo creado por y para la comunidad hispana. 
