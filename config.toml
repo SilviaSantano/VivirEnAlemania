@@ -29,7 +29,7 @@ home = ["HTML", "RSS"] #, "Algolia"
 [params]
   header_image = "img/header_image_koeln.webp"
   SEOTitle = "Vivir en Alemania"
-  description = "Guía completa para Vivir en Alemania. Todo lo que necesitas saber explicado paso a paso en español y con consejos prácticos: trámites, trabajo, vivienda, impuestos y diferencias culturales."
+  description = "Guía completa para Vivir en Alemania. Todo lo que necesitas explicado paso a paso en español y con consejos prácticos: burocracia, trabajo, vivienda, impuestos y diferencias culturales."
   keyword = "Vivir en Alemania"
   #slogan = "Vivir en Alemania"
   upstreamAttribution = true
@@ -103,3 +103,34 @@ params = ["categories", "tags"]
     startLevel = 1
   [markup.highlight]
     style = "dracula"
+
+[HTTPCache]
+  respectCacheControlNoStoreInRequest = true
+  respectCacheControlNoStoreInResponse = false
+  [HTTPCache.cache]
+    [HTTPCache.cache.for]
+      excludes = ['**']
+  [[HTTPCache.polls]]
+    disable = true
+    high = '0s'
+    low = '0s'
+    [HTTPCache.polls.for]
+      includes = ['**']
+
+[caches]
+  # Keep processed images cached indefinitely
+  [caches.images]
+    dir = ':resourceDir/_gen/images'
+    maxAge = -1
+  # Cache JSON API responses for 1 hour
+  [caches.getjson]
+    dir = ':cacheDir/:project/json'
+    maxAge = 3600
+  # Cache remote resources for 24 hours
+  [caches.getresource]
+    dir = ':cacheDir/:project/resources'
+    maxAge = 86400  
+  # Cache assets for 24 hours
+  [caches.assets]
+    dir = ':resourceDir/_gen'
+    maxAge = 86400
