@@ -2,7 +2,7 @@
 title: "Calendario de Días Festivos en Alemania"
 subtitle: "Festivos nacionales y regionales: ¿Cuántos días libres hay en cada Bundesland?"
 date: 2025-10-29
-lastmod: 2026-01-21
+lastmod: 2026-03-11
 tags:        ["Ocio", "Cultura", "Trabajo", "Tiempo libre"]
 categories:  ["Vida diaria", "Cultura", "Trabajo", "Todos"]
 description:  "Consulta todos los días festivos en Alemania para 2026. 📅 Planifica tus puentes y descubre qué días son no laborables en tu región (Bundesland)."

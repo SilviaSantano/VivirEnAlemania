@@ -2,7 +2,7 @@
 title: "Horarios en Alemania: Trabajo, Comidas y Comercios"
 subtitle: "Guía de costumbres sociales alemanas y diferencias con España/LATAM"
 date: 2025-10-16
-lastmod: 2026-01-21
+lastmod: 2026-03-11
 tags:        ["Horarios", "Cultura", "Diferencias culturales"]
 categories:  ["Cultura", "Vida diaria", "Todos"]
 description:  "¿A qué hora se cena en Alemania? 🕒 Descubre los horarios comerciales, de trabajo y los hábitos sociales alemanes para adaptarte rápidamente a tu nueva vida."

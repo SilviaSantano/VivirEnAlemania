@@ -2,7 +2,7 @@
 title: "Steuerklassen: Guía de las Clases de Impuestos en Alemania"
 subtitle: "Cómo elegir tu clase fiscal para pagar menos impuestos (solteros y parejas)"
 date: 2024-05-02
-lastmod: 2026-01-21
+lastmod: 2026-03-11
 tags:        ["Finanzas", "Burocracia"]
 categories:  ["Trabajo", "Burocracia y finanzas", "Todos"]
 description:  "Aprende qué son las Steuerklassen y cómo afectan a tu salario neto. Guía para cambiar de clase fiscal y pagar menos impuestos en Alemania."

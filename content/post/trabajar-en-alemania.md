@@ -2,6 +2,7 @@
 title: "Cómo Trabajar en Alemania en 2026: Guía para Extranjeros/as"
 subtitle: "Requisitos, visados, búsqueda de empleo, condiciones laborales y consejos para encontrar empleo e integrarse"
 date: 2026-02-16
+lastmod: 2026-03-11
 tags:        ["Condiciones de vida", "Trabajo", "Dinero"]
 categories:  ["Vida diaria", "Trabajo", "Todos"]
 description: "¿Quieres trabajar en Alemania? 🇩🇪 Descubre los requisitos, tipos de visado, cómo conseguir empleo y condiciones laborales para profesionales extranjeros en 2026."
@@ -94,7 +95,7 @@ En Alemania existe un salario mínimo por ley que se debe abonar al trabajador/a
 
 En algunos sectores profesionales existen, además, salarios mínimos adicionales respectivos del sector. Entre estas ramas se encuentran por ejemplo la construcción, la limpieza de edificios y la asistencia a personas dependientes o enfermas.
 
-Este salario mínimo mencionado es el **salario bruto**, es decir, antes de impuestos y no es lo que te llega a tu cuenta cada mes. Para saber más sobre cuántos impuestos se pagan en Alemania y, por lo tanto, la diferencia entre bruto y neto, visita nuestro detallado [artículo sobre impuestos](/post/impuestos-alemania). La nómina debe de ser abonada a más tardar a mediados del mes siguiente al trabajado. Lo más común es que lo ingresen en tu cuenta corriente. También están obligados a extenderte cada mes una nómina, que pueden entregarte en mano, por correo postal o digitalmente, en la cual deberá figurar un desglose de cuánto has ganado y cuáles son las sumas que se descontaron en concepto de impuestos y seguros sociales. 
+Este salario mínimo mencionado es el **salario bruto**, es decir, antes de impuestos y no es lo que te llega a tu cuenta cada mes. Para saber más sobre cuántos impuestos se pagan en Alemania y, por lo tanto, la diferencia entre bruto y neto, visita nuestro detallado [artículo sobre impuestos](/post/impuestos-alemania). El salario debe ser abonado a más tardar a mediados del mes siguiente al trabajado. Lo más común es que lo ingresen en tu cuenta corriente. También están obligados a extenderte cada mes una nómina (recibo de sueldo), que pueden entregarte en mano, por correo postal o digitalmente, en la cual deberá figurar un desglose de cuánto has ganado y cuáles son las sumas que se descontaron en concepto de impuestos y seguros sociales. 
 
 Respecto a las diferencias salariales, científicos, médicos e ingenieros se encuentran entre los colectivos mejor pagados. No obstante, la remuneración en Alemania no depende únicamente de la profesión. También hay diferencias regionales de salarios. 
 

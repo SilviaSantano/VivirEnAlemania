@@ -2,7 +2,7 @@
 title: "Impuestos en Alemania 2026: Guía de Retenciones y Salario"
 subtitle: "Lohnsteuer (IRPF), Seguridad Social, IVA y otros impuestos y cómo calcular tu salario neto explicado fácil"
 date: 2025-04-26
-lastmod: 2026-01-21
+lastmod: 2026-03-11
 tags:        ["Finanzas", "Burocracia"]
 categories:  ["Vida diaria", "Burocracia y finanzas", "Trabajo", "Todos"]
 description:  "Entiende el sistema fiscal alemán. 📑 Descubre qué impuestos pagas en tu nómina, las retenciones de seguridad social y cómo calcular lo que recibirás a fin de mes."

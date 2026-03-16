@@ -2,7 +2,7 @@
 title: "¿Cuál es la Mejor Ciudad para Vivir en Alemania?"
 subtitle: "Comparativa de costes, trabajo y calidad de vida por ciudad"
 date: 2025-07-12
-lastmod: 2026-01-21
+lastmod: 2026-03-11
 tags:        ["Vida", "Vivienda", "Ciudades de Alemania"]
 categories:  ["Vida diaria", "Cultura", "Todos"]
 description: "¿Berlín, Múnich o Hamburgo? Analizamos las mejores ciudades de Alemania para trabajar y vivir según tus objetivos y presupuesto. 🇩🇪"

@@ -2,7 +2,7 @@
 title: "¿Qué es la SCHUFA en Alemania y Cómo Obtenerla Gratis?"
 subtitle: "Cómo conseguir el Bonitätsnachweis (historial crediticio) para alquilar casa o contratar servicios"
 date: 2024-05-03
-lastmod: 2026-01-21
+lastmod: 2026-03-11
 tags:        ["Finanzas", "Burocracia"]
 categories:  ["Vida diaria", "Burocracia y finanzas", "Todos"]
 description:  "Guía completa sobre la Schufa. Qué es, por qué la necesitas para alquilar un piso y cómo solicitar tu Schufa Bonitätsauskunft paso a paso."

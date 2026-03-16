@@ -2,7 +2,7 @@
 title: "Guía del Pfand en Alemania: Cómo Reciclar y Recuperar Dinero"
 subtitle: "Símbolos, precios y el sistema de depósito alemán (Pfandsystem)"
 date: 2024-07-11
-lastmod: 2026-01-21
+lastmod: 2026-03-04
 tags:        ["Vida", "Reciclaje"]
 categories:  ["Cultura", "Vida diaria", "Todos"]
 description:  "No tires tus botellas: en Alemania valen dinero. ♻️ Aprende cómo funciona el sistema de Pfand, qué envases se devuelven y cuánto dinero recuperas por cada uno en el supermercado."

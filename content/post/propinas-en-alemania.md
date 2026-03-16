@@ -2,7 +2,7 @@
 title: "Propinas en Alemania: ¿Son Obligatorias y Cuánto Dejar?"
 subtitle: "Guía de etiqueta en restaurantes, bares, taxis y servicios"
 date: 2024-07-11
-lastmod: 2026-01-21
+lastmod: 2026-03-04
 tags:        ["Vida"]
 categories:  ["Cultura", "Vida diaria", "Todos"]
 description:  "Evita situaciones incómodas. ☕ Descubre cuándo es costumbre dejar propina en Alemania, cómo se paga correctamente y las normas de cortesía alemanas."

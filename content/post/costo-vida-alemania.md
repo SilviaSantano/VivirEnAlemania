@@ -2,7 +2,7 @@
 title: "¿Cuánto Cuesta Vivir en Alemania en 2026?"
 subtitle: "Gastos mensuales: precios en alquiler, comida, transporte y ocio y cálculo del coste de vida en cada ciudad"
 date: 2024-08-12
-lastmod: 2026-01-21
+lastmod: 2026-03-11
 tags:        ["Finanzas"]
 categories:  ["Vida diaria", "Cultura", "Todos"]
 description:  "Guía actualizada sobre el costo de vida en Alemania. Comparamos precios con España y te ayudamos a calcular cuánto dinero necesitas al mes."

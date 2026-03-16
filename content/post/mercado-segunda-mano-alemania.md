@@ -2,7 +2,7 @@
 title: "Guía del Mercado de Segunda Mano en Alemania"
 subtitle: "Cómo comprar barato en Kleinanzeigen y mercadillos (Flohmärkte)"
 date: 2025-10-21
-lastmod: 2026-01-21
+lastmod: 2026-03-11
 tags:        ["Ocio", "Cultura", "Compras", "Tiempo libre"]
 categories:  ["Cultura", "Todos"]
 description:  "Ahorra dinero en Alemania comprando de segunda mano. 🚲 Aprende a usar Kleinanzeigen, encuentra las mejores gangas en muebles, ropa y coches en mercadillos."
