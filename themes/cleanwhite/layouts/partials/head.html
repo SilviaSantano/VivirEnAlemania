@@ -2,6 +2,9 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    {{ if .Params.robots }}
+    <meta name="robots" content="noindex, nofollow">
+    {{ end }}   
 
     <!-- start ogp -->
     <meta property="og:site_name" content="{{ .Site.Title }}">
@@ -14,8 +17,8 @@
     <meta property="og:image" content="{{ .Params.image }}">
     <meta property="twitter:image" content="{{ .Params.image }}" />
     {{ else }}
-    <meta property="og:image" content="{{ .Site.BaseURL }}/{{ .Site.Params.header_image }}">
-    <meta property="twitter:image" content="{{ .Site.BaseURL }}/{{ .Site.Params.header_image }}" />
+    <meta property="og:image" content="{{ .Site.BaseURL }}{{ .Site.Params.header_image }}">
+    <meta property="twitter:image" content="{{ .Site.BaseURL }}{{ .Site.Params.header_image }}" />
     {{ end }}
 
     {{ if .Site.Params.SEOTitle }}
@@ -47,6 +50,7 @@
 
     <meta name="keyword"  content="{{ .Site.Params.keyword }}">
     <link rel="preload" as="image" href="/img/header_image_koeln.webp" fetchpriority="high">
+    <link rel="icon" href="{{ "img/favicon.ico" | relURL }}">
     <link rel="shortcut icon" href="{{ "img/favicon.ico" | relURL }}">
 
     <title>
@@ -102,25 +106,35 @@
     {{ end }}
 
     <!-- Schema Markup-->
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "WebSite",
-        "name": "Vivir en Alemania",
-        "alternateName": "Guía para Vivir en Alemania",
-        "url": "https://vivirenalemania.es/",
-        "description": "Guía completa para Vivir en Alemania. Todo lo que necesitas explicado paso a paso en español y con consejos prácticos: burocracia, trabajo, vivienda, impuestos y diferencias culturales.",
-        "inLanguage": "es-ES",
-        "publisher": {
-            "@type": "Organization",
-            "name": "Vivir en Alemania",
-            "logo": {
-            "@type": "ImageObject",
-            "url": "https://vivirenalemania.es/img/header_image_koeln.webp"
-            }
+        <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "Article",
+            "name": "{{ .Title }}",
+            "headline": "{{ .Title }} | {{ .Site.Params.SEOTitle -}}",
+            "alternateName": "{{- if .Params.Subtitle }}{{ .Params.Subtitle }}{{- else }}Vivir en Alemania{{- end }}",
+            "url": "{{ if .IsNode }}{{ .Paginator.URL | absURL }}{{ else }}{{ .Permalink }}{{ end }}",
+            "description": "{{- if .Description }}{{ .Description }}{{- else }}{{ .Site.Params.Description }}{{- end }}",
+            "inLanguage": "es-ES",
+            "image": "https://vivirenalemania.es/img/header_image_koeln.webp",
+            "author": {
+                "@type": "Person",
+                "name": "Silvia S.",
+                "url": "https://vivirenalemania.es/about/"
+            },
+            "publisher": {
+                "@type": "Organization",
+                "name": "Vivir en Alemania",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": "https://vivirenalemania.es/img/favicon.ico"
+                }
+            },
+            "email": "info@vivirenalemania.es",
+            "datePublished": "{{ .Date }}",
+            "dateModified": "{{ .Lastmod }}"
         }
-    }
-    </script>
+        </script>
 
 </head>
 

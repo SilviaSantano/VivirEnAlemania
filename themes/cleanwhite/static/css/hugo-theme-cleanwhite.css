@@ -64,7 +64,10 @@ body{
     line-height:1.7;
     font-size:17px;
     color:#404040;
-    overflow-x:hidden
+    overflow-x:hidden;
+
+    display: flex;
+    flex-direction: column;
 }
 p{
     margin:30px 0
@@ -89,6 +92,7 @@ a img:hover,a img:focus{
 }
 article{
     overflow:hidden;
+    flex: 1 0 auto;
 }
 blockquote{
     color:gray;
@@ -546,8 +550,15 @@ pre code{
 }
 footer{
     font-size:20px;
-    padding:50px 0 65px
+    padding:20px 0 20px;
+    background-color: #f2cb7e;
+    position: relative; /* Change from 'fixed' or 'absolute' if present */
+    clear: both;        /* Ensures it stays below floated elements */
+    width: 100%;
+    z-index: 1;
+    flex-shrink: 0;
 }
+
 footer .list-inline{
     margin:0;
     padding:0

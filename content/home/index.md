@@ -19,7 +19,7 @@ aliases:
 **¿Estás pensando en mudarte a Alemania pero la burocracia y el idioma te asustan?** 
 Has llegado al lugar indicado. Alemania es una de las economías más sólidas del mundo, y ofrece amplia oferta de empleo, buenas condiciones, seguridad y una calidad de vida envidiable, pero aterrizar aquí puede ser un laberinto si no tienes la información correcta.
 
-En **Vivir en Alemania** te contamos la realidad: lo bueno, lo malo y todos los consejos prácticos y trucos que sólo aprendes cuando ya llevas tiempo aquí. Es una guía práctica creada por y para españoles y latinos que quieren vivir y trabajar en este país. **Todo lo que tienes que saber para empezar tu vida en Alemania, en español**.
+En **Vivir en Alemania** te contamos la realidad: lo bueno, lo malo y todos los consejos prácticos y trucos que sólo aprendes cuando ya llevas tiempo aquí. Es una guía práctica creada basándose en vivencias personales y experiencia 100% real para españoles y latinos que quieren vivir y trabajar en este país. **Todo lo que tienes que saber para empezar tu vida en Alemania, en español**.
 
 ---
 

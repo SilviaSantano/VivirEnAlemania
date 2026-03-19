@@ -1,4 +1,6 @@
 User-agent: *
 Disallow: /search/
+Disallow: /impressum/
+Disallow: /datenschutz/
 
 Sitemap: https://www.vivirenalemania.es/sitemap.xml

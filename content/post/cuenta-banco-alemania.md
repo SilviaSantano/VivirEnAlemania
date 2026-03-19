@@ -5,7 +5,7 @@ date: 2024-04-24
 lastmod: 2026-03-11
 tags:        ["Bancos", "Burocracia", "Finanzas", "Dinero"]
 categories:  ["Vida diaria", "Burocracia y finanzas", "Todos"]
-description:  "¿Necesitas una cuenta alemcon IBAN alelmán? 💳 Comparamos los mejores bancos, comisiones y requisitos para abrir tu cuenta bancaria en Alemania siendo extranjero."
+description:  "¿Necesitas una cuenta con IBAN alemán? 💳 Comparamos los mejores bancos, comisiones y requisitos para abrir tu cuenta bancaria en Alemania siendo extranjero."
 aliases:
     - /post/cuenta-banco
     - /post/cuenta-banco/

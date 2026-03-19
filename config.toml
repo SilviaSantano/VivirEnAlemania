@@ -35,7 +35,7 @@ home = ["HTML", "RSS"] #, "Algolia"
   upstreamAttribution = true
 
   tags = ["Blog", "Responsive", "Light"]
-  features = ["responsive", "comments", "sidebar"] #search
+  features = ["responsive", "sidebar"] #search
   featured_tags = true 
   featured_condition_size = 0
   catalog = true
@@ -59,7 +59,7 @@ home = ["HTML", "RSS"] #, "Algolia"
 
   [params.social]
   #rss            = true 
-  #email          = "youremail@gmail.com"
+  email          = "info@vivirenalemania.es"
   #facebook      = "full profile url in facebook"
   #googleplus    = "full profile url in googleplus"
   #twitter       = "full profile url in twitter"
