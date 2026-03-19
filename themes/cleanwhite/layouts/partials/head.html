@@ -18,10 +18,10 @@
     <meta property="twitter:image" content="{{ .Site.BaseURL }}/{{ .Site.Params.header_image }}" />
     {{ end }}
 
-    {{ if .Params.title }}
-    <meta name="title" content="{{ .Params.title }}" />
-    <meta property="og:title" content="{{ .Params.title }}" />
-    <meta property="twitter:title" content="{{ .Params.title }}" />
+    {{ if .Site.Params.SEOTitle }}
+    <meta name="title" content="{{ .Site.Params.SEOTitle }}" />
+    <meta property="og:title" content="{{ .Site.Params.SEOTitle }}" />
+    <meta property="twitter:title" content="{{ .Site.Params.SEOTitle }}" />
     {{ else }}
     <meta name="title" content="{{ .Site.Params.title }}" />
     <meta property="og:title" content="{{ .Site.Params.title }}" />
@@ -100,6 +100,27 @@
     {{ range .Site.Params.custom_js }}
     <script src="{{ . | absURL }}"></script>
     {{ end }}
+
+    <!-- Schema Markup-->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "Vivir en Alemania",
+        "alternateName": "Guía para Vivir en Alemania",
+        "url": "https://vivirenalemania.es/",
+        "description": "Guía completa para Vivir en Alemania. Todo lo que necesitas explicado paso a paso en español y con consejos prácticos: burocracia, trabajo, vivienda, impuestos y diferencias culturales.",
+        "inLanguage": "es-ES",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Vivir en Alemania",
+            "logo": {
+            "@type": "ImageObject",
+            "url": "https://vivirenalemania.es/img/header_image_koeln.webp"
+            }
+        }
+    }
+    </script>
 
 </head>
 
