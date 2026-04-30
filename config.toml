@@ -28,8 +28,8 @@ home = ["HTML", "RSS"] #, "Algolia"
 
 [params]
   header_image = "img/header_image_koeln.webp"
-  SEOTitle = "Vivir en Alemania: Guía Práctica para Emigrar y Trabajar"
-  description = "Guía completa para Vivir en Alemania. Todo lo que necesitas explicado paso a paso en español y con consejos prácticos: burocracia, trabajo, vivienda, impuestos y diferencias culturales."
+  SEOTitle = "Vivir en Alemania: Guía Completa para Emigrar y Trabajar"
+  description = "Guía completa para vivir en Alemania 🇩🇪: burocracia, trabajo, vivienda, impuestos y diferencias culturales, con consejos prácticos para españoles y latinos."
   keyword = "Vivir en Alemania"
   #slogan = "Vivir en Alemania"
   upstreamAttribution = true

@@ -21,15 +21,21 @@
     <meta property="twitter:image" content="{{ .Site.BaseURL }}{{ .Site.Params.header_image }}" />
     {{ end }}
 
-    {{ if .Site.Params.SEOTitle }}
-    <meta name="title" content="{{ .Site.Params.SEOTitle }}" />
-    <meta property="og:title" content="{{ .Site.Params.SEOTitle }}" />
-    <meta property="twitter:title" content="{{ .Site.Params.SEOTitle }}" />
-    {{ else }}
-    <meta name="title" content="{{ .Site.Params.title }}" />
-    <meta property="og:title" content="{{ .Site.Params.title }}" />
-    <meta property="twitter:title" content="{{ .Site.Params.title }}" />
-    {{ end }}
+    {{- if .IsHome -}}
+        {{ if .Site.Params.SEOTitle }}
+        <meta name="title" content="{{ .Site.Params.SEOTitle }}" />
+        <meta property="og:title" content="{{ .Site.Params.SEOTitle }}" />
+        <meta property="twitter:title" content="{{ .Site.Params.SEOTitle }}" />
+        {{ else }}
+        <meta name="title" content="{{ .Site.Params.title }}" />
+        <meta property="og:title" content="{{ .Site.Params.title }}" />
+        <meta property="twitter:title" content="{{ .Site.Params.title }}" />
+        {{ end }}
+    {{- else -}}
+        <meta name="title" content="{{- .Title -}}| {{ .Site.Params.SEOTitle -}}" />
+        <meta property="og:title" content="{{- .Title -}}| {{ .Site.Params.SEOTitle -}}" />
+        <meta property="twitter:title" content="{{- .Title -}}| {{ .Site.Params.SEOTitle -}}" />
+    {{- end -}}
 
     {{ if .Params.description }}
     <meta name="description" content="{{ .Params.description }}">

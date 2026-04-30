@@ -7,6 +7,7 @@ description: "Guía definitiva para vivir en Alemania 🇩🇪: Trámites de ext
 ---
 
 ## Einsatz von Cookies
+Política de cookies (Versión en español después de la versión alemana).
 
 Unter dem Begriff „Cookies" werden Funktionen, die Informationen auf Endgeräten der Nutzer speichern und aus ihnen auslesen, verstanden. Cookies können ferner in Bezug auf unterschiedliche Anliegen Einsatz finden, etwa zu Zwecken der Funktionsfähigkeit, der Sicherheit und des Komforts von Onlineangeboten sowie der Erstellung von Analysen der Besucherströme. Wir verwenden Cookies gemäß den gesetzlichen Vorschriften. Dazu holen wir, wenn erforderlich, vorab die Zustimmung der Nutzer ein. Ist eine Zustimmung nicht notwendig, setzen wir auf unsere berechtigten Interessen. Dies gilt, wenn das Speichern und Auslesen von Informationen unerlässlich ist, um ausdrücklich angeforderte Inhalte und Funktionen bereitstellen zu können. Dazu zählen etwa die Speicherung von Einstellungen sowie die Sicherstellung der Funktionalität und Sicherheit unseres Onlineangebots. Die Einwilligung kann jederzeit widerrufen werden. Wir informieren klar über deren Umfang und welche Cookies genutzt werden.
 
@@ -25,7 +26,7 @@ Unter dem Begriff „Cookies" werden Funktionen, die Informationen auf Endgerät
 
 ---
 
-## Uso de cookies
+## Política de cookies
 
 El término «cookies» se refiere a funciones que almacenan y leen información en los dispositivos de los usuarios. Las cookies también se pueden utilizar para diversos fines, como garantizar la funcionalidad, la seguridad y la facilidad de uso de los servicios en línea, así como analizar el tráfico de visitantes. Utilizamos cookies de conformidad con la normativa legal vigente. Cuando es necesario, obtenemos el consentimiento de los usuarios previamente. Si no se requiere consentimiento, nos basamos en nuestros intereses legítimos. Esto se aplica cuando el almacenamiento y la lectura de información son esenciales para proporcionar el contenido y las funciones solicitadas explícitamente. Esto incluye, por ejemplo, guardar la configuración y garantizar la funcionalidad y seguridad de nuestros servicios en línea. El consentimiento puede revocarse en cualquier momento. Proporcionamos información clara sobre el alcance del consentimiento y las cookies que utilizamos.
 

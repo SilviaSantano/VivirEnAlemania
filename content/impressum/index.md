@@ -8,6 +8,8 @@ robots: "noindex"
 ---
 
 ## Impressum
+Aviso legal (Versión en español después de la versión alemana).
+
 
 **Angaben gemäß § 5 TMG:**
 
@@ -22,3 +24,20 @@ E-Mail: [info@vivirenalemania.es](mailto:info@vivirenalemania.es)
 Silvia S.
 
 Hinweis: Dies ist ein rein privater, nicht-kommerzieller Blog.
+
+## Aviso legal 
+
+
+**Responsable:**
+
+Silvia S.
+
+**Contacto:**
+
+E-Mail: [info@vivirenalemania.es](mailto:info@vivirenalemania.es)
+
+**Responsable por el contenido:**
+
+Silvia S.
+
+Nota: Este es un blog puramente privado y sin fines comerciales.

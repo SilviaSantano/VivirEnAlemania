@@ -4,7 +4,7 @@ subtitle: "Todo lo que necesitas para emigrar, encontrar trabajo y entender la b
 date: 2025-11-06
 lastmod: 2026-02-21
 layout: page
-description: "Guía definitiva para vivir en Alemania 🇩🇪: Trámites de extranjería, búsqueda de empleo, alquiler de vivienda e impuestos. Todo lo que necesitas saber explicado paso a paso en español y con consejos prácticos para españoles y latinos."
+description: "Guía completa para vivir en Alemania 🇩🇪: burocracia, trabajo, vivienda, impuestos y diferencias culturales, con consejos prácticos para españoles y latinos."
 aliases:
     - /home
     - /home/home
@@ -50,7 +50,7 @@ Alemania busca talento extranjero y pagan muy buenos salarios, pero el mercado l
 ## 🏠 Vivienda y Estilo de Vida
 Encontrar un techo en ciudades como Berlín o Múnich puede llegar a ser todo un reto. Te ayudamos a encontrar el apartamento que buscas.
 
-* **[Guía para encontrar piso](/post/alquilar-piso-alemania):** Porque no basta con saber cuáles son los portales de pisos de alquiler. Lo que necesitas son consejos de primera mano sobre el proceso y los trucos que te ayudarán a conseguirlo
+* **[Guía completa para alquilar piso](/post/alquilar-piso-alemania):** Porque no basta con saber cuáles son los portales de pisos de alquiler. Lo que necesitas son consejos de primera mano sobre el proceso y los trucos que te ayudarán a conseguirlo
 * **[Las Mejores Ciudades](/post/mejores-ciudades-alemania):** ¿Dónde vivir según tu perfil profesional y estilo de vida?
 * **[Coste de Vida Real](/post/costo-vida-alemania):** ¿Cuánto dinero se necesita realmente para vivir en Alemania?
 
