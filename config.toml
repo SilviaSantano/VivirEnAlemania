@@ -103,6 +103,10 @@ params = ["categories", "tags"]
     startLevel = 1
   [markup.highlight]
     style = "dracula"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+ignoreLogs = ['warning-goldmark-raw-html']
 
 [HTTPCache]
   respectCacheControlNoStoreInRequest = true
