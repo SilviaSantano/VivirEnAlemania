@@ -61,6 +61,9 @@
                 col-md-10 col-md-offset-1
                 post-container">
                 {{ .Content }}
+                <span>
+                Artículo escrito por: <a href="/about">Silvia</a>
+                </span>
 
                 {{ if .Site.Params.reward }}
                 {{ partial "reward.html" . }}
