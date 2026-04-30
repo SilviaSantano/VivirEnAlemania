@@ -20,6 +20,9 @@
                 </div>
             {{ else }}
                 {{ .Content }}
+                <span>
+                Artículo escrito por: <a href="/about">Silvia</a>
+                </span>
             {{ end }}
             
             {{ if ne .Params.lastmod .Params.Date}}
