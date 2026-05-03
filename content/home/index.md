@@ -12,6 +12,10 @@ aliases:
     - /home/
     - /home/home/
     - /home/index/
+    - /Me
+    - /me
+    - /Me/
+    - /me/
 ---
 
 ## Vivir en Alemania: tu guía paso a paso para emigrar con éxito
