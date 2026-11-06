@@ -23,18 +23,18 @@
 
     {{- if .IsHome -}}
         {{ if .Site.Params.SEOTitle }}
-        <meta name="title" content="{{ .Site.Params.SEOTitle }}" />
-        <meta property="og:title" content="{{ .Site.Params.SEOTitle }}" />
-        <meta property="twitter:title" content="{{ .Site.Params.SEOTitle }}" />
+        <meta name="title" content="{{ .Site.Params.SEOTitle }}{{ .Site.Params.SEOSubtitle -}}" />
+        <meta property="og:title" content="{{ .Site.Params.SEOTitle }}{{ .Site.Params.SEOSubtitle -}}" />
+        <meta property="twitter:title" content="{{ .Site.Params.SEOTitle }}{{ .Site.Params.SEOSubtitle -}}" />
         {{ else }}
         <meta name="title" content="{{ .Site.Params.title }}" />
         <meta property="og:title" content="{{ .Site.Params.title }}" />
         <meta property="twitter:title" content="{{ .Site.Params.title }}" />
         {{ end }}
     {{- else -}}
-        <meta name="title" content="{{- .Title -}}| {{ .Site.Params.SEOTitle -}}" />
-        <meta property="og:title" content="{{- .Title -}}| {{ .Site.Params.SEOTitle -}}" />
-        <meta property="twitter:title" content="{{- .Title -}}| {{ .Site.Params.SEOTitle -}}" />
+        <meta name="title" content="{{ .Title }} | {{ .Site.Params.SEOTitle }}" />
+        <meta property="og:title" content="{{ .Title }} | {{ .Site.Params.SEOTitle }}" />
+        <meta property="twitter:title" content="{{ .Title }} | {{ .Site.Params.SEOTitle }}" />
     {{- end -}}
 
     {{ if .Params.description }}
@@ -61,7 +61,7 @@
 
     <title>
     {{- if .IsHome -}}
-        {{ .Site.Params.SEOTitle }}
+        {{ .Site.Params.SEOTitle }}{{ .Site.Params.SEOSubtitle -}}
     {{- else -}}
         {{- .Title -}}
         {{- if .IsNode -}}
